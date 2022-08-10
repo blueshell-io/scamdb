@@ -1985,7 +1985,7 @@
 		{
 			"scams": null,
 			"original": {
-				"url": "https://sushiswap.fi/",
+				"url": "https://sushi.com/",
 				"address": "",
 				"collection": "",
 				"title": "Sushiswap"
@@ -2287,6 +2287,681 @@
 				"address": "",
 				"collection": "",
 				"title": "Inverse Finance"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://betafinance.org/",
+				"address": "",
+				"collection": "",
+				"title": "Beta Finance"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://pickle.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Pickle Finance"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://truefi.io/",
+				"address": "",
+				"collection": "",
+				"title": "Truefi"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://umaproject.org/",
+				"address": "",
+				"collection": "",
+				"title": "UMA"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://gnosis.io/",
+				"address": "",
+				"collection": "",
+				"title": "Gnosis"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://dfx.finance/",
+				"address": "",
+				"collection": "",
+				"title": "DFX"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://barnbridge.com/",
+				"address": "",
+				"collection": "",
+				"title": "BarnBridge"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://shellprotocol.io/",
+				"address": "",
+				"collection": "",
+				"title": "Shell"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://insurace.io/",
+				"address": "",
+				"collection": "",
+				"title": "InsurAce"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://www.pendle.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Pendle"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://ddex.io/",
+				"address": "",
+				"collection": "",
+				"title": "DDEX"
+			}
+		},
+		   {
+			"scams": null,
+			"original": {
+				"url": "https://app.cream.finance/swap",
+				"address": "",
+				"collection": "",
+				"title": "C.R.E.A.M. Finance Swap"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://1inch.exchange/",
+				"address": "",
+				"collection": "",
+				"title": "1inch Liquidity Protocol"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://erasure.world/",
+				"address": "",
+				"collection": "",
+				"title": "Erasure"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://wepiggy.com/",
+				"address": "",
+				"collection": "",
+				"title": "WePiggy"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://bifi.finance/",
+				"address": "",
+				"collection": "",
+				"title": "BiFi"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://alchemix.fi/",
+				"address": "",
+				"collection": "",
+				"title": "Alchemix Finance"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "http://rari.capital/",
+				"address": "",
+				"collection": "",
+				"title": "Rari Capital"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://www.hegic.co/",
+				"address": "",
+				"collection": "",
+				"title": "Hegic"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://www.gammastrategies.org/",
+				"address": "",
+				"collection": "",
+				"title": "Gamma"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://boringdao.com/",
+				"address": "",
+				"collection": "",
+				"title": "BoringDAO"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://dforce.network/",
+				"address": "",
+				"collection": "",
+				"title": "dForce"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://xtoken.market/",
+				"address": "",
+				"collection": "",
+				"title": "xToken"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://warp.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Warp Finance"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://premia.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Premia Finance"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://idex.io/",
+				"address": "",
+				"collection": "",
+				"title": "Idex"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://integral.link/",
+				"address": "",
+				"collection": "",
+				"title": "Integral"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://mcdex.io/",
+				"address": "",
+				"collection": "",
+				"title": "MCDEX"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://opium.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Opium"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://cvault.finance/",
+				"address": "",
+				"collection": "",
+				"title": "CoreVault"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://derivadex.com/",
+				"address": "",
+				"collection": "",
+				"title": "DerivaDEX"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://clipper.exchange/",
+				"address": "",
+				"collection": "",
+				"title": "Clipper"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://wing.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Wing Finance"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://www.augur.net/",
+				"address": "",
+				"collection": "",
+				"title": "Augur"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://piedao.org/",
+				"address": "",
+				"collection": "",
+				"title": "PieDAO"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://onx.finance/",
+				"address": "",
+				"collection": "",
+				"title": "OnX Finance"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://cryptex.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Cryptex"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://swerve.fi/",
+				"address": "",
+				"collection": "",
+				"title": "Swerve"
+			}
+		}, 
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://bzx.network/",
+				"address": "",
+				"collection": "",
+				"title": "bZx"
+			}
+		}, 
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://tranche.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Tranche"
+			}
+		},
+		 		  {
+			"scams": null,
+			"original": {
+				"url": "https://snowswap.org/",
+				"address": "",
+				"collection": "",
+				"title": "Snowswap"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://compli.fi/",
+				"address": "",
+				"collection": "",
+				"title": "CompliFi"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://coverprotocol.com/",
+				"address": "",
+				"collection": "",
+				"title": "Cover Protocol"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://connext.network/",
+				"address": "",
+				"collection": "",
+				"title": "Connext"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://powerindex.io/",
+				"address": "",
+				"collection": "",
+				"title": "PowerPool"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://yaxis.io/",
+				"address": "",
+				"collection": "",
+				"title": "yAxis"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://88mph.app/",
+				"address": "",
+				"collection": "",
+				"title": "88mph"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://conv.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Convergence"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://valuedefi.io/",
+				"address": "",
+				"collection": "",
+				"title": "Value DeFi"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://futureswap.com/",
+				"address": "",
+				"collection": "",
+				"title": "Futureswap"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://peakdefi.com/",
+				"address": "",
+				"collection": "",
+				"title": "PeakDeFi"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://rulerprotocol.com/",
+				"address": "",
+				"collection": "",
+				"title": "Ruler Protocol"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://volmex.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Volmex"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://sirenmarkets.com/",
+				"address": "",
+				"collection": "",
+				"title": "Siren"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://lien.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Lien"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://unitrade.app/",
+				"address": "",
+				"collection": "",
+				"title": "UniTrade"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://swarm.markets/",
+				"address": "",
+				"collection": "",
+				"title": "Swarm Markets"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://impermax.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Impermax"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://domani.com/",
+				"address": "",
+				"collection": "",
+				"title": "Domani"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://valuedefi.io/",
+				"address": "",
+				"collection": "",
+				"title": "Value DeFi"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://www.pods.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Pods"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://for.tube/",
+				"address": "",
+				"collection": "",
+				"title": "Fortube"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://dfi.money/",
+				"address": "",
+				"collection": "",
+				"title": "YFII Finance"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://cvi.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Crypto Volatility Index"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://nsure.network/",
+				"address": "",
+				"collection": "",
+				"title": "Nsure"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://auctus.org/",
+				"address": "",
+				"collection": "",
+				"title": "Auctus"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://s.finance/",
+				"address": "",
+				"collection": "",
+				"title": "S.Finance"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://primitive.finance/",
+				"address": "",
+				"collection": "",
+				"title": "Primitive"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://dyp.finance/",
+				"address": "",
+				"collection": "",
+				"title": "DeFi Yield Protocol"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://defirex.org/",
+				"address": "",
+				"collection": "",
+				"title": "DeFireX"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://staked.us/v/robo-advisor-yield/",
+				"address": "",
+				"collection": "",
+				"title": "Robo-Advisor for Yield"
+			}
+		},
+		 {
+			"scams": null,
+			"original": {
+				"url": "https://definer.org/",
+				"address": "",
+				"collection": "",
+				"title": "DeFiner"
+			}
+		},
+		 		 {
+			"scams": null,
+			"original": {
+				"url": "https://synthetix.io/",
+				"address": "",
+				"collection": "",
+				"title": "Synthetix"
+			}
+		},
+		 	 {
+			"scams": null,
+			"original": {
+				"url": "https://qian.finance/home",
+				"address": "",
+				"collection": "",
+				"title": "QIAN"
+			}
+		},
+		  {
+			"scams": null,
+			"original": {
+				"url": "https://www.dhedge.org/",
+				"address": "",
+				"collection": "",
+				"title": "dHEDGE"
 			}
 		}
 	]
