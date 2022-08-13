@@ -13,6 +13,13 @@
         "title": "doodles"
       },
       "fake": ["doodlesraffle"]
+    },
+    {
+      "original": {
+        "username" : "Memeland",
+        "title": "Memeland"
+      },
+      "fake": ["ThePotatozNFT"]
     }
   ]
 }
