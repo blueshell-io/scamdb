@@ -1588,6 +1588,24 @@
       {
          "scams":null,
          "original":{
+            "url":"https://www.memeland.com/",
+            "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
+            "collection":"https://opensea.io/collection/thepotatoz",
+            "title":"The Potatoz"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://grow.memeland.com/",
+            "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
+            "collection":"https://opensea.io/collection/thepotatoz",
+            "title":"The Potatoz"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://www.rareapepeyachtclub.com/",
             "address":"0x31d45de84fde2fb36575085e05754a4932dd5170",
             "collection":"https://opensea.io/collection/rareapepeyachtclub",
@@ -1897,7 +1915,7 @@
       {
          "scams":null,
          "original":{
-            "url":"https://uniswap.io/",
+            "url":"https://uniswap.org/",
             "address":"",
             "collection":"",
             "title":"Uniswap"
@@ -2014,7 +2032,7 @@
       {
          "scams":null,
          "original":{
-            "url":"https://sushiswap.fi/",
+            "url":"https://sushi.com/",
             "address":"",
             "collection":"",
             "title":"Sushiswap"
