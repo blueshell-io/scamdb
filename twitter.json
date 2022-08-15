@@ -23,6 +23,13 @@
     },
     {
       "original": {
+        "username" : "dfinzer",
+        "title": "Devin Finzer (dfinzer.eth)"
+      },
+      "fake": ["kouzycs"]
+    },
+    {
+      "original": {
         "username" : "CryptopunksNFTs",
         "title": "CryptoPunks"
       },
