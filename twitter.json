@@ -16,6 +16,13 @@
     },
     {
       "original": {
+        "username" : "RareApepeYC",
+        "title": "Rare Apepes"
+      },
+      "fake": ["RareApeYC"]
+    },
+    {
+      "original": {
         "username" : "Memeland",
         "title": "Memeland"
       },
