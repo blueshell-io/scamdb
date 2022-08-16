@@ -13,7 +13,7 @@
             "title":"doodles"
          },
          "fake":[
-            "doodlesraffle"
+            "doodlesraffle" , "doodeless"
          ]
       },
       {
@@ -31,7 +31,7 @@
             "title":"Memeland"
          },
          "fake":[
-            "ThePotatozNFT"
+            "ThePotatozNFT" , "nft_potatoz"
          ]
       },
       {
@@ -97,7 +97,7 @@
             "username":"coolcatsnft",
             "title":"Cool Cats"
          },
-         "fake":null
+         "fake": ["coolcatsnfs"]
       },
       {
          "original":{
