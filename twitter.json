@@ -13,7 +13,7 @@
             "title":"doodles"
          },
          "fake":[
-            "doodlesraffle"
+            "doodlesraffle" , "doodeless"
          ]
       },
       {
@@ -31,7 +31,7 @@
             "title":"Memeland"
          },
          "fake":[
-            "ThePotatozNFT"
+            "ThePotatozNFT" , "nft_potatoz"
          ]
       },
       {
@@ -97,7 +97,7 @@
             "username":"coolcatsnft",
             "title":"Cool Cats"
          },
-         "fake":null
+         "fake": ["coolcatsnfs"]
       },
       {
          "original":{
@@ -1734,6 +1734,83 @@
          "original":{
             "username":"franklinisbored",
             "title":"Franklin has 60 apes"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"womenapeyc",
+            "title":"Women Ape Yacht Club | Mint Paused"
+         },
+         "fake":null
+      },
+            {
+         "original":{
+            "username":"ladyapeclub",
+            "title":"Lady Ape Club (LAC)"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"RASC_WTF",
+            "title":"Rotten Anti Social Club / Sold Out"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"DigiDaigaku",
+            "title":"DigiDaigaku"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"notdittonft",
+            "title":"notditto"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"0xmons",
+            "title":"0̵̹̯̮͔̘͆̏̒̀̎̀̍͗̄͆̽̎̎̾̽x̸͕̞͇̱͙̭͆̊̽͐̆̚͝ͅṁ̶̒͑̉̾̏̀͐̈̚"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"BxhNft",
+            "title":"BXH The Foolish Child NFT"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"BeyondEarth_NFT",
+            "title":"Beyond Earth (SOLD OUT)"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"castaways_gg",
+            "title":"Castaways"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"CatBloxStudios",
+            "title":"CatBlox"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"goblintown",
+            "title":"goblintown.wtf"
          },
          "fake":null
       }

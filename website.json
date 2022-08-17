@@ -2374,6 +2374,114 @@
             "collection":"",
             "title":"Inverse Finance"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://rasc.wtf/",
+            "address":"0xDCb1cDFe2B5f592E7Bdc2696b7A68c6e866C4Cc2",
+            "collection":"https://opensea.io/collection/rotten-anti-social-club",
+            "title":"Rotten Anti Social Club"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://bpyc.wtf/",
+            "address":"0xb36598689f0bA71E96E163Ab15048C5Bd89c027C",
+            "collection":"https://opensea.io/collection/bpycwtf",
+            "title":"BPYC-Bored Panda yacht club"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://notditto.xyz/",
+            "address":"0x111508eDBeb2e906a40Fd92e8B4CFAffC606C6DD",
+            "collection":"https://opensea.io/collection/notditto",
+            "title":"NOT DITTO"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://0xmons.xyz/",
+            "address":"0x0427743DF720801825a5c82e0582B1E915E0F750",
+            "collection":"https://opensea.io/collection/0xmons-xyz",
+            "title":"0xmons"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://nft.bxh.com/",
+            "address":"0x158Fe5866B0F3F346844E81a95429AFDFa2BdF7a",
+            "collection":"https://opensea.io/collection/bxh",
+            "title":"BXH - The Foolish Child"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://beyondearthonline.io/",
+            "address":"0x28c6ea3F9cF9bC1a07A828fce1e7783261691B49",
+            "collection":"https://opensea.io/collection/beyond-earth-land",
+            "title":"Beyond Earth Land"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/predict-v2",
+            "title":"PREDICT V2"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://castaways.com/",
+            "address":"0x6AF88A2B51D37DD80B59CdA3aaac55eE34C6ea07",
+            "collection":"https://opensea.io/collection/castaways-the-raft",
+            "title":"Castaways - The Raft"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.catblox.xyz/",
+            "address":"0x8b8D1225bB21CA07812FF3c2ee9358f7b5d90EcA",
+            "collection":"https://opensea.io/collection/catbloxpumacapsule",
+            "title":"CatBlox X PUMA Capsule"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://ensmaxis.com/",
+            "address":"0xaa462106dA447C0440a4bE29614c19387a59A331",
+            "collection":"https://opensea.io/collection/ensmaxis",
+            "title":"ENS Maxis"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.co2zero.xyz/",
+            "address":"0x0710017F631eD6554DfC42FE2d46ad3600e85389",
+            "collection":"https://opensea.io/collection/theco2zeronftnew",
+            "title":"TheCo2ZeroNFT"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://goblintown.wtf/mcgoblin/",
+            "address":"0xc5B52253f5225835cc81C52cdb3d6A22bc3B0c93",
+            "collection":"https://opensea.io/collection/mcgoblinwtf",
+            "title":"mcgoblin.wtf"
+         }
       }
    ]
 }
