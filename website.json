@@ -2545,6 +2545,96 @@
             "collection":"https://opensea.io/collection/inferno-entities",
             "title":"Inferno Entities"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.genuineundead.com/",
+            "address":"0x209e639a0EC166Ac7a1A4bA41968fa967dB30221",
+            "collection":"https://opensea.io/collection/genuine-undead",
+            "title":"Genuine Undead"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://finiliar.com/",
+            "address":"0x5a0121A0A21232eC0D024dAb9017314509026480",
+            "collection":"https://opensea.io/collection/finiliar",
+            "title":"Finiliar"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://elpollitopio.wtf/",
+            "address":"0xaD1aA3C4d87BBBdA0f960777221F1fA522FC103f",
+            "collection":"https://opensea.io/collection/elpollitopio",
+            "title":"El Pollito Pio"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://babyrareapepeyc.xyz/",
+            "address":"0x1000b3bdc7FAeBB1FFfF9CEB65e54b6360c2D99d",
+            "collection":"https://opensea.io/collection/mutantbabyrareapepeyc",
+            "title":"Mutant Baby Rare Apepe YC"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/mirandus-vaults",
+            "title":"Mirandus Vaults"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://lilversenft.com/",
+            "address":"0x8E0F07454850198F089Ef10d083601a2a1644656",
+            "collection":"https://opensea.io/collection/lilverse",
+            "title":"lilverse"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"0xA29939f74C3e527C83011Fab972B09Ac68e71A47",
+            "collection":"https://opensea.io/collection/radicards",
+            "title":"RadiCards"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://cryptobilianft.com/",
+            "address":"0xfabE30e32eA8f9f7d297C6E3d6BDCf2D98C365E3",
+            "collection":"https://opensea.io/collection/cryptobiliagoats",
+            "title":"CRYPTOBILIA GOATS OFFICIAL"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://cryptobilianft.com/",
+            "address":"0xFFc1131dDA0299b804C97c436bC8cFeA019e00a0",
+            "collection":"https://opensea.io/collection/looki",
+            "title":"Looki"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://moonowlsnft.xyz/",
+            "address":"0x69CDc3245C714A6B99Cea9b43869e2B893a031Ad",
+            "collection":"https://opensea.io/collection/moon-owls-nft",
+            "title":"Moon Owls NFT"
+         }
       }
    ]
 }
