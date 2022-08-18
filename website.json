@@ -1649,7 +1649,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://potatoznft.com/?RID=P-TlYlq3H",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://www.rareapepeyachtclub.com/",
             "address":"0x31d45de84fde2fb36575085e05754a4932dd5170",
