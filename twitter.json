@@ -5,7 +5,9 @@
             "username":"OthersideMeta",
             "title":"OthersideMeta"
          },
-         "fake": [ "OthersideETH"]
+         "fake":[
+            "OthersideETH"
+         ]
       },
       {
          "original":{
@@ -13,7 +15,9 @@
             "title":"doodles"
          },
          "fake":[
-            "doodlesraffle" , "doodeless" , "doodIes_nfts"
+            "doodlesraffle",
+            "doodeless",
+            "doodIes_nfts"
          ]
       },
       {
@@ -31,7 +35,8 @@
             "title":"Memeland"
          },
          "fake":[
-            "ThePotatozNFT" , "nft_potatoz"
+            "ThePotatozNFT",
+            "nft_potatoz"
          ]
       },
       {
@@ -97,7 +102,9 @@
             "username":"coolcatsnft",
             "title":"Cool Cats"
          },
-         "fake": ["coolcatsnfs"]
+         "fake":[
+            "coolcatsnfs"
+         ]
       },
       {
          "original":{
@@ -111,7 +118,9 @@
             "username":"worldofwomennft",
             "title":"World of Women"
          },
-         "fake":["wordofwomennft"]
+         "fake":[
+            "wordofwomennft"
+         ]
       },
       {
          "original":{
@@ -1744,7 +1753,7 @@
          },
          "fake":null
       },
-            {
+      {
          "original":{
             "username":"ladyapeclub",
             "title":"Lady Ape Club (LAC)"
@@ -1779,21 +1788,21 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"BxhNft",
             "title":"BXH The Foolish Child NFT"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"BeyondEarth_NFT",
             "title":"Beyond Earth (SOLD OUT)"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"castaways_gg",
             "title":"Castaways"
@@ -1807,7 +1816,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"goblintown",
             "title":"goblintown.wtf"
@@ -1828,14 +1837,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Admit0001",
             "title":"Admit One"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Cosmic_Clones",
             "title":"Cosmic Clones"
@@ -1856,28 +1865,28 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"BabyRareApepeYC",
             "title":"Baby Rare Apepe YC 🐸 (MUTANT MINT IS LIVE)"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"lilverse_nft",
             "title":"lilverse 🤏 (SOLD OUT)"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"CryptobiliaNFT",
             "title":"Cryptobilia | SOLD OUT"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"LookiAvatar",
             "title":"LookiAvatar"
@@ -1890,6 +1899,6 @@
             "title":"Moon Owls NFT"
          },
          "fake":null
-      },
+      }
    ]
 }
