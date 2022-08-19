@@ -72,6 +72,15 @@
       {
          "scams":null,
          "original":{
+            "url":"https://www.foundingfrens.com/",
+            "address":"",
+            "collection":"https://ftx.us/nfts/collection/Founding%20Frens/25/1",
+            "title":"FoundingFrens"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://webaverse.com/",
             "address":"0x543D43F390b7d681513045e8a85707438c463d80",
             "collection":"https://opensea.io/collection/webaverse-genesis-pass",
@@ -238,7 +247,7 @@
                "url":"https://xn--doodes-s9a.com/",
                "address":"",
                "collection":""
-            },
+            }
          ],
          "original":{
             "url":"",
@@ -2386,7 +2395,7 @@
             "title":"Inverse Finance"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://rasc.wtf/",
@@ -2395,7 +2404,7 @@
             "title":"Rotten Anti Social Club"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"http://bpyc.wtf/",
@@ -2413,7 +2422,7 @@
             "title":"NOT DITTO"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://0xmons.xyz/",
@@ -2431,7 +2440,7 @@
             "title":"BXH - The Foolish Child"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://beyondearthonline.io/",
@@ -2440,7 +2449,7 @@
             "title":"Beyond Earth Land"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"",
@@ -2458,7 +2467,7 @@
             "title":"Castaways - The Raft"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://www.catblox.xyz/",
@@ -2476,7 +2485,7 @@
             "title":"ENS Maxis"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://www.co2zero.xyz/",
@@ -2485,7 +2494,7 @@
             "title":"TheCo2ZeroNFT"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://goblintown.wtf/mcgoblin/",
@@ -2494,7 +2503,7 @@
             "title":"mcgoblin.wtf"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://www.genuineundead.com/",
@@ -2503,7 +2512,7 @@
             "title":"Genuine Undead"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://cosmiccollective.xyz/cosmic-clones",
@@ -2512,7 +2521,7 @@
             "title":"Cosmic Clones"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://www.bellygom.world/",
@@ -2548,7 +2557,7 @@
             "title":"OG Portal NFT"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"",
@@ -2557,7 +2566,7 @@
             "title":"Inferno Entities"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://www.genuineundead.com/",
@@ -2566,7 +2575,7 @@
             "title":"Genuine Undead"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://finiliar.com/",
@@ -2575,7 +2584,7 @@
             "title":"Finiliar"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"http://elpollitopio.wtf/",
@@ -2593,7 +2602,7 @@
             "title":"Mutant Baby Rare Apepe YC"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"",
@@ -2602,7 +2611,7 @@
             "title":"Mirandus Vaults"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://lilversenft.com/",
@@ -2611,7 +2620,7 @@
             "title":"lilverse"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"",
@@ -2620,7 +2629,7 @@
             "title":"RadiCards"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://cryptobilianft.com/",
@@ -2629,7 +2638,7 @@
             "title":"CRYPTOBILIA GOATS OFFICIAL"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://cryptobilianft.com/",
@@ -2638,7 +2647,7 @@
             "title":"Looki"
          }
       },
-       {
+      {
          "scams":null,
          "original":{
             "url":"https://moonowlsnft.xyz/",
