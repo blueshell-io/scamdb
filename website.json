@@ -2655,6 +2655,87 @@
             "collection":"https://opensea.io/collection/moon-owls-nft",
             "title":"Moon Owls NFT"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/osrs-punks",
+            "title":"OSRS Punks"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://strxngers.me/",
+            "address":"0xe5B4D6B5F37cae9Dc4c7384cd97038CD0573d7D2",
+            "collection":"https://opensea.io/collection/strxngers",
+            "title":"Strxngers"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://bagholders.lol/",
+            "address":"0x444E68716daD3E3De014DD718dcE79B739403488",
+            "collection":"https://opensea.io/collection/bagholdersnft",
+            "title":"BagHoldersnft"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://kryptoria.io/",
+            "address":"0x63d85ec7B1561818Ec03E158ec125a4113038A00",
+            "collection":"https://opensea.io/collection/kryptoria-alphacitizens",
+            "title":"Kryptoria - Alpha Citizens"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://metamonopoly.org/",
+            "address":"0xE47E5dCDE8E14E874D2711e786bB34aE6980BeF8",
+            "collection":"https://opensea.io/collection/meta-monopoly",
+            "title":"Meta Monopoly"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://linktr.ee/Driftershoots",
+            "address":"0x509a050f573BE0D5E01a73C3726E17161729558B",
+            "collection":"https://opensea.io/collection/where-my-vans-go",
+            "title":"Where My Vans Go"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://cetsoncreck.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/cets-on-creck",
+            "title":"Cets on Creck"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.ninja-dao.com/cnp",
+            "address":"0x845a007D9f283614f403A24E3eB3455f720559ca",
+            "collection":"https://opensea.io/collection/cryptoninjapartners",
+            "title":"CryptoNinja Partners"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://es.ultiverse.io/",
+            "address":"0x3fD36d72f05fb1AF76EE7Ce9257ca850fAbA91ed",
+            "collection":"https://opensea.io/collection/ultiverse-electric-sheep",
+            "title":"Ultiverse - Electric Sheep"
+         }
       }
    ]
 }
