@@ -21,6 +21,48 @@
          }
       },
       {
+         "scams":null,
+         "original":{
+            "url":"https://metadrop.com/",
+            "address":"",
+            "collection":"",
+            "title":"Metadrop"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://strxngers.me/",
+            "address":"https://etherscan.io/address/0xe5b4d6b5f37cae9dc4c7384cd97038cd0573d7d2",
+            "collection":"https://opensea.io/collection/strxngers",
+            "title":"Stxngers"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://webaverse.com/",
+            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
+            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
+            "title":"Webaverse Genesis Drop"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://privatefoxes.free-airdrop.live/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://www.privatefoxes.com/",
+            "address":"",
+            "collection":"",
+            "title":"Private Foxes"
+         }
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -58,48 +100,6 @@
             "address":"",
             "collection":"https://opensea.io/collection/ladyapeclub5668",
             "title":"Lady Ape Club"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://metadrop.com/",
-            "address":"",
-            "collection":"",
-            "title":"Metadrop"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.foundingfrens.com/",
-            "address":"",
-            "collection":"https://ftx.us/nfts/collection/Founding%20Frens/25/1",
-            "title":"FoundingFrens"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://webaverse.com/",
-            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
-            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
-            "title":"Webaverse Genesis Drop"
-         }
-      },
-      {
-         "scams":[
-            {
-               "url":"https://privatefoxes.free-airdrop.live/",
-               "address":"",
-               "collection":""
-            }
-         ],
-         "original":{
-            "url":"https://www.privatefoxes.com/",
-            "address":"",
-            "collection":"",
-            "title":"Private Foxes"
          }
       },
       {
@@ -240,11 +240,6 @@
          "scams":[
             {
                "url":"https://meebits.mints-link.com/",
-               "address":"",
-               "collection":""
-            },
-            {
-               "url":"https://xn--doodes-s9a.com/",
                "address":"",
                "collection":""
             }
@@ -1642,30 +1637,6 @@
       {
          "scams":null,
          "original":{
-            "url":"https://www.memeland.com/",
-            "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
-            "collection":"https://opensea.io/collection/thepotatoz",
-            "title":"The Potatoz"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://grow.memeland.com/",
-            "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
-            "collection":"https://opensea.io/collection/thepotatoz",
-            "title":"The Potatoz"
-         }
-      },
-      {
-         "scams":[
-            {
-               "url":"https://potatoznft.com/?RID=P-TlYlq3H",
-               "address":"",
-               "collection":""
-            }
-         ],
-         "original":{
             "url":"https://www.rareapepeyachtclub.com/",
             "address":"0x31d45de84fde2fb36575085e05754a4932dd5170",
             "collection":"https://opensea.io/collection/rareapepeyachtclub",
@@ -1975,7 +1946,7 @@
       {
          "scams":null,
          "original":{
-            "url":"https://uniswap.org/",
+            "url":"https://uniswap.io/",
             "address":"",
             "collection":"",
             "title":"Uniswap"
@@ -2092,7 +2063,7 @@
       {
          "scams":null,
          "original":{
-            "url":"https://sushi.com/",
+            "url":"https://sushiswap.fi/",
             "address":"",
             "collection":"",
             "title":"Sushiswap"
@@ -2393,348 +2364,6 @@
             "address":"",
             "collection":"",
             "title":"Inverse Finance"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://rasc.wtf/",
-            "address":"0xDCb1cDFe2B5f592E7Bdc2696b7A68c6e866C4Cc2",
-            "collection":"https://opensea.io/collection/rotten-anti-social-club",
-            "title":"Rotten Anti Social Club"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"http://bpyc.wtf/",
-            "address":"0xb36598689f0bA71E96E163Ab15048C5Bd89c027C",
-            "collection":"https://opensea.io/collection/bpycwtf",
-            "title":"BPYC-Bored Panda yacht club"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"http://notditto.xyz/",
-            "address":"0x111508eDBeb2e906a40Fd92e8B4CFAffC606C6DD",
-            "collection":"https://opensea.io/collection/notditto",
-            "title":"NOT DITTO"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://0xmons.xyz/",
-            "address":"0x0427743DF720801825a5c82e0582B1E915E0F750",
-            "collection":"https://opensea.io/collection/0xmons-xyz",
-            "title":"0xmons"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"http://nft.bxh.com/",
-            "address":"0x158Fe5866B0F3F346844E81a95429AFDFa2BdF7a",
-            "collection":"https://opensea.io/collection/bxh",
-            "title":"BXH - The Foolish Child"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://beyondearthonline.io/",
-            "address":"0x28c6ea3F9cF9bC1a07A828fce1e7783261691B49",
-            "collection":"https://opensea.io/collection/beyond-earth-land",
-            "title":"Beyond Earth Land"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://opensea.io/collection/predict-v2",
-            "title":"PREDICT V2"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://castaways.com/",
-            "address":"0x6AF88A2B51D37DD80B59CdA3aaac55eE34C6ea07",
-            "collection":"https://opensea.io/collection/castaways-the-raft",
-            "title":"Castaways - The Raft"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.catblox.xyz/",
-            "address":"0x8b8D1225bB21CA07812FF3c2ee9358f7b5d90EcA",
-            "collection":"https://opensea.io/collection/catbloxpumacapsule",
-            "title":"CatBlox X PUMA Capsule"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://ensmaxis.com/",
-            "address":"0xaa462106dA447C0440a4bE29614c19387a59A331",
-            "collection":"https://opensea.io/collection/ensmaxis",
-            "title":"ENS Maxis"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.co2zero.xyz/",
-            "address":"0x0710017F631eD6554DfC42FE2d46ad3600e85389",
-            "collection":"https://opensea.io/collection/theco2zeronftnew",
-            "title":"TheCo2ZeroNFT"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://goblintown.wtf/mcgoblin/",
-            "address":"0xc5B52253f5225835cc81C52cdb3d6A22bc3B0c93",
-            "collection":"https://opensea.io/collection/mcgoblinwtf",
-            "title":"mcgoblin.wtf"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.genuineundead.com/",
-            "address":"0x209e639a0EC166Ac7a1A4bA41968fa967dB30221",
-            "collection":"https://opensea.io/collection/genuine-undead",
-            "title":"Genuine Undead"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://cosmiccollective.xyz/cosmic-clones",
-            "address":"0xeFE58f3ace7d7DaC903b2cC2e18Ef1858d4E2675",
-            "collection":"https://opensea.io/collection/cosmic-clones",
-            "title":"Cosmic Clones"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.bellygom.world/",
-            "address":"0xce70eef5adac126c37c8bc0c1228d48b70066d03",
-            "collection":"https://opensea.io/collection/bellygom-world-official",
-            "title":"Bellygom World Official"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.artblocks.io/project/346",
-            "address":"",
-            "collection":"https://opensea.io/collection/80s-pop-variety-pack-for-experts-only-by-daniel-ca",
-            "title":"80s Pop Variety Pack - for experts only 🕹 by Daniel Catt"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://g.money/",
-            "address":"0xD2A077Ec359D94E0A0b7E84435eaCB40A67a817c",
-            "collection":"https://opensea.io/collection/admit-one",
-            "title":"Admit One"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://ekta.io/",
-            "address":"0x3112352cA058D39A861c1FeC3753B64b70da675F",
-            "collection":"https://opensea.io/collection/og-portal-nft",
-            "title":"OG Portal NFT"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"0x86DF7996d788d5536d853306F83c60bA5f86ee96",
-            "collection":"https://opensea.io/collection/inferno-entities",
-            "title":"Inferno Entities"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://www.genuineundead.com/",
-            "address":"0x209e639a0EC166Ac7a1A4bA41968fa967dB30221",
-            "collection":"https://opensea.io/collection/genuine-undead",
-            "title":"Genuine Undead"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://finiliar.com/",
-            "address":"0x5a0121A0A21232eC0D024dAb9017314509026480",
-            "collection":"https://opensea.io/collection/finiliar",
-            "title":"Finiliar"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"http://elpollitopio.wtf/",
-            "address":"0xaD1aA3C4d87BBBdA0f960777221F1fA522FC103f",
-            "collection":"https://opensea.io/collection/elpollitopio",
-            "title":"El Pollito Pio"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://babyrareapepeyc.xyz/",
-            "address":"0x1000b3bdc7FAeBB1FFfF9CEB65e54b6360c2D99d",
-            "collection":"https://opensea.io/collection/mutantbabyrareapepeyc",
-            "title":"Mutant Baby Rare Apepe YC"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://opensea.io/collection/mirandus-vaults",
-            "title":"Mirandus Vaults"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://lilversenft.com/",
-            "address":"0x8E0F07454850198F089Ef10d083601a2a1644656",
-            "collection":"https://opensea.io/collection/lilverse",
-            "title":"lilverse"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"0xA29939f74C3e527C83011Fab972B09Ac68e71A47",
-            "collection":"https://opensea.io/collection/radicards",
-            "title":"RadiCards"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://cryptobilianft.com/",
-            "address":"0xfabE30e32eA8f9f7d297C6E3d6BDCf2D98C365E3",
-            "collection":"https://opensea.io/collection/cryptobiliagoats",
-            "title":"CRYPTOBILIA GOATS OFFICIAL"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://cryptobilianft.com/",
-            "address":"0xFFc1131dDA0299b804C97c436bC8cFeA019e00a0",
-            "collection":"https://opensea.io/collection/looki",
-            "title":"Looki"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://moonowlsnft.xyz/",
-            "address":"0x69CDc3245C714A6B99Cea9b43869e2B893a031Ad",
-            "collection":"https://opensea.io/collection/moon-owls-nft",
-            "title":"Moon Owls NFT"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://opensea.io/collection/osrs-punks",
-            "title":"OSRS Punks"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"https://strxngers.me/",
-            "address":"0xe5B4D6B5F37cae9Dc4c7384cd97038CD0573d7D2",
-            "collection":"https://opensea.io/collection/strxngers",
-            "title":"Strxngers"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://bagholders.lol/",
-            "address":"0x444E68716daD3E3De014DD718dcE79B739403488",
-            "collection":"https://opensea.io/collection/bagholdersnft",
-            "title":"BagHoldersnft"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"https://kryptoria.io/",
-            "address":"0x63d85ec7B1561818Ec03E158ec125a4113038A00",
-            "collection":"https://opensea.io/collection/kryptoria-alphacitizens",
-            "title":"Kryptoria - Alpha Citizens"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"http://metamonopoly.org/",
-            "address":"0xE47E5dCDE8E14E874D2711e786bB34aE6980BeF8",
-            "collection":"https://opensea.io/collection/meta-monopoly",
-            "title":"Meta Monopoly"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"http://linktr.ee/Driftershoots",
-            "address":"0x509a050f573BE0D5E01a73C3726E17161729558B",
-            "collection":"https://opensea.io/collection/where-my-vans-go",
-            "title":"Where My Vans Go"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"https://cetsoncreck.com/",
-            "address":"",
-            "collection":"https://opensea.io/collection/cets-on-creck",
-            "title":"Cets on Creck"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"https://www.ninja-dao.com/cnp",
-            "address":"0x845a007D9f283614f403A24E3eB3455f720559ca",
-            "collection":"https://opensea.io/collection/cryptoninjapartners",
-            "title":"CryptoNinja Partners"
-         }
-      },
-       {
-         "scams":null,
-         "original":{
-            "url":"https://es.ultiverse.io/",
-            "address":"0x3fD36d72f05fb1AF76EE7Ce9257ca850fAbA91ed",
-            "collection":"https://opensea.io/collection/ultiverse-electric-sheep",
-            "title":"Ultiverse - Electric Sheep"
          }
       }
    ]
