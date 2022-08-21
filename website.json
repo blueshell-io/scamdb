@@ -38,13 +38,28 @@
             "title":"Stxngers"
          }
       },
-      {
+       {
          "scams":null,
          "original":{
-            "url":"https://webaverse.com/",
-            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
-            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
-            "title":"Webaverse Genesis Drop"
+            "url":"https://strxngers.me/",
+            "address":"https://etherscan.io/address/0xe5b4d6b5f37cae9dc4c7384cd97038cd0573d7d2",
+            "collection":"https://opensea.io/collection/strxngers",
+            "title":"Stxngers"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://www.foundingfrens.com/",
+            "address":"",
+            "collection":"https://ftx.us/nfts/collection/Founding%20Frens/25/1",
+            "title":"Founding Frens"
          }
       },
       {
@@ -109,6 +124,15 @@
             "address":"",
             "collection":"",
             "title":"Bohemia"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://wasdnft.com/",
+            "address":"0x27013D274AA60c6e6883AA2130e8b01249EB11d4",
+            "collection":"https://opensea.io/collection/weallsurviveddeath",
+            "title":"We All Survived Death"
          }
       },
       {
