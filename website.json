@@ -2740,6 +2740,15 @@
             "collection":"https://opensea.io/collection/cets-on-creck",
             "title":"Cets on Creck"
          }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://outland.art/fang-lijun/",
+            "address":"0xC9677Cd8e9652F1b1aaDd3429769b0Ef8D7A0425",
+            "collection":"https://opensea.io/collection/elemental-fang-lijun",
+            "title":"Elemental by Fang Lijun"
+         }
       }
    ]
 }
