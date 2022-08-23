@@ -2749,6 +2749,51 @@
             "collection":"https://opensea.io/collection/elemental-fang-lijun",
             "title":"Elemental by Fang Lijun"
          }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/projectcrack",
+            "title":"projectcrack"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://cloneforce.xyz/",
+            "address":"0x0C684b8c37bbd3e58dFde822025591d15c030CD9",
+            "collection":"https://opensea.io/collection/mintstone",
+            "title":"CF: The Calling"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.cryptoeddies.xyz/",
+            "address":"0xa6653bec60234562D3b453D10314d8762De51405",
+            "collection":"https://opensea.io/collection/cryptoeddies",
+            "title":"CryptoEddies (onchain)"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://moonpudgy.xyz/",
+            "address":"0xE405EA33148a2b6FCbA3125b469dF87229a08d5A",
+            "collection":"https://opensea.io/collection/moonpudgy",
+            "title":"MoonPudgy"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.tenset.io/en",
+            "address":"0x28cE223853D123b52C74439B10b43366d73Fd3B5",
+            "collection":"https://opensea.io/collection/tglp-genesis",
+            "title":"TGLP Genesis"
+         }
       }
    ]
 }
