@@ -2560,6 +2560,78 @@
             "collection":"https://opensea.io/collection/wzrds",
             "title":"WZRDS"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.kokoro-club.xyz/",
+            "address":"0x9F71E6A9bd29AdAEF6A8f2026c760c55A5Bb9a7E",
+            "collection":"https://opensea.io/collection/kokoro-club-nft",
+            "title":"Kokoro NFT Club"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://tokyosaints.com/",
+            "address":"",
+            "collection":"https://www.magiceden.io/marketplace/tokyo_saints",
+            "title":"Tokyo Saints"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"0xbe3Eedda303D28E1a763106E27605247AB8e302A",
+            "collection":"https://opensea.io/collection/apemo-army",
+            "title":"Satoshiverse - The Apemo Army"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"0x082ba13f0932d3885c535b95E09513EAD16E3F51",
+            "collection":"https://opensea.io/collection/mad-dragons-v2",
+            "title":"Mad Dragons V2"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.lazycollectible.com/",
+            "address":"",
+            "collection":"https://opensea.io/lazycollectible",
+            "title":"lazycollectible"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://reptilianworldorder.io/",
+            "address":"0xdCB3837c037611a6Fe266c5f426a823F268418b4",
+            "collection":"https://opensea.io/collection/rwo-reptilian-world-order-official",
+            "title":"RWO - Reptilian World Order Official"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://ceresdao.finance/",
+            "address":"",
+            "collection":"",
+            "title":"CeresDAO Rich Pandas"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://kevinlynchnft.com/",
+            "address":"0x283935d95FC39d8D23F92e155D488e06ee424C8C",
+            "collection":"https://opensea.io/collection/kobeinsequence",
+            "title":"Kevin Lynch: Kobe In Sequence"
+         }
       }
    ]
 }
