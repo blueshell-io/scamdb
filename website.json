@@ -2632,6 +2632,114 @@
             "collection":"https://opensea.io/collection/kobeinsequence",
             "title":"Kevin Lynch: Kobe In Sequence"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://isekaimeta.com/",
+            "address":"0x684E4ED51D350b4d76A3a07864dF572D24e6dC4c",
+            "collection":"https://opensea.io/collection/projectisekaimeta",
+            "title":"Isekai Meta"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/abcabracadabra",
+            "title":"ABC(abracadabra)"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://pudgypepes.xyz/",
+            "address":"0xff2351228ADD6CB04e6694Af4258368435eB0cE3",
+            "collection":"https://opensea.io/collection/pudgy-pepes",
+            "title":"Pudgy Pepes"
+         }
+      },
+            {
+         "scams":null,
+         "original":{
+            "url":"https://zombieapeartist.xyz/",
+            "address":"0xa0DcF49D64dC1Ff060B8A5a6138B758c00B43e26",
+            "collection":"https://opensea.io/collection/zombieapeartist",
+            "title":"Zombie Ape Artist"
+         }
+      },
+        {
+         "scams":null,
+         "original":{
+            "url":"http://engravmoonbirds.xyz/",
+            "address":"0xD6F1C3Fe29056d02345cB0A2976380c14991f47B",
+            "collection":"https://opensea.io/collection/engravmoonbirds-v2",
+            "title":"EngravMoonBirds V2"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://monumentvalley.xyz/",
+            "address":"0xeC80aE853AFdFF5984583a9682B10A003f57688F",
+            "collection":"https://opensea.io/collection/waaliai",
+            "title":"We Are All Living In An Illusion"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://10ktf.com/",
+            "address":"0x85ed8f10C4889b4BC60400a0c1F796254D35003D",
+            "collection":"https://opensea.io/collection/combat-crates",
+            "title":"10KTF Combat Crates"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://beeble.xyz/",
+            "address":"0x39d1cE0ed423C56c262ef025e0619E91ae31e8B7",
+            "collection":"https://opensea.io/collection/hellfire-by-beeble",
+            "title":"Hellfire By BEEBLE"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://www.bongbears.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/bongbears",
+            "title":"Bong Bears"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://outsad.io/#/",
+            "address":"0x3A2C64e82f31E70aaf02849bc1e0952A610b95F3",
+            "collection":"https://opensea.io/collection/outsadofficial",
+            "title":"OutSad Official"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://sukilearnstofly.com/",
+            "address":"0x39223e2596bF8E1dE3894f66947cacc614C24A2f",
+            "collection":"https://opensea.io/collection/suki-learns-to-fly",
+            "title":"Suki Learns to Fly"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://cetsoncreck.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/cets-on-creck",
+            "title":"Cets on Creck"
+         }
       }
    ]
 }
