@@ -77,7 +77,8 @@
             "title":"Devin Finzer (dfinzer.eth)"
          },
          "fake":[
-            "kouzycs"
+            "kouzycs",
+            "DevinFinzer"
          ]
       },
       {
@@ -85,7 +86,9 @@
             "username":"CryptopunksNFTs",
             "title":"CryptoPunks"
          },
-         "fake":null
+         "fake":[
+            "thecryptopunks"
+         ]
       },
       {
          "original":{
@@ -99,7 +102,13 @@
             "username":"AzukiOfficial",
             "title":"Azuki"
          },
-         "fake":null
+         "fake":[
+            "AzukiGiveaway",
+            "AZUKIOFFIClAL",
+            "AzukiV1",
+            "AZUKI0FFIClAL",
+            "AzukiOffciaI"
+         ]
       },
       {
          "original":{
@@ -113,7 +122,13 @@
             "username":"RTFKT",
             "title":"RTFKT"
          },
-         "fake":null
+         "fake":[
+            "RTFKTHOODIE",
+            "RTFKTstudlos",
+            "Selen34127587",
+            "RTFKT_",
+            "RTFKTNIKE_"
+         ]
       },
       {
          "original":{
@@ -127,14 +142,30 @@
             "username":"moonbirds",
             "title":"Moonbirds"
          },
-         "fake":null
+         "fake":[
+            "Moonbirdx",
+            "oddlities_xyz",
+            "Odadsadasdas",
+            "WillGerard10",
+            "oddities_xyz_",
+            "Oddities_Proof",
+            "Oddlties_",
+            "moonbirds_xyz_",
+            "moonbirdzNfts",
+            "mooonnbirds"
+         ]   
       },
       {
          "original":{
             "username":"thesandboxgame",
             "title":"The Sandbox"
          },
-         "fake":null
+         "fake":[
+            "Sandb0xLand",
+            "TheSandbox_Help",
+            "GiveawaySandbox",
+            "DropsSandbox"
+         ]    
       },
       {
          "original":{
