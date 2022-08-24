@@ -30,21 +30,6 @@
          }
       },
       {
-         "scams":[
-            {
-               "url":"https://opensea.io.afakshop.com/",
-               "address":"",
-               "collection":""
-            }
-         ],
-         "original":{
-            "url":"https://opensea.io/",
-            "address":"",
-            "collection":"",
-            "title":"OpenSea"
-         }
-      },
-      {
          "scams":null,
          "original":{
             "url":"https://strxngers.me/",
@@ -2813,22 +2798,12 @@
         {
          "scams":[
             {
-               "url":"https://clonex.rtfkt.com/",
+               "url":"https://www.ethliquidmining8.com",
                "address":"",
                "collection":""
             }
          ],
          "original": null
-      },
-        {
-         "scams":[
-            {
-               "url":"https://rtfkt.mnlth2.com",
-               "address":"",
-               "collection":""
-            }
-         ],
-         "original": null
-      }     
+      }
    ]
 }
