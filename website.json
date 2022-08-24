@@ -30,6 +30,21 @@
          }
       },
       {
+         "scams":[
+            {
+               "url":"https://opensea.io.afakshop.com/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://opensea.io/",
+            "address":"",
+            "collection":"",
+            "title":"OpenSea"
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://strxngers.me/",
