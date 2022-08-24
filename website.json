@@ -2804,6 +2804,26 @@
             }
          ],
          "original": null
-      }
+      },
+        {
+         "scams":[
+            {
+               "url":"https://clonex.rtfkt.com/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original": null
+      },
+        {
+         "scams":[
+            {
+               "url":"https://rtfkt.mnlth2.com",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original": null
+      }     
    ]
 }
