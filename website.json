@@ -380,7 +380,12 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://sushifrens-allowlist.com/",
+               "address":"",
+               "collection":""
+            },
          "original":{
             "url":"https://www.pudgypenguins.com/",
             "address":"0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
