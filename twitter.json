@@ -2388,7 +2388,9 @@
             "username":"RecurForever",
             "title":"RECUR"
          },
-         "fake":null
+         "fake":[
+	    "RecurForevers"
+	]	 
       },
       {
          "original":{
@@ -2452,6 +2454,6 @@
             "title":"Resurgence"
          },
          "fake":null
-      }
+      },
    ]
 }
