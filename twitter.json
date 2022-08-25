@@ -190,12 +190,12 @@
          "original":{
             "username":"rarible",
             "title":"Rarible"
-         ]
          },
          "fake":[
             "rariblle",
             "RaribleAsk"
-      },
+        ]
+	},
       {
          "original":{
             "username":"worldofwomennft",
@@ -306,8 +306,7 @@
       {
          "original":{
             "username":"MekaVerse",
-            "title":"MekaVerse"
-         ]   
+            "title":"MekaVerse" 
          },
          "fake":null
       },
@@ -319,9 +318,9 @@
          "fake":[
             "goblintownnftt",
             "gobIinstownwtf",
-            "m_aykaal".
+            "m_aykaal",
             "gamzeJL0",
-            "goblinstownswtf,
+            "goblinstownswtf",
             "goblinstownswtf",
             "goblintownsxyz"
          ]   
