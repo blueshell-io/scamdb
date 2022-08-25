@@ -3002,7 +3002,23 @@
             "address":"0x16BD96a19AE4Ee01783Fb8E10A88C152dE368CA7",
             "collection":"https://opensea.io/collection/resurgence-cryotag-gen-0",
             "title":"Resurgence Cryotag Gen 0"
+         },
+         {
+         "scams":[
+            {
+               "url":"https://hellokittyfriend.com",
+               "address":"",
+               "collection":""
+            },
+         ],
+        {
+         "original":{
+            "url":"https://www.recurforever.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/hello-kitty-eth",
+            "title":"RECUR"
          }
+        }
       }
    ]
 }
