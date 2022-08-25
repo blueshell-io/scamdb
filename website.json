@@ -380,12 +380,7 @@
          }
       },
       {
-         "scams":[
-            {
-               "url":"https://sushifrens-allowlist.com/",
-               "address":"",
-               "collection":""
-            },
+         "scams":null,
          "original":{
             "url":"https://www.pudgypenguins.com/",
             "address":"0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
@@ -1655,7 +1650,12 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"http://potatoznft.org",
+               "address":"",
+               "collection":""
+            }],
          "original":{
             "url":"https://www.memeland.com/potatoz",
             "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
