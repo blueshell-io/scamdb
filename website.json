@@ -1824,12 +1824,45 @@
          }
       },
       {
+         "scams":[
+            {
+               "url":"https://polygon.apptokens.top/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://polygon.technology/",
+            "address":"",
+            "collection":"",
+            "title":"Polygon"
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"http://8liens.xyz/",
             "address":"0x740c178e10662bBb050BDE257bFA318dEfE3cabC",
             "collection":"https://opensea.io/collection/8liens",
             "title":"8liens NFT"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://revoke.cash/",
+            "address":"",
+            "collection":"",
+            "title":"Revoke.Cash"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://opensea.io/",
+            "address":"",
+            "collection":"",
+            "title":"OpenSea"
          }
       },
       {
