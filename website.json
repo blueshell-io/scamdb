@@ -2786,13 +2786,184 @@
             "title":"MoonPudgy"
          }
       },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://ezu.xyz/",
+            "address":"0x6B8281Df97604eeae4b9e0d26E667507eB301E91",
+            "collection":"https://opensea.io/collection/ezu",
+            "title":"EZU"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://rpc.club/",
+            "address":"0x9ac70D7D63701E230446885776818D7734eB33f6",
+            "collection":"https://opensea.io/collection/randompandaclub",
+            "title":"RandomPandaClub"
+         }
+      },
        {
          "scams":null,
          "original":{
-            "url":"https://www.tenset.io/en",
-            "address":"0x28cE223853D123b52C74439B10b43366d73Fd3B5",
-            "collection":"https://opensea.io/collection/tglp-genesis",
-            "title":"TGLP Genesis"
+            "url":"http://myfinalform.io/",
+            "address":"0xE8E2B12e02cefC12603e99cd414d9D9Ec82068cF",
+            "collection":"https://opensea.io/collection/my-final-form",
+            "title":"My Final Form"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.artblocks.io/project/336",
+            "address":"",
+            "collection":"https://opensea.io/collection/polychrome-music-by-rafael-rozendaal-danny-wolfers",
+            "title":"Polychrome Music by Rafaël Rozendaal & Danny Wolfers (Legowelt)"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://v1phunks.org/",
+            "address":"0x3ceB6868BfBf99F6b76FE5bB37343C075677C698",
+            "collection":"https://opensea.io/collection/v1-phunks",
+            "title":"V1 Phunks"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"0xe01f7ee9E637c17dF805b5747adeF23C62d3ECFC",
+            "collection":"https://opensea.io/collection/jeffland",
+            "title":"JEFFLAND_Official"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://sappyseals.io/",
+            "address":"0x364C828eE171616a39897688A831c2499aD972ec",
+            "collection":"https://opensea.io/collection/sappy-seals",
+            "title":"Sappy Seals"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"http://www.wasdnft.com/",
+            "address":"0x27013D274AA60c6e6883AA2130e8b01249EB11d4",
+            "collection":"https://opensea.io/collection/weallsurviveddeath",
+            "title":"We All Survived Death"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://0xthulu.io/",
+            "address":"0xB60C2019DDB48623ed1d134b2bb42F437c6A0202",
+            "collection":"https://opensea.io/collection/0xthulu-relic-of-membership",
+            "title":"0xTHULU Relic of Membership"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://hellokittyfrens.xyz/",
+            "address":"0xFE290336a7FB1d5FDcCDe1C4FFeb714Ab6892Bc2",
+            "collection":"https://opensea.io/collection/hello-kitty-eth",
+            "title":"Hello Kitty and Friends World (ETH)"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.kokoro-club.xyz/",
+            "address":"0x9F71E6A9bd29AdAEF6A8f2026c760c55A5Bb9a7E",
+            "collection":"https://opensea.io/collection/kokoro-club-nft",
+            "title":"Kokoro NFT Club"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.kokoro-club.xyz/",
+            "address":"0x9F71E6A9bd29AdAEF6A8f2026c760c55A5Bb9a7E",
+            "collection":"https://opensea.io/collection/kokoro-club-nft",
+            "title":"Kokoro NFT Club"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://tokyosaints.com/",
+            "address":"",
+            "collection":"https://www.magiceden.io/marketplace/tokyo_saints",
+            "title":"Tokyo Saints"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"0x082ba13f0932d3885c535b95E09513EAD16E3F51",
+            "collection":"https://opensea.io/collection/mad-dragons-v2",
+            "title":"Mad Dragons V2"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://reptilianworldorder.io/",
+            "address":"0xdCB3837c037611a6Fe266c5f426a823F268418b4",
+            "collection":"https://opensea.io/collection/rwo-reptilian-world-order-official",
+            "title":"RWO - Reptilian World Order Official"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://cap3collective.io/",
+            "address":"0xa624BC508D347A96C49E184C61B0f15EA868778c",
+            "collection":"https://opensea.io/collection/cap3collective-genesis-pass",
+            "title":"Cap3 Collective - Genesis Pass"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://mylastnft.com/",
+            "address":"0x49A470186E3704424E2a044e5A8ADc637815b3Ec",
+            "collection":"https://opensea.io/collection/my-last-nft",
+            "title":"My Last NFT"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.otterverse.io/",
+            "address":"0x4BA0625052A8604E9D4feDB1728316a31E5506fd",
+            "collection":"https://opensea.io/collection/otterverse-genesis",
+            "title":"Otterverse Genesis"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.legendaryowls.com/",
+            "address":"0xE82A49843004DB350D6c240Ca474ea3e6fA29e87",
+            "collection":"https://opensea.io/collection/lo-legendaryowls",
+            "title":"LO: Legendary Owls"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.resurgence-game.io/",
+            "address":"0x16BD96a19AE4Ee01783Fb8E10A88C152dE368CA7",
+            "collection":"https://opensea.io/collection/resurgence-cryotag-gen-0",
+            "title":"Resurgence Cryotag Gen 0"
          }
       }
    ]
