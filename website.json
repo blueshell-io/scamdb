@@ -1650,7 +1650,12 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"http://potatoznft.org",
+               "address":"",
+               "collection":""
+            }],
          "original":{
             "url":"https://www.memeland.com/potatoz",
             "address":"0x39ee2c7b3cb80254225884ca001F57118C8f21B6",

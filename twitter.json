@@ -180,15 +180,21 @@
             "title":"Cool Cats"
          },
          "fake":[
-            "coolcatsnfs"
+            "coolcatsnfs",
+            "NFTCoolCats_",
+            "nfts_coolcatss",
+            "CoolCatsPolygon"
          ]
       },
       {
          "original":{
             "username":"rarible",
             "title":"Rarible"
+         ]
          },
-         "fake":null
+         "fake":[
+            "rariblle",
+            "RaribleAsk"
       },
       {
          "original":{
@@ -196,7 +202,8 @@
             "title":"World of Women"
          },
          "fake":[
-            "wordofwomennft"
+            "wordofwomennft",
+            "Worldofwomennf3"
          ]
       },
       {
@@ -204,14 +211,20 @@
             "username":"cryptoadzNFT",
             "title":"CrypToadz"
          },
-         "fake":null
+         "fake":[
+            "cryptooadzNFT"
+         ]
       },
       {
          "original":{
             "username":"CryptoKitties",
             "title":"CryptoKitties"
          },
-         "fake":null
+         "fake":[
+            "CryptokittieSDK",
+            "SUPREMEkitties",
+            "kitties_crypto"
+         ]  
       },
       {
          "original":{
@@ -232,7 +245,14 @@
             "username":"pudgypenguins",
             "title":"Pudgy Penguins"
          },
-         "fake":null
+         "fake":[
+            "PudgyPenguns",
+            "pudgypengiuns",
+            "PudgyPenguins_",
+            "PudgyPengins",
+            "PudgyPegnuins",
+            "pudgypenguin_"
+        ]   
       },
       {
          "original":{
@@ -246,7 +266,10 @@
             "username":"HAPEsocial",
             "title":"| |ape ®"
          },
-         "fake":null
+         "fake":[
+            "HALPHA_LIST",
+            "HAPEsocial_X"
+        ]  
       },
       {
          "original":{
@@ -264,22 +287,27 @@
       },
       {
          "original":{
-            "username":"SorareHQ",
+            "username":"Sorare",
             "title":"Sorare"
          },
-         "fake":null
+         "fake":[
+            "SorareHQ"
+        ]    
       },
       {
          "original":{
             "username":"0n1Force",
             "title":"0N1 Force"
          },
-         "fake":null
+         "fake":[
+            "Force0n1"
+        ]   
       },
       {
          "original":{
             "username":"MekaVerse",
             "title":"MekaVerse"
+         ]   
          },
          "fake":null
       },
@@ -288,7 +316,15 @@
             "username":"goblintown",
             "title":"goblintown.wtf"
          },
-         "fake":null
+         "fake":[
+            "goblintownnftt",
+            "gobIinstownwtf",
+            "m_aykaal".
+            "gamzeJL0",
+            "goblinstownswtf,
+            "goblinstownswtf",
+            "goblintownsxyz"
+         ]   
       },
       {
          "original":{
