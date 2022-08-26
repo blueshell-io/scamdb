@@ -102,7 +102,9 @@
             "username":"MeebitsNFTs",
             "title":"Meebits"
          },
-         "fake":["MeebitsYuga"]
+         "fake":[
+            "MeebitsYuga"
+         ]
       },
       {
          "original":{
@@ -160,7 +162,7 @@
             "moonbirds_xyz_",
             "moonbirdzNfts",
             "mooonnbirds"
-         ]   
+         ]
       },
       {
          "original":{
@@ -172,7 +174,7 @@
             "TheSandbox_Help",
             "GiveawaySandbox",
             "DropsSandbox"
-         ]    
+         ]
       },
       {
          "original":{
@@ -194,8 +196,8 @@
          "fake":[
             "rariblle",
             "RaribleAsk"
-        ]
-	},
+         ]
+      },
       {
          "original":{
             "username":"worldofwomennft",
@@ -224,7 +226,7 @@
             "CryptokittieSDK",
             "SUPREMEkitties",
             "kitties_crypto"
-         ]  
+         ]
       },
       {
          "original":{
@@ -252,7 +254,7 @@
             "PudgyPengins",
             "PudgyPegnuins",
             "pudgypenguin_"
-        ]   
+         ]
       },
       {
          "original":{
@@ -269,7 +271,7 @@
          "fake":[
             "HALPHA_LIST",
             "HAPEsocial_X"
-        ]  
+         ]
       },
       {
          "original":{
@@ -292,7 +294,7 @@
          },
          "fake":[
             "SorareHQ"
-        ]    
+         ]
       },
       {
          "original":{
@@ -301,12 +303,12 @@
          },
          "fake":[
             "Force0n1"
-        ]   
+         ]
       },
       {
          "original":{
             "username":"MekaVerse",
-            "title":"MekaVerse" 
+            "title":"MekaVerse"
          },
          "fake":null
       },
@@ -323,7 +325,7 @@
             "goblinstownswtf",
             "goblinstownswtf",
             "goblintownsxyz"
-         ]   
+         ]
       },
       {
          "original":{
@@ -2313,7 +2315,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"CloneForceTM",
             "title":"CLONE⚔️FORCE"
@@ -2327,7 +2329,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Moon_Pudgy",
             "title":"MoonPudgy 🌙🐧 (MINT IS LIVE)"
@@ -2341,7 +2343,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"RandomPandaClub",
             "title":"Random Panda Club🎲"
@@ -2355,7 +2357,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"jeffworld_io",
             "title":"JEFF World"
@@ -2369,7 +2371,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"WeAllSurvived",
             "title":"We All Survived Death"
@@ -2389,8 +2391,8 @@
             "title":"RECUR"
          },
          "fake":[
-	    "RecurForevers"
-	]	 
+            "RecurForevers"
+         ]
       },
       {
          "original":{
@@ -2399,7 +2401,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Kokoroheartclub",
             "title":"Kokoro"
@@ -2427,7 +2429,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"mylastnft",
             "title":"MylastNFT"
@@ -2441,162 +2443,161 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"LegendaryOwls",
             "title":"Legendary Owls"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"ResurgenceGame",
             "title":"Resurgence"
          },
          "fake":null
       },
-	   {
+      {
          "original":{
             "username":"ResurgenceGame",
             "title":"Resurgence"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"blueshell_io",
             "title":"BlueShell"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"PRL0_",
             "title":"Perlo"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"lisabeyy",
             "title":"Lisa Bey"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"ETHtoad",
             "title":"Icetoad.eth - keep buildin' - Team 🅱️"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"unknxwn_nft",
             "title":"0x.Andrrr"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"nftshitposter",
             "title":"yourgrandfather.eth"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"MFF_ETH",
             "title":"MyFinalForm 8/24 @ 4:20pm EST 👽🐸🐛🍌🍑😮💨🔜"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"MirsofSpace",
             "title":"Mirs of Space"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"berachain",
             "title":"Berachain Foundation 🐻⛓"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"bywassies",
             "title":"ByWassies"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"killabearsnft",
             "title":"KILLABEARS🧸"
          },
          "fake":null
       },
-	{
+      {
          "original":{
             "username":"ethlizards",
             "title":"Ethlizards 🦎"
          },
          "fake":null
       },
-	   {
+      {
          "original":{
             "username":"vspass",
             "title":"VaynerSports Pass"
          },
          "fake":null
       },
-	    {
+      {
          "original":{
             "username":"metatuners",
             "title":"Meta Tuners - Minting TODAY!"
          },
          "fake":null
       },
-	   {
+      {
          "original":{
             "username":"ProjectFloaties",
             "title":"Floaties | SOLD OUT"
          },
          "fake":null
       },
-	     {
+      {
          "original":{
             "username":"revengebirds_",
             "title":"Revengebirds (🦉, 🔪,🔥) SOLD OUT"
          },
          "fake":null
       },
-	   {
+      {
          "original":{
             "username":"y00tsNFT",
             "title":"y00ts"
          },
          "fake":[
             "y000tlist",
-	    "y00tsAnncmnt",
-	    "y00tslistt",
-	    "y00tIist",
-	    "JohnG06047554",
-	    "y00tlist_meme",
-	    "y00tl1st",
-	    "y00tsliist",
-	    "yO0tlist",
+            "y00tsAnncmnt",
+            "y00tslistt",
+            "y00tIist",
+            "JohnG06047554",
+            "y00tlist_meme",
+            "y00tl1st",
+            "y00tsliist",
+            "yO0tlist",
             "y0Otlist",
-	    "y00tlist_mov",
+            "y00tlist_mov",
             "y00tsIist",
-	    "y00tlIist",
-	    "y00tlist1",
-	    "Franky00ted"
-            ]	
-	   }	   
+            "y00tlIist",
+            "y00tlist1",
+            "Franky00ted"
+         ]
       }
    ]
 }
