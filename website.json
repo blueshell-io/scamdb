@@ -3017,7 +3017,124 @@
             "url":"https://www.recurforever.com/",
             "address":"",
             "collection":"https://opensea.io/collection/hello-kitty-eth",
-            "title":"RECUR"
+            "title":"Hello Kitty and Friends World (ETH)"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://shellzorb.io/",
+            "address":"0xe17827609Ac34443B3987661f4e037642F6BD9bA",
+            "collection":"https://opensea.io/collection/shellzorb",
+            "title":"Shellz Orb"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://moonwolf.wtf/",
+            "address":"0xDff9729bf226A96DF433Cb70d00f4Bf2B1c9Bf57",
+            "collection":"https://opensea.io/collection/moonwolfgenesis",
+            "title":"Moon Wolf Genesis"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://jarritos.com/nft/",
+            "address":"0xD97c7C5c30FEba950790D3A6F72d98509499112c",
+            "collection":"https://opensea.io/collection/bonesbyjarritos",
+            "title":"Bones by Jarritos"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://ying.hootlabs.io/",
+            "address":"0xbccC669CB89041AAfc7834cc7a07C8d94b697791",
+            "collection":"https://opensea.io/collection/ying-we-create-the-future",
+            "title":"YING: We Create The Future"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://www.duckpunkz.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/duck-punkz-universe-solana",
+            "title":"Duck Punkz Universe"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.artblocks.io/project/2",
+            "address":"",
+            "collection":"https://opensea.io/collection/construction-token-by-jeff-davis",
+            "title":"Construction Token by Jeff Davis"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/jellydawgs",
+            "title":"JellyDawgs"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://www.lazyapeyachtclub.com/",
+            "address":"0x1b1bFf222999BcD6fD07b64d7880e6a95d54ACaA",
+            "collection":"https://opensea.io/collection/official-layc",
+            "title":"LAYC"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://goblintown.wtf/",
+            "address":"0x529574D1aFfef7Cf347cDd02B91eFd2C00bb773b",
+            "collection":"https://opensea.io/collection/grumpls",
+            "title":"grumpls"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://outland.art/3face",
+            "address":"0xd20969460645Add745f3F490d0f7AeE1Be60b741",
+            "collection":"https://opensea.io/collection/3face-by-ian-cheng",
+            "title":"3FACE | art that adapts to you"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.mirsofspace.com/",
+            "address":"0x0A1e21C169FF261Fe6f370068A4f71C25f096a55",
+            "collection":"https://opensea.io/collection/mirsofspace",
+            "title":"Mirs of Space"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://webaverse.com/",
+            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
+            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
+            "title":"Webaverse Genesis Pass"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.daydreamersnft.xyz/",
+            "address":"0x5069FBfFB1F65e6C3D9EfE7C70c4c0d13524e960",
+            "collection":"https://opensea.io/collection/daydreamers-nft",
+            "title":"Daydreamers NFT"
          }
       }
    ]
