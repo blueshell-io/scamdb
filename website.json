@@ -3136,6 +3136,87 @@
             "collection":"https://opensea.io/collection/daydreamers-nft",
             "title":"Daydreamers NFT"
          }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.twitter.com/ShellzOrb",
+            "address":"0xe17827609Ac34443B3987661f4e037642F6BD9bA",
+            "collection":"https://opensea.io/collection/shellzorb",
+            "title":"Shellz Orb"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://s7nsstation.com/",
+            "address":"0xA605ee5dE62bF7B8cdEE52eBAaF4563069279d14",
+            "collection":"https://opensea.io/collection/s7nsofficial",
+            "title":"S7NS STATION"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://discord.gg/rVNZ4cevWd",
+            "address":"",
+            "collection":"https://opensea.io/collection/cryptohamsters-awww",
+            "title":"Cryptohamsters Official"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0x78D67F130e80Aaa0AAd5d786585D36b130Fd45dC",
+            "collection":"https://opensea.io/collection/cats-project",
+            "title":"Cats Project"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/jellydawgs",
+            "title":"JellyDawgs"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.marmottan.fr/en/",
+            "address":"0x72B481E23Ab8657FD2E72516916C8E4457E2167D",
+            "collection":"https://opensea.io/collection/monetgallery",
+            "title":"Monet Web3 Gallery"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://fatratmafia.com/",
+            "address":"0x2b9FD4D651414e51c9bA56aE1add36bb71cCa24B",
+            "collection":"https://opensea.io/collection/fat-rat-mafia",
+            "title":"Fat Rat Mafia"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://bbrc.io/",
+            "address":"0x809D8f2B12454FC07408d2479cf6DC701ecD5a9f",
+            "collection":"https://opensea.io/collection/bbrcofficial-ivyboys",
+            "title":"BBRC - IVY BOYS"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://luppynft.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/luppyclubofficial",
+            "title":"LuppyclubOfficial"
+         }
       }
    ]
 }
