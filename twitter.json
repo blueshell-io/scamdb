@@ -2459,13 +2459,6 @@
       },
       {
          "original":{
-            "username":"ResurgenceGame",
-            "title":"Resurgence"
-         },
-         "fake":null
-      },
-      {
-         "original":{
             "username":"blueshell_io",
             "title":"BlueShell"
          },
@@ -2599,6 +2592,69 @@
             "Franky00ted",
             "y000tlist"
          ]
-      }
+      },
+      {
+         "original":{
+            "username":"RecurForever",
+            "title":"RECUR"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"ShellzOrb",
+            "title":"Shellz Orb NFT | Revealing 8/25 9pm EST"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"InkeNFT",
+            "title":"Hoot Labs"
+         },
+         "fake":null
+         },
+      {
+         "original":{
+            "username":"RENGA_inc",
+            "title":"RENGA"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"LazyApeYC",
+            "title":"Lazy Ape Yacht Club"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"outland_art",
+            "title":"Outland"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"MirsofSpace",
+            "title":"Mirs of Space"
+         },
+         "fake":null
+         },
+       {
+         "original":{
+            "username":"webaverse",
+            "title":"Webaverse (🕳 🐇)"
+         },
+         "fake":null
+         },
+             {
+         "original":{
+            "username":"daydreamersgif",
+            "title":"DAYDREAMERS"
+         },
+         "fake":null
+         }
    ]
 }
