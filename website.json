@@ -3655,6 +3655,106 @@
             "collection":"",
             "title":"Rug Radio"
          }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://castaways.com/",
+            "address":"0x6AF88A2B51D37DD80B59CdA3aaac55eE34C6ea07",
+            "collection":"https://opensea.io/collection/castaways-the-raft",
+            "title":"Castaways - The Raft"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://pownft.io/",
+            "address":"0x658bdf5cba855E04724589a61c3E4B1856B69A5B",
+            "collection":"https://opensea.io/collection/pownftofficial",
+            "title":"Prisoner of War NFT"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://pownft.io/",
+            "address":"0x658bdf5cba855E04724589a61c3E4B1856B69A5B",
+            "collection":"https://opensea.io/collection/pownftofficial",
+            "title":"Prisoner of War NFT"
+         }
+      },
+     
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.youtube.com/channel/UCiYbkoMNQbCxX-TLYvVo8vw",
+            "address":"0x569718D9E7562312cEBf9316C31d000C80D542e3",
+            "collection":"https://opensea.io/collection/mihaverse-butterfly",
+            "title":"Mihaverse Butterfly"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://www.youtube.com/channel/UCiYbkoMNQbCxX-TLYvVo8vw",
+            "address":"0x569718D9E7562312cEBf9316C31d000C80D542e3",
+            "collection":"https://opensea.io/collection/mihaverse-butterfly",
+            "title":"Mihaverse Butterfly"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/valhallapass-ai",
+            "title":"valhallapass.ai"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://unfudables.phunks.net/",
+            "address":"0xFB47683D2Cca9EcC2d84674bB8658611FD56F277",
+            "collection":"https://opensea.io/collection/unfudables-1",
+            "title":"Unfudables"
+         }
+      },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0x0599699BBFC3a92589AD249607f7265c08A1FB61",
+            "collection":"https://opensea.io/collection/ozdao-pass",
+            "title":"OzDao Pass"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://www.pjpp.io/",
+            "address":"0x3598Fff0f78Dd8b497e12a3aD91FeBcFC8F49d9E",
+            "collection":"https://opensea.io/collection/pjpp",
+            "title":"Private Jet Pyjama Party"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0xFFc1131dDA0299b804C97c436bC8cFeA019e00a0",
+            "collection":"https://opensea.io/collection/looki",
+            "title":"Looki"
+         }
+      },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://sukilearnstofly.com/",
+            "address":"0x39223e2596bF8E1dE3894f66947cacc614C24A2f",
+            "collection":"https://opensea.io/collection/suki-learns-to-fly",
+            "title":"Suki Learns to Fly"
+         }
       }
    ]
 }
