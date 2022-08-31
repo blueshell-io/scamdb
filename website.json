@@ -3755,6 +3755,141 @@
             "collection":"https://opensea.io/collection/suki-learns-to-fly",
             "title":"Suki Learns to Fly"
          }
-      }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://sukilearnstofly.com/",
+            "address":"0x29d7ebca656665c1a52a92f830e413e394db6b4f",
+            "collection":"https://opensea.io/collection/the-phoenixes",
+            "title":"The Phoenixes by Habit Nest"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://lasogette.net/",
+            "address":"0xE90d8Fb7B79C8930B5C8891e61c298b412a6e81a",
+            "collection":"https://opensea.io/collection/lasogette",
+            "title":"Lasogette"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://pownft.io/",
+            "address":"0x658bdf5cba855e04724589a61c3e4b1856b69a5b",
+            "collection":"https://opensea.io/collection/pownftofficial",
+            "title":"Prisoner of War NFT"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://vitalikpumps.xyz/",
+            "address":"0x0965811aad6f8d534a7a879d5f5d119d4bae82e6",
+            "collection":"https://opensea.io/collection/vitalik-pumps",
+            "title":"Vitalik Pumps"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.doodlelabs.io/",
+            "address":"",
+            "collection":"https://opensea.io/collection/industrial-melanism-by-neil-grayson",
+            "title":"Industrial Melanism by Neil Grayson"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://cryptotabnft.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/nft-mining",
+            "title":"NFTs Mining"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://eyeforadventurers.com/",
+            "address":"0xb8a51862964f77025abb65e2C6a39EE8070c8ed4",
+            "collection":"https://opensea.io/collection/the-eye-for-adventurers",
+            "title":"The Eye (for Adventurers)"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/the-bfg",
+            "title":"The BFG"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/infected-solympus",
+            "title":"Infected Solympus"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0x0599699BBFC3a92589AD249607f7265c08A1FB61",
+            "collection":"https://opensea.io/collection/ozdao-pass",
+            "title":"OzDao Pass"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://foxmeta.wtf/",
+            "address":"0x7D56e39f456Cdd7DB9321C11Ba3D21583D90F467",
+            "collection":"https://opensea.io/collection/moonfoxgenesis",
+            "title":"MoonFox Genesis"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/liberty-square-sinister-squirrel",
+            "title":"Liberty Square: The Sinister Squirrel Syndicate"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://underground.io/",
+            "address":"0x0000000010C38b3D8B4D642D9D065FB69BC77bC7",
+            "collection":"https://opensea.io/collection/underground-pass",
+            "title":"Underground Pass"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/primates-solana",
+            "title":"Primates"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://ninjajapan.xyz/",
+            "address":"0xd225eC716EeD7aC915339EC8941CE9F0f34ba652",
+            "collection":"https://opensea.io/collection/ninja-of-jp",
+            "title":"Ninja_Of_JP"
+         }
+       }
    ]
 }
