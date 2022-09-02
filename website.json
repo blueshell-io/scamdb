@@ -4385,6 +4385,33 @@
             "collection":"https://opensea.io/collection/projectatamaofficial",
             "title":"Project Atama Genesis"
          }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://solbookie.io/",
+            "address":"",
+            "collection":"https://magiceden.io/marketplace/solbookie",
+            "title":"SolBookie Sportsbook"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://magiceden.io/marketplace/communi3",
+            "title":"Communi3: Mad Scientists"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://magiceden.io/marketplace/stylish_studs",
+            "title":"Photo Finish PFP Collection"
+         }
        }
    ]
 }
