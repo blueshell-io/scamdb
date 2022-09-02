@@ -4376,6 +4376,15 @@
             "collection":"https://magiceden.io/marketplace/frozen_bet",
             "title":"Frozen Bet"
          }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://projectatama.io/",
+            "address":"0xef5e3e60bd031498318ac97cf55db74357256282",
+            "collection":"https://opensea.io/collection/projectatamaofficial",
+            "title":"Project Atama Genesis"
+         }
        }
    ]
 }
