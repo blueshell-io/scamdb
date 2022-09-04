@@ -4142,6 +4142,42 @@
             "collection":"https://opensea.io/collection/abz-autogen",
             "title":"ABZ - autogen"
          }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://smetanas.io/",
+            "address":"",
+            "collection":"https://opensea.io/collection/smetanas-off",
+            "title":"Smetanas(MINT LIVE)"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://d3lusion.xyz/",
+            "address":"0x2c0d708C6E82DC6c427CE6A96BA5ff2EA09bE272",
+            "collection":"https://opensea.io/collection/d3lusion-genesis",
+            "title":"D3LUSION"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://ttoonft.io/",
+            "address":"0xF6ee484f82f28d69688f37fe90Af514ce212b7c3",
+            "collection":"https://opensea.io/collection/this-thing-of-ours-nft",
+            "title":"This Thing Of Ours - The NFT Gaming Collective"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/primal-pass-v2",
+            "title":"Primal Pass V2"
+         }
        }
    ]
 }
