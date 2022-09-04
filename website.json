@@ -3173,7 +3173,7 @@
       {
          "scams": null,
          "original":{
-            "url":"https://discord.gg/rVNZ4cevWd",
+            "url":"https://ohmyarts.top/",
             "address":"",
             "collection":"https://opensea.io/collection/cryptohamsters-awww",
             "title":"Cryptohamsters Official"
@@ -4026,31 +4026,31 @@
             "title":"The Panthira Society"
          }
        },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://renga.app/",
+            "address":"0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91",
+            "collection":"https://opensea.io/collection/renga-by-dirtyrobot",
+            "title":"RENGA by DirtyRobot"
+         }
+       },
       {
          "scams": null,
          "original":{
-            "url":"https://www.acidmonkeys.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/acidmonkeys",
-            "title":"Acid Monkeys"
+            "url":"https://digidaigaku.com/spirits",
+            "address":"0xa8824EeE90cA9D2e9906D377D36aE02B1aDe5973",
+            "collection":"https://opensea.io/collection/digidaigakuspirits",
+            "title":"DigiDaigaku Spirits"
          }
        },
        {
          "scams": null,
          "original":{
-            "url":"https://frootsnft.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/frootsnft",
-            "title":"Froots"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://blatantproject.xyz/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/blatant_nft",
-            "title":"Blatant"
+            "url":"http://tykes.io/",
+            "address":"0x0E32cEE0445413e118b14d02E0409303D338487a",
+            "collection":"https://opensea.io/collection/tykes",
+            "title":"Tykes"
          }
        },
        {
@@ -4058,8 +4058,26 @@
          "original":{
             "url":"",
             "address":"",
-            "collection":"https://magiceden.io/marketplace/krakenprogram",
-            "title":"The Kraken Program"
+            "collection":"https://opensea.io/collection/acid-monkeys-solana",
+            "title":"Acid Monkeys"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://mathcastles.xyz/",
+            "address":"0x4e1f41613c9084fdb9e34e11fae9412427480e56",
+            "collection":"https://opensea.io/collection/terraforms",
+            "title":"Terraforms by Mathcastles"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://www.duckpunkz.com/",
+            "address":"",
+            "collection":"https://opensea.io/collection/duck-punkz-universe-solana",
+            "title":"Duck Punkz Universe"
          }
        },
       {
@@ -4067,287 +4085,26 @@
          "original":{
             "url":"https://galacticgeckos.com/",
             "address":"",
-            "collection":"https://magiceden.io/marketplace/galactic_geckos",
-            "title":"GGSG: Galactic Geckos"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/other_world",
-            "title":"Other World"
+            "collection":"https://opensea.io/collection/galactic-gecko-space-garage",
+            "title":"Galactic Gecko Space Garage"
          }
        },
       {
          "scams": null,
          "original":{
-            "url":"https://www.vandalcity.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/vandal_city",
-            "title":"Vandals"
+            "url":"http://blyc.fun/",
+            "address":"0xA9D2A42ea0272736Be82CF3B704d1f7d59F3CfEb",
+            "collection":"https://opensea.io/collection/blycnft",
+            "title":"BLYC NFT"
          }
        },
       {
          "scams": null,
          "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/simsalabim_",
-            "title":"Simsalabim"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://mobstudios.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/infected_mob",
-            "title":"Infected Mob"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://lotusgang.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/lotus_gang_nft",
-            "title":"Lotus Gang NFT"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://libertysquare.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/liberty_square",
-            "title":"Liberty Square: The Sinister Squirrel Syndicate"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/oak_paradise",
-            "title":"Oak Paradise"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://www.trippinapetribe.xyz/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/trippin_ape_tribe",
-            "title":"Trippin' Ape Tribe"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/meowths",
-            "title":"Meowths"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://www.blocksmithlabs.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/blocksmith_labs",
-            "title":"Blocksmith Labs"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://udderchaos.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/udder_chaos",
-            "title":"Udder Chaos"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/samo_nft",
-            "title":"Samoyedcoin"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://www.thebfgs.app/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/thebfgs",
-            "title":"The BFGs"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/zeninaio",
-            "title":"Zenin"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://voxninjas.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/voxninjas",
-            "title":"VoxNinjas"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://degenfatcats.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/degenfatcats",
-            "title":"Degen Fat Cats"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/eco_eyes_nft",
-            "title":"Eco eyes"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://www.thefracture.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/solgods",
-            "title":"SOLgods"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://sentries.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/sentries",
-            "title":"Sentries"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://www.cetsoncreck.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/cets_milk_bottle",
-            "title":"Cets Milk Bottle"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/degen_dummiess_",
-            "title":"Degen Dummiess"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://degentrashpandas.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/degenerate_trash_pandas",
-            "title":"Degenerate Trash Pandas"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"https://susanoo.io/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/susanoo",
-            "title":"Susanoo"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://incubation.taiyorobotics.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/taiyo_infants_incubators",
-            "title":"Taiyo Infants/Incubators"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/taiyooil",
-            "title":"Taiyo Oil"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"http://genopets.me/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/genesis_genopets_habitats",
-            "title":"Genesis Genopets Habitats"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://eternaldragons.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/eternal_dragons_genesis",
-            "title":"Eternal Dragons: Genesis"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://shinobies.wtf/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/shinobiesnft",
-            "title":"Shinobies"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://shinobies.wtf/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/shinobiesnft",
-            "title":"Shinobies"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"https://jellybabiesnft.com/",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/jellydawgs",
-            "title":"JellyDawgs"
-         }
-       },
-      {
-         "scams": null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://magiceden.io/marketplace/solana_monkey_business",
-            "title":"Solana Monkey Business"
+            "url":"https://ivy.bbrc.io/ivy-league",
+            "address":"0x03c3f46e05835693dc93d6374b6bb36c979c9ac6",
+            "collection":"https://opensea.io/collection/ivyleague",
+            "title":"BBRC - IVY LEAGUE"
          }
        },
       {
@@ -4355,17 +4112,26 @@
          "original":{
             "url":"https://taiyorobotics.com/",
             "address":"",
-            "collection":"https://magiceden.io/marketplace/taiyo_robotics",
+            "collection":"https://opensea.io/collection/taiyo-robotics",
             "title":"Taiyo Robotics"
          }
        },
-       {
+      {
          "scams": null,
          "original":{
-            "url":"https://stonedapecrew.com/",
+            "url":"https://whop.com/",
+            "address":"0xe6408dd80ee4d7596151ead35b37bdf84d2a3b0f",
+            "collection":"https://opensea.io/collection/dragon-fish-tokyo",
+            "title":"Dragon Fish Tokyo"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://www.spacehuntersnft.com/",
             "address":"",
-            "collection":"https://magiceden.io/marketplace/stoned_ape_crew",
-            "title":"Stoned Ape Crew"
+            "collection":"https://opensea.io/collection/spac3-hunters-collection",
+            "title":"SPAC3_HUNTERS Collection"
          }
        },
       {
@@ -4373,17 +4139,8 @@
          "original":{
             "url":"",
             "address":"",
-            "collection":"https://magiceden.io/marketplace/frozen_bet",
-            "title":"Frozen Bet"
-         }
-       },
-       {
-         "scams": null,
-         "original":{
-            "url":"http://projectatama.io/",
-            "address":"0xef5e3e60bd031498318ac97cf55db74357256282",
-            "collection":"https://opensea.io/collection/projectatamaofficial",
-            "title":"Project Atama Genesis"
+            "collection":"https://opensea.io/collection/abz-autogen",
+            "title":"ABZ - autogen"
          }
        }
    ]
