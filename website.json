@@ -4142,6 +4142,114 @@
             "collection":"https://opensea.io/collection/abz-autogen",
             "title":"ABZ - autogen"
          }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://smetanas.io/",
+            "address":"",
+            "collection":"https://opensea.io/collection/smetanas-off",
+            "title":"Smetanas(MINT LIVE)"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://d3lusion.xyz/",
+            "address":"0x2c0d708C6E82DC6c427CE6A96BA5ff2EA09bE272",
+            "collection":"https://opensea.io/collection/d3lusion-genesis",
+            "title":"D3LUSION"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://ttoonft.io/",
+            "address":"0xF6ee484f82f28d69688f37fe90Af514ce212b7c3",
+            "collection":"https://opensea.io/collection/this-thing-of-ours-nft",
+            "title":"This Thing Of Ours - The NFT Gaming Collective"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/primal-pass-v2",
+            "title":"Primal Pass V2"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://projectatama.io/",
+            "address":"0xef5e3e60bd031498318ac97cf55db74357256282",
+            "collection":"https://opensea.io/collection/projectatamaofficial",
+            "title":"Project Atama Genesis"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://proton.me/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.manta.network/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://polkaswap.io/#/swap",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://www.binance.com/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://debank.com/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://www.nftalerts.app/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://www.mochi.game/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
        }
    ]
 }
