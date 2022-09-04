@@ -4178,6 +4178,78 @@
             "collection":"https://opensea.io/collection/primal-pass-v2",
             "title":"Primal Pass V2"
          }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://projectatama.io/",
+            "address":"0xef5e3e60bd031498318ac97cf55db74357256282",
+            "collection":"https://opensea.io/collection/projectatamaofficial",
+            "title":"Project Atama Genesis"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://proton.me/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.manta.network/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://polkaswap.io/#/swap",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://www.binance.com/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://debank.com/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://www.nftalerts.app/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://www.mochi.game/",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
        }
    ]
 }
