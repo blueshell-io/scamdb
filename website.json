@@ -3712,7 +3712,7 @@
          }
       },
        {
-         "scams": null,
+         "scams": [ ,
          "original":{
             "url":"",
             "address":"",
@@ -4348,6 +4348,17 @@
             "address":"0x1fd468114d46b0315b702e8a332ff0a7d242d61d",
             "collection":"https://opensea.io/collection/miningversenftofficial",
             "title":"MiningverseNFT Official"
+         }
+       },
+      {
+         "scams": [ 
+            { "url": "https://xn--ooksrare-mnb.org/"}
+            ],
+         "original":{
+            "url":"https://looksrare.org/",
+            "address":"",
+            "collection":"",
+            "title":"Looksrare"
          }
        }
      
