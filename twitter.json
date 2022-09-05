@@ -14,7 +14,8 @@
             "OthersidMetaa",
             "OthersideOwner",
             "OthersideMetaN",
-            "Otherside_metaa"
+            "Otherside_metaa",
+            "OthresiteMeta"
          ]
       },
       {
@@ -136,7 +137,8 @@
             "RTFKTstudlos",
             "Selen34127587",
             "RTFKT_",
-            "RTFKTNIKE_"
+            "RTFKTNIKE_",
+            "WCAX_Darren"
          ]
       },
       {
@@ -185,7 +187,8 @@
             "coolcatsnfs",
             "NFTCoolCats_",
             "nfts_coolcatss",
-            "CoolCatsPolygon"
+            "CoolCatsPolygon",
+            "cool_catsnfts"
          ]
       },
       {
@@ -2595,7 +2598,8 @@
             "moui",
             "@Jh_Oly",
             "blwar2awel2alm",
-            "Jh_Oly"
+            "Jh_Oly",
+            "y00t_nft"
          ]
       },
       {
@@ -3473,6 +3477,14 @@
             "title":"Super Space Defenders (Mint is live)"
          },
          "fake":null
+      },
+      {
+         "original":{
+            "username":"LooksRare",
+            "title":"LooksRare.eth"
+         },
+         "fake": [ "ben_hagin22"]
       }
+      
    ]
 }
