@@ -3491,7 +3491,48 @@
             "title":"Art Blocks"
          },
          "fake": [ "artblok__io"]
+      },
+      {
+         "original":{
+            "username":"DigiDaigaku",
+            "title":"DigiDaigaku"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"SteadyStackNFT",
+            "title":"Steady Stack Titans"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"dotbitHQ",
+            "title":".bit"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"CryptoDickbutts",
+            "title":"CryptoDickbutts"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"BIG3Ownership",
+            "title":"BIG3 Ownership"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"TheGoda_io",
+            "title":"Gallery Of Digital Assets ⚪️"
+         },
+         "fake":null
       }
-      
    ]
 }
