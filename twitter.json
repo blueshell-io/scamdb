@@ -3484,6 +3484,13 @@
             "title":"LooksRare.eth"
          },
          "fake": [ "ben_hagin22"]
+      },
+      {
+         "original":{
+            "username":"artblocks_io",
+            "title":"Art Blocks"
+         },
+         "fake": [ "artblok__io"]
       }
       
    ]
