@@ -231,6 +231,10 @@
                "url":"https://moonbirdz.mints-link.com/",
                "address":"",
                "collection":""
+            }, 
+            { "url" : "https://moonbirds2022.xyz/",
+              "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -4424,6 +4428,69 @@
             "title":"Liberty Square: The Sinister Squirrel Syndicate"
          }
        },
+{
+         "scams": null,
+         "original":{
+            "url":"https://jadu.ar/avas",
+            "address":"",
+            "collection":"",
+            "title":"Jadu AVAs"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"https://www.deepblu.io/",
+            "address":"",
+            "collection":"",
+            "title":"Deep Blu"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"http://wallysnft.com/",
+            "address":"0xD3C8f22e50d8cA4856263693EDBFC221bcBddBfb",
+            "collection":"https://opensea.io/collection/wallys-origins",
+            "title":"Wally's Origins"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0xAE0b454e9a3CB062A83C81957A410B0256891E53",
+            "collection":"https://opensea.io/collection/doubledigidaigakuofficial",
+            "title":"DoubleDigiDaigaku"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0x47f2b484679Aa8Dfafb3ee363156ca0d0A3aa81b",
+            "collection":"https://opensea.io/collection/compound",
+            "title":"THE COMPOUND"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"http://cryptics.io/",
+            "address":"0xa76746C2dD0123cBd7a207064237b37447E0C2F0",
+            "collection":"https://opensea.io/collection/cryptics-nft",
+            "title":"Cryptics NFT"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"https://utility.cyber-linx.io/",
+            "address":"",
+            "collection":"https://coralcube.io/collection/cyberlinxnft",
+            "title":"Cyberlinx"
+         }
+       }
      
    ]
 }
