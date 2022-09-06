@@ -15,7 +15,9 @@
             "OthersideOwner",
             "OthersideMetaN",
             "Otherside_metaa",
-            "OthresiteMeta"
+            "OthresiteMeta",
+            "OthresiteMeta",
+            "unstable_terra"
          ]
       },
       {
@@ -70,6 +72,7 @@
             "thepootatoz",
             "thepotatooz",
             "thepotatozx"
+           
          ]
       },
       {
@@ -96,7 +99,7 @@
             "username":"BoredApeYC",
             "title":"Bored Ape Yacht Club"
          },
-         "fake":null
+         "fake": [ "Wilsonc16678966", "BoredApeNNYC"]
       },
       {
          "original":{
@@ -104,7 +107,7 @@
             "title":"Meebits"
          },
          "fake":[
-            "MeebitsYuga"
+            "MeebitsYuga", "Meebitaverse"
          ]
       },
       {
@@ -138,7 +141,8 @@
             "Selen34127587",
             "RTFKT_",
             "RTFKTNIKE_",
-            "WCAX_Darren"
+            "WCAX_Darren",
+            "Matt_J_Shepherd"
          ]
       },
       {
@@ -163,7 +167,8 @@
             "Oddlties_",
             "moonbirds_xyz_",
             "moonbirdzNfts",
-            "mooonnbirds"
+            "mooonnbirds",
+            "MoonBirds_org"
          ]
       },
       {
@@ -188,7 +193,8 @@
             "NFTCoolCats_",
             "nfts_coolcatss",
             "CoolCatsPolygon",
-            "cool_catsnfts"
+            "cool_catsnfts",
+            "cooIcats_nft"
          ]
       },
       {
@@ -209,7 +215,8 @@
          "fake":[
             "wordofwomennft",
             "Worldofwomennf3",
-            "worldofw0mennft"
+            "worldofw0mennft",
+            "worldofwomannft"
          ]
       },
       {
@@ -777,7 +784,7 @@
             "username":"DeGodsNFT",
             "title":"DeGods"
          },
-         "fake":null
+         "fake": ["DeGod_NFT", "DeGodsNtf", "DeGodNFTs"]
       },
       {
          "original":{
@@ -1897,7 +1904,7 @@
             "username":"DigiDaigaku",
             "title":"DigiDaigaku"
          },
-         "fake":null
+         "fake": [ "DigiDaigauku", "GlftedTigersNFT", "DlgiDaigaku", "DigiDagiaku", "DigisDaigaku" ]
       },
       {
          "original":{
@@ -2254,7 +2261,7 @@
             "username":"IsekaiMeta",
             "title":"Isekai Meta"
          },
-         "fake":null
+         "fake": ["lsekaiMeta"]
       },
       {
          "original":{
@@ -2599,7 +2606,9 @@
             "@Jh_Oly",
             "blwar2awel2alm",
             "Jh_Oly",
-            "y00t_nft"
+            "y00t_nft",
+            "yOOts_NFT",
+            "yoots0409"
          ]
       },
       {
@@ -3548,5 +3557,40 @@
          },
          "fake":null
       },
+       {
+         "original":{
+            "username":"JaduAVAs",
+            "title":"Jadu AVAs"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"DeepBluIO",
+            "title":"Deep Blu | Minting Tuesday 6th Sept 5pm EST"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"WallysNFT",
+            "title":"Wally’s NFT"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"_COMPOUND",
+            "title":"COMPOUND"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"CyberlinxNFT",
+            "title":"Cyberlinx NFT 😼👈 | MINT CLOSED"
+         },
+         "fake":null
+      }
    ]
 }
