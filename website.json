@@ -4360,7 +4360,70 @@
             "collection":"",
             "title":"Looksrare"
          }
-       }
+       },
+ {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/y00ts-mint-t00b",
+            "title":"y00ts mint t00b"
+         }
+       },
+ {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/satori-solana",
+            "title":"Satori"
+         }
+       },
+ {
+         "scams": null,
+         "original":{
+            "url":"http://www.anonymouscactusclub.io/",
+            "address":"0x87E0864DE88C60c5d11d51647E5bF12dB3974674",
+            "collection":"https://opensea.io/collection/anonymouscactusclub",
+            "title":"Anonymous Cactus Club"
+         }
+       },
+ {
+         "scams": null,
+         "original":{
+            "url":"http://beeble.xyz/",
+            "address":"0x90702Bd8f020De7d5C1FF6730Ac9582741B9155a",
+            "collection":"https://opensea.io/collection/slice-of-heaven-by-beeble",
+            "title":"SLICE OF HEAVEN BY BEEBLE"
+         }
+       },
+ {
+         "scams": null,
+         "original":{
+            "url":"http://jenkinsthevalet.com/",
+            "address":"0x880644ddF208E471C6f2230d31f9027578FA6FcC",
+            "collection":"https://opensea.io/collection/jenkins-the-valet",
+            "title":"Jenkins the Valet: The Writer's Room"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/liberty-square-sinister-squirrel",
+            "title":"Liberty Square: The Sinister Squirrel Syndicate"
+         }
+       },
+{
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/liberty-square-sinister-squirrel",
+            "title":"Liberty Square: The Sinister Squirrel Syndicate"
+         }
+       },
      
    ]
 }
