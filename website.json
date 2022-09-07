@@ -3716,7 +3716,7 @@
          }
       },
        {
-         "scams": [ ,
+         "scams":null,
          "original":{
             "url":"",
             "address":"",
