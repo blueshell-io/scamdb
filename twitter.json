@@ -14,7 +14,10 @@
             "OthersidMetaa",
             "OthersideOwner",
             "OthersideMetaN",
-            "Otherside_metaa"
+            "Otherside_metaa",
+            "OthresiteMeta",
+            "OthresiteMeta",
+            "unstable_terra"
          ]
       },
       {
@@ -69,6 +72,7 @@
             "thepootatoz",
             "thepotatooz",
             "thepotatozx"
+           
          ]
       },
       {
@@ -95,7 +99,7 @@
             "username":"BoredApeYC",
             "title":"Bored Ape Yacht Club"
          },
-         "fake":null
+         "fake": [ "Wilsonc16678966", "BoredApeNNYC"]
       },
       {
          "original":{
@@ -103,7 +107,7 @@
             "title":"Meebits"
          },
          "fake":[
-            "MeebitsYuga"
+            "MeebitsYuga", "Meebitaverse"
          ]
       },
       {
@@ -136,7 +140,9 @@
             "RTFKTstudlos",
             "Selen34127587",
             "RTFKT_",
-            "RTFKTNIKE_"
+            "RTFKTNIKE_",
+            "WCAX_Darren",
+            "Matt_J_Shepherd"
          ]
       },
       {
@@ -161,7 +167,8 @@
             "Oddlties_",
             "moonbirds_xyz_",
             "moonbirdzNfts",
-            "mooonnbirds"
+            "mooonnbirds",
+            "MoonBirds_org"
          ]
       },
       {
@@ -185,7 +192,9 @@
             "coolcatsnfs",
             "NFTCoolCats_",
             "nfts_coolcatss",
-            "CoolCatsPolygon"
+            "CoolCatsPolygon",
+            "cool_catsnfts",
+            "cooIcats_nft"
          ]
       },
       {
@@ -206,7 +215,8 @@
          "fake":[
             "wordofwomennft",
             "Worldofwomennf3",
-            "worldofw0mennft"
+            "worldofw0mennft",
+            "worldofwomannft"
          ]
       },
       {
@@ -774,7 +784,7 @@
             "username":"DeGodsNFT",
             "title":"DeGods"
          },
-         "fake":null
+         "fake": ["DeGod_NFT", "DeGodsNtf", "DeGodNFTs"]
       },
       {
          "original":{
@@ -1894,7 +1904,7 @@
             "username":"DigiDaigaku",
             "title":"DigiDaigaku"
          },
-         "fake":null
+         "fake": [ "DigiDaigauku", "GlftedTigersNFT", "DlgiDaigaku", "DigiDagiaku", "DigisDaigaku" ]
       },
       {
          "original":{
@@ -2251,7 +2261,7 @@
             "username":"IsekaiMeta",
             "title":"Isekai Meta"
          },
-         "fake":null
+         "fake": ["lsekaiMeta"]
       },
       {
          "original":{
@@ -2594,7 +2604,11 @@
             "y000tlist",
             "moui",
             "@Jh_Oly",
-            "blwar2awel2alm"
+            "blwar2awel2alm",
+            "Jh_Oly",
+            "y00t_nft",
+            "yOOts_NFT",
+            "yoots0409"
          ]
       },
       {
@@ -3409,7 +3423,174 @@
             "title":"This Thing of Ours"
          },
          "fake":null
+      },
+       {
+         "original":{
+            "username":"ProjectACClub",
+            "title":"Anonymous Cactus Club - SOLD OUT"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"Beeble_XYZ",
+            "title":"My Beautiful Dark Twisted Fantasy"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"thegenznft",
+            "title":"thegenz (:degenz)"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"JIKANSTUDIOS",
+            "title":"JIKAN STUDIOS │888│"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"LookiAvatar",
+            "title":"LookiAvatar"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"DollarStoreKids",
+            "title":"Dollar Store Kids"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"MiningverseNFT",
+            "title":"MiningverseNFT Phase 2 Coming"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"thenftwar",
+            "title":"The NFT War (Minting 5th Sep, 2:00 PM EST)"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"SSDefendersNFT",
+            "title":"Super Space Defenders (Mint is live)"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"LooksRare",
+            "title":"LooksRare.eth"
+         },
+         "fake": [ "ben_hagin22"]
+      },
+      {
+         "original":{
+            "username":"artblocks_io",
+            "title":"Art Blocks"
+         },
+         "fake": [ "artblok__io"]
+      },
+      {
+         "original":{
+            "username":"DigiDaigaku",
+            "title":"DigiDaigaku"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"SteadyStackNFT",
+            "title":"Steady Stack Titans"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"dotbitHQ",
+            "title":".bit"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"CryptoDickbutts",
+            "title":"CryptoDickbutts"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"BIG3Ownership",
+            "title":"BIG3 Ownership"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"TheGoda_io",
+            "title":"Gallery Of Digital Assets ⚪️"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"Beeble_XYZ",
+            "title":"My Beautiful Dark Twisted Fantasy"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"jenkinsthevalet",
+            "title":"Jenkins The Valet 🍌 Is Feeling Bored & Dangerous"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"JaduAVAs",
+            "title":"Jadu AVAs"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"DeepBluIO",
+            "title":"Deep Blu | Minting Tuesday 6th Sept 5pm EST"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"WallysNFT",
+            "title":"Wally’s NFT"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"_COMPOUND",
+            "title":"COMPOUND"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"CyberlinxNFT",
+            "title":"Cyberlinx NFT 😼👈 | MINT CLOSED"
+         },
+         "fake":null
       }
-      
    ]
 }
