@@ -4693,7 +4693,20 @@
             "collection":"https://opensea.io/collection/virtuestudios",
             "title":"Virtue Animation Studios"
          }
-       }
+       },
+
+{
+         "scams": { "url":"https://www.thesandboxesgame.com",
+"Address":"",
+"Collection":""},
+         "original":{
+            "url":"https://www.sandbox.game/en/",
+            "address":"",
+            "collection":"",
+            "title":"Sandbox Games"
+         }
+       },
+
      
    ]
 }
