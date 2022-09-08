@@ -11,6 +11,11 @@
                "url":"https://otlherside.com/",
                "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
                "collection":""
+            },
+             {
+               "url":"https://otherside.ink.com",
+               "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
+               "collection":""
             }
          ],
          "original":{
@@ -418,8 +423,12 @@
                "url":"https://veefriends.web-mints-link.com/",
                "address":"",
                "collection":""
-            }
-         ],
+            },
+            {
+               "url":"https://veefriends.minting.live/",
+               "address":"",
+               "collection":""
+            }     ],
          "original":{
             "url":"https://veefriends.com/",
             "address":"0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB",
@@ -633,6 +642,11 @@
                "url":"https://invisible.web-mints-link.com/",
                "address":"",
                "collection":""
+            },
+             {
+               "url":"https://invisible.mints-link.com/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -705,6 +719,16 @@
                "url":"https://flufworld.free-drop.cc/",
                "address":"",
                "collection":""
+            },
+             {
+               "url":"https://flufworld-mints.com/",
+               "address":"",
+               "collection":""
+            },
+             {
+               "url":"https://flufworld-mintscheap.com/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -718,6 +742,11 @@
          "scams":[
             {
                "url":"https://mintnft-cheap.com/CreatureWorld",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"https://mintnft.com/CreatureWorld",
                "address":"",
                "collection":""
             }
@@ -789,6 +818,11 @@
                "url":"https://mintnft-cheap.com/LazyLions",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"https://mintnft.com/LazyLions",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -847,6 +881,11 @@
          "scams":[
             {
                "url":"https://deadfellaz.pre-minting.live/",
+               "address":"",
+               "collection":""
+            },
+             {
+               "url":"https://deadfellaz-mints.com/",
                "address":"",
                "collection":""
             }
@@ -4489,6 +4528,141 @@
             "address":"",
             "collection":"https://coralcube.io/collection/cyberlinxnft",
             "title":"Cyberlinx"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"http://y00tsyachtclub.com/",
+            "address":"0x705b9dbd0d5607beafe12e2fb74d64268d3ba35f",
+            "collection":"https://opensea.io/collection/y00ts-yacht-club",
+            "title":"y00ts Yacht Club"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"http://kikiverse.gg/",
+            "address":"0x705b9dbd0d5607beafe12e2fb74d64268d3ba35f",
+            "collection":"https://opensea.io/collection/kikiverseofficial",
+            "title":"KikiVerse - Official"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://jadu.ar/",
+            "address":"0x86fc6f6c6702cef7d3bae87ef41256715416db71",
+            "collection":"https://opensea.io/collection/jadu-ava",
+            "title":"Jadu AVA"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://jadu.ar/",
+            "address":"0xa9ba1a433ec326bca975aef9a1641b42717197e7",
+            "collection":"Gangster All Star Evolution",
+            "title":"Jadu AVA"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.artblocks.io/project/341",
+            "address":"",
+            "collection":"https://opensea.io/collection/raster-by-itsgalo",
+            "title":"RASTER by itsgalo"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.artblocks.io/project/341",
+            "address":"0xd33BC0aF2Dc4E39cBaef4BeFf8D1fB3c00c2E7A3",
+            "collection":"https://opensea.io/collection/alpha-centauri-kid",
+            "title":"ACK Unique Editions / 1 of 1"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.artblocks.io/project/341",
+            "address":"",
+            "collection":"https://opensea.io/collection/sol-turtles",
+            "title":"Turtles"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/liberty-square-sinister-squirrel",
+            "title":"Liberty Square: The Sinister Squirrel Syndicate"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://dame.art/ponw",
+            "address":"0x7FFe10BC9808135999bC235F07B4cE45fA687A52",
+            "collection":"https://opensea.io/collection/ponw",
+            "title":"Proof of (No) Work"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"0x4b13e4107b62cdcb96e0ad84ad4bc2f684440d13",
+            "collection":"https://opensea.io/collection/yeetsnft",
+            "title":"yEEts NFT"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://www.bgyc.art/",
+            "address":"0x5d95c4c73e152727750df27ff7da1c7169430dd6",
+            "collection":"https://opensea.io/collection/boredgorillayachtclub",
+            "title":"BGYC"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/da-bois",
+            "title":"DA BOiS"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/da-bois",
+            "title":"DA BOiS"
+         }
+       },
+       {
+         "scams": null,
+         "original":{
+            "url":"https://royalgoatsclub.com/",
+            "address":"0xdf5e772cd2b066172e27a3f7a6f23c460a3b964a",
+            "collection":"https://opensea.io/collection/royal-goats-club",
+            "title":"Royal Goats Club"
+         }
+       },
+      {
+         "scams": null,
+         "original":{
+            "url":"https://virtueanimation.com/",
+            "address":"0x5ba5c02f504aa46092a547f34b19e19da1eca7dc",
+            "collection":"https://opensea.io/collection/virtuestudios",
+            "title":"Virtue Animation Studios"
          }
        }
      
