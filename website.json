@@ -82,6 +82,11 @@
                "url":"https://privatefoxes.free-airdrop.live/",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"https://www.privatefoxes-premint.com/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -155,6 +160,11 @@
                "url":"https://cryptopunks.pre-minting.live/",
                "address":"",
                "collection":""
+            },
+             {
+               "url":"https://cryptopunks.cheap-minting.live/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -203,6 +213,11 @@
                "url":"https://rtfkt.mints-link.com/",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"https://rtfkt.freemints-link.com/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -240,6 +255,10 @@
             { "url" : "https://moonbirds2022.xyz/",
               "address":"",
                "collection":""
+            },
+            { "url" : "https://moonbirdz.freemints-link.com/",
+              "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -262,6 +281,16 @@
          "scams":[
             {
                "url":"https://thedoodles.claims",
+               "address":"0xF0907d197D4D7f02E012CdaA375a5b0a0F1c9e81",
+               "collection":""
+            },
+            {
+               "url":"https://thedoodles.freeclaims/",
+               "address":"0xF0907d197D4D7f02E012CdaA375a5b0a0F1c9e81",
+               "collection":""
+            },
+             {
+               "url":"https://doodles.freemints-link.com/",
                "address":"0xF0907d197D4D7f02E012CdaA375a5b0a0F1c9e81",
                "collection":""
             },
