@@ -55,6 +55,15 @@
       {
          "scams":null,
          "original":{
+            "url":"https://verify.blueshell.io/",
+            "address":"",
+            "collection":"",
+            "title":"Verify BlueShell"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://strxngers.me/",
             "address":"https://etherscan.io/address/0xe5b4d6b5f37cae9dc4c7384cd97038cd0573d7d2",
             "collection":"https://opensea.io/collection/strxngers",
