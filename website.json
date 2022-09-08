@@ -4019,7 +4019,12 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://tykesnft.io/",
+               "address":"",
+               "collection":""
+            }],
          "original":{
             "url":"http://tykes.io/",
             "address":"0x0E32cEE0445413e118b14d02E0409303D338487a",
