@@ -371,7 +371,7 @@
             "username":"InvsbleFriends",
             "title":"Invisible Friends"
          },
-         "fake": [ "lnvsibleFriend", "InvsbleFriends"]
+         "fake": [ "lnvsibleFriend", "InvsbleFriends", "InvsbleFriends"]
       },
       {
          "original":{
@@ -2592,10 +2592,15 @@
             "y00tIist",
             "JohnG06047554",
             "y00tlist_meme",
+            "y00tsLists",
             "y00tl1st",
             "y00tsliist",
             "yO0tlist",
+            "yOOts_NFT",
+           "yO0ts", 
+            "yO0tNFT",
             "y0Otlist",
+            "y00tsNFT"
             "y00tlist_mov",
             "y00tsIist",
             "y00tlIist",
@@ -3623,6 +3628,34 @@
          "original":{
             "username":"mooncatrescue",
             "title":"MoonCats"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"marimoNFT_life",
+            "title":"marimo"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"Official_Tracer",
+            "title":"TRACER"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"Beeble_XYZ",
+            "title":"My Beautiful Dark Twisted Fantasy"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"justape_",
+            "title":"Ape. 🍌"
          },
          "fake":null
       }
