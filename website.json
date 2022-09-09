@@ -683,6 +683,31 @@
                "url":"https://goblintown.pre-minting.live/",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"http://goblintown.gifts/",
+               "address":"",
+               "collection":""
+            },
+             {
+               "url":"https://golbinstown.wtf/mint/",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"http://goblinsburgers.wtf/",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"https://goblintown.eu/",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"https://goblinetown.xyz/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -4488,9 +4513,21 @@
          }
       },
       {
-         "scams":null,
+         "scams":[ {"url":"https://launchmynft.io/collections/46ZLcyDnpvEMfwMgRuk7FW8kN2ku8uSXAnv64Q8ua2QL/cIs2ubFkWLwz4EeLVTyZ",
+                  "address":"",
+                  "collection":""},
+         {"url":"https://mint-y00ts.com/",
+                  "address":"",
+                  "collection":""},
+       {"url":"https://t00b.y00ts.com/?disableVideo=true",
+                  "address":"",
+                  "collection":""},
+       {"url":"https://www.launchmynft.io/collections/kxEuw1korYvYxsdHZ5Ee7fvKQL56xWeabsJm8H4vfYe/Yx05ctLF1DOjU6M2Oy0F",
+                  "address":"",
+                  "collection":""}
+],
          "original":{
-            "url":"",
+            "url":"https://www.y00ts.com/",
             "address":"",
             "collection":"https://opensea.io/collection/y00ts-mint-t00b",
             "title":"y00ts mint t00b"
