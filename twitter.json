@@ -63,7 +63,7 @@
             "title":"MetaMask"
          },
          "fake":[
-            "metamasknews", 
+            "metamasknews",
             "gocalize",
             "MetamaskAlerts"
          ]
@@ -83,7 +83,6 @@
             "thepootatoz",
             "thepotatooz",
             "thepotatozx"
-           
          ]
       },
       {
@@ -110,7 +109,10 @@
             "username":"BoredApeYC",
             "title":"Bored Ape Yacht Club"
          },
-         "fake": [ "Wilsonc16678966", "BoredApeNNYC"]
+         "fake":[
+            "Wilsonc16678966",
+            "BoredApeNNYC"
+         ]
       },
       {
          "original":{
@@ -118,7 +120,8 @@
             "title":"Meebits"
          },
          "fake":[
-            "MeebitsYuga", "Meebitaverse"
+            "MeebitsYuga",
+            "Meebitaverse"
          ]
       },
       {
@@ -346,7 +349,14 @@
             "gamzeJL0",
             "goblinstownswtf",
             "goblinstownswtf",
-            "goblintownsxyz"
+            "goblintownsxyz",
+            "gobIinstownwtf",
+            "askimsadecesev",
+            "goblintownwtf",
+            "goblntownnft",
+            "goblintowneu",
+            "goblintownwt",
+            "fJsy9KvYGbzEuBo"
          ]
       },
       {
@@ -382,7 +392,11 @@
             "username":"InvsbleFriends",
             "title":"Invisible Friends"
          },
-         "fake": [ "lnvsibleFriend", "InvsbleFriends", "InvsbleFriends"]
+         "fake":[
+            "lnvsibleFriend",
+            "InvsbleFriends",
+            "InvsbleFriends"
+         ]
       },
       {
          "original":{
@@ -795,7 +809,11 @@
             "username":"DeGodsNFT",
             "title":"DeGods"
          },
-         "fake": ["DeGod_NFT", "DeGodsNtf", "DeGodNFTs"]
+         "fake":[
+            "DeGod_NFT",
+            "DeGodsNtf",
+            "DeGodNFTs"
+         ]
       },
       {
          "original":{
@@ -1915,7 +1933,13 @@
             "username":"DigiDaigaku",
             "title":"DigiDaigaku"
          },
-         "fake": [ "DigiDaigauku", "GlftedTigersNFT", "DlgiDaigaku", "DigiDagiaku", "DigisDaigaku" ]
+         "fake":[
+            "DigiDaigauku",
+            "GlftedTigersNFT",
+            "DlgiDaigaku",
+            "DigiDagiaku",
+            "DigisDaigaku"
+         ]
       },
       {
          "original":{
@@ -2272,7 +2296,9 @@
             "username":"IsekaiMeta",
             "title":"Isekai Meta"
          },
-         "fake": ["lsekaiMeta"]
+         "fake":[
+            "lsekaiMeta"
+         ]
       },
       {
          "original":{
@@ -2608,7 +2634,7 @@
             "y00tsliist",
             "yO0tlist",
             "yOOts_NFT",
-           "yO0ts", 
+            "yO0ts",
             "yO0tNFT",
             "y0Otlist",
             "y00tsNFT",
@@ -2630,7 +2656,9 @@
             "y00tsNFT",
             "yOOts_NFT",
             "yO0ts",
-            "yO0tNFT"
+            "yO0tNFT",
+            "_y00tsNFT",
+            "y00tsNFTs_"
          ]
       },
       {
@@ -2729,7 +2757,10 @@
             "username":"fatratmafia",
             "title":"Fat Rat Mafia | SOLD OUT IN 7 MINS"
          },
-         "fake":null
+         "fake":[
+            "morganewebs",
+            "mani_buvana"
+         ]
       },
       {
          "original":{
@@ -2841,7 +2872,10 @@
             "username":"Cryptosimeji",
             "title":"Simeji NFT"
          },
-         "fake":null
+         "fake":[
+            "cryptosimeji0",
+            "CuizonDancris"
+         ]
       },
       {
          "original":{
@@ -2962,21 +2996,20 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"POW_NFT",
             "title":"Prisoner of War | SOLD OUT"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"MIHAVERSE",
             "title":"MIHAVERSE BUTTERFLY {FREEMINT}"
          },
          "fake":null
       },
-     
       {
          "original":{
             "username":"ethlizards",
@@ -2984,7 +3017,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"CantFudThis",
             "title":"Unfudables Official"
@@ -2998,7 +3031,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"LookiAvatar",
             "title":"LookiAvatar"
@@ -3012,7 +3045,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"thephoenixesnft",
             "title":"The Phoenixes by Habit Nest 🪶🔥 MINT SOLD OUT"
@@ -3061,14 +3094,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"BestFriend",
             "title":"BestFriend"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"EnzoNFT_",
             "title":"EnzoNFT"
@@ -3080,16 +3113,18 @@
             "username":"TykesNFT",
             "title":"Tykes"
          },
-         "fake":["Tykes_NFT"]
+         "fake":[
+            "Tykes_NFT"
+         ]
       },
-       {
+      {
          "original":{
             "username":"tjaydubai",
             "title":"TJay"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"ProjectKaitoNFT",
             "title":"Project Kaito"
@@ -3110,7 +3145,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"GodHatesNFTees",
             "title":"God Hates NFTs"
@@ -3131,14 +3166,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"frootsnft",
             "title":"FROOTS 🧃"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"BlatantNFT",
             "title":"Blatant ~ MINTING SEPTEMBER 1ST on Solport"
@@ -3159,7 +3194,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"OtherWorldSOL",
             "title":"Other World {A.51}"
@@ -3171,9 +3206,29 @@
             "username":"VandalCityCorp",
             "title":"Vandals"
          },
-         "fake":null
+         "fake":[
+            "VandalCity_3140",
+            "BrandyHovey1",
+            "VandalCity_3009",
+            "VandalCity_3019",
+            "VandalCity_3114",
+            "VandalCity_3001",
+            "VandalCity_3227",
+            "VandalCity_3078",
+            "VandalCity_3013",
+            "VandalCity_3077",
+            "VandalCityCorp1",
+            "VandalCity_3029",
+            "VandalCity_3161",
+            "VandalCity_3042",
+            "VandalCity_3024",
+            "VandalCity_3079",
+            "VandalCity_3233",
+            "VandalCity_3124",
+            "VandalCity_3075"
+         ]
       },
-       {
+      {
          "original":{
             "username":"Simsalabim_NFT",
             "title":"SIM | Simsalabim"
@@ -3194,21 +3249,21 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"LibertySquareHQ",
             "title":"Liberty Square {≮🩸≮≮≮}"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"OakParadiseNFT",
             "title":"Oak Paradise | SOLD OUT IN 2 MINS"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"TrippinApeNFT",
             "title":"Trippin’ Ape Tribe"
@@ -3243,21 +3298,21 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"ZeninNFT",
             "title":"Zenin"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"VoxNinjasNFT",
             "title":"VoxNinjas - SOLD OUT"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"degenfatcats",
             "title":"Degen Fat Cats"
@@ -3271,7 +3326,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"TheFracture_",
             "title":"The Fracture - S̷̳̯͂O̷͚̣̎L̴̻̙̀g̷͉̽̿o̶̭͐͊d̸͈͝s̵͔̬̾͆"
@@ -3285,14 +3340,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"CetsOnCreck",
             "title":"CETS ON KREK 🤌 {313}"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"degendummies",
             "title":"Degen Dummies | sold out"
@@ -3306,14 +3361,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Susanoo50",
             "title":"Susanoo (50/50)"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"TaiyoRobotics",
             "title":"Taiyo Robotics《TYR》"
@@ -3348,14 +3403,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"TaiyoRobotics",
             "title":"Taiyo Robotics《TYR》"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"StonedApeCrew",
             "title":"Stoned Ape Crew 🌿 (!Puff)"
@@ -3369,7 +3424,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"SolBookieNFT",
             "title":"SolBookie Sportsbook"
@@ -3383,7 +3438,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"RENGA_inc",
             "title":"RENGA"
@@ -3397,7 +3452,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"GalacticGeckoSG",
             "title":"🟩Galactic Gecko Space Garage 🦎 🛸 🪐"
@@ -3418,7 +3473,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"Spac3hunters",
             "title":"——"
@@ -3432,7 +3487,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"D3lusionNFT",
             "title":"D3LUSION | SOLD OUT"
@@ -3446,7 +3501,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"ProjectACClub",
             "title":"Anonymous Cactus Club - SOLD OUT"
@@ -3474,28 +3529,28 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"LookiAvatar",
             "title":"LookiAvatar"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"DollarStoreKids",
             "title":"Dollar Store Kids"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"MiningverseNFT",
             "title":"MiningverseNFT Phase 2 Coming"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"thenftwar",
             "title":"The NFT War (Minting 5th Sep, 2:00 PM EST)"
@@ -3514,14 +3569,18 @@
             "username":"LooksRare",
             "title":"LooksRare.eth"
          },
-         "fake": [ "ben_hagin22"]
+         "fake":[
+            "ben_hagin22"
+         ]
       },
       {
          "original":{
             "username":"artblocks_io",
             "title":"Art Blocks"
          },
-         "fake": [ "artblok__io"]
+         "fake":[
+            "artblok__io"
+         ]
       },
       {
          "original":{
@@ -3579,14 +3638,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"JaduAVAs",
             "title":"Jadu AVAs"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"DeepBluIO",
             "title":"Deep Blu | Minting Tuesday 6th Sept 5pm EST"
@@ -3607,7 +3666,7 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"CyberlinxNFT",
             "title":"Cyberlinx NFT 😼👈 | MINT CLOSED"
@@ -3628,14 +3687,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"gangsterallstar",
             "title":"GANGSTER ALL ★ STAR ギャングオールスター"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"mooncatrescue",
             "title":"MoonCats"
@@ -3670,21 +3729,21 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"TheStoicsNFT",
             "title":"The Stoics by Gabe Weis | SOLD OUT"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"metropolisworld",
             "title":"Metropolis World"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"edo2022_nft",
             "title":"edo2022_nft"
@@ -3697,7 +3756,17 @@
             "title":"Phaust"
          },
          "fake":null
+      },
+      {
+         "original":{
+            "username":"ABC123Community",
+            "title":"ABC 🪄🧙🔤"
+         },
+         "fake":[
+            "ABC_abracadabra",
+            "ABCnftproject",
+            "ABC_bracadabra"
+         ]
       }
-      
    ]
 }
