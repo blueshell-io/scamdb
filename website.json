@@ -325,7 +325,7 @@
                "address":"",
                "collection":""
             },
-             {
+            {
                "url":"https://meebits.cheap-mints-link.com/",
                "address":"",
                "collection":""
@@ -689,8 +689,7 @@
       {
          "scams":[
             {
-               "url":"https://invisible.free-mints-link.com/
-",
+               "url":"https://invisible.free-mints-link.com/",
                "address":"",
                "collection":""
             },
@@ -4040,7 +4039,8 @@
                "url":"https://tykesnft.io/",
                "address":"",
                "collection":""
-            }],
+            }
+         ],
          "original":{
             "url":"http://tykes.io/",
             "address":"0x0E32cEE0445413e118b14d02E0409303D338487a",
@@ -4740,7 +4740,7 @@
             "title":"Sandbox Games"
          }
       },
-       {
+      {
          "scams":{
             "url":"https://www.spells-quest-free-mints.com",
             "Address":"",
@@ -4762,7 +4762,6 @@
             "title":"The Unveiled"
          }
       },
-       
       {
          "scams":{
             "url":"https://marimo.life-freelivemint.com/",
@@ -4774,33 +4773,38 @@
             "address":"0xa35aa193f94a90eca0ae2a3fb5616e53c1f35193",
             "collection":"https://opensea.io/collection/marimo-life",
             "title":"marimo.life"
-         },
-          {
-         "scams": null,
+         }
+      },
+      {
+         "scams":null,
          "original":{
             "url":"",
             "address":"",
             "collection":"https://opensea.io/collection/abc-riders-v2",
             "title":"ABC RIDERS V2"
-         },
+         }
+      },
       {
-         "scams":{
-            "url":"https://tracerfreemint.com",
-            "Address":"",
-            "Collection":""
-         },
-          {
-            "url":"https://tracer-cheap-mint.com",
-            "Address":"",
-            "Collection":""
-         },
+         "scams":[
+            {
+               "url":"https://tracerfreemint.com",
+               "Address":"",
+               "Collection":""
+            },
+            {
+               "url":"https://tracer-cheap-mint.com",
+               "Address":"",
+               "Collection":""
+            }
+         ],
          "original":{
             "url":"https://tracerofficial.com/",
             "address":"0xf28355d73cb46216bdf4895e16a11f43e272ef73",
             "collection":"https://opensea.io/collection/tracerofficial",
             "title":"TRACER OFFICIAL NFT"
-         },
-{
+         }
+      },
+      {
          "scams":{
             "url":"https://boxcatpIanet.com/",
             "Address":"",
@@ -4811,8 +4815,9 @@
             "address":"0x13bd972b0bfaefc9538a43c1fda11d71c720cd47",
             "collection":"https://opensea.io/collection/boxcatplanet-official",
             "title":"BoxcatPlanet Official"
-         },
-   {
+         }
+      },
+      {
          "scams":{
             "url":"https://boxcatpIanet.com/",
             "Address":"",
@@ -4823,8 +4828,9 @@
             "address":"0x13bd972b0bfaefc9538a43c1fda11d71c720cd47",
             "collection":"https://opensea.io/collection/boxcatplanet-official",
             "title":"BoxcatPlanet Official"
-         },
- {
+         }
+      },
+      {
          "scams":{
             "url":"https://beebble.com/",
             "Address":"",
@@ -4835,40 +4841,43 @@
             "address":"0xba12f0041dd2543749ec7f00c996a9d488aa5a21",
             "collection":"https://opensea.io/collection/beeble-world",
             "title":"BEEBLE WORLD"
-         },
-     {
-         "scams": null,
+         }
+      },
+      {
+         "scams":null,
          "original":{
             "url":"",
             "address":"",
             "collection":"https://opensea.io/collection/riff-rats-v2",
             "title":"Riff Rats V2"
-         },
- {
-         "scams": null,
+         }
+      },
+      {
+         "scams":null,
          "original":{
             "url":"",
             "address":"",
             "collection":"https://opensea.io/collection/degenfatcats",
             "title":"Degen Fat Cats"
-         },
-    {
-         "scams": null,
+         }
+      },
+      {
+         "scams":null,
          "original":{
-            "url":"http://justape.co/
-            "address":"",
-            "collection":"https://opensea.io/collection/justape-solana",
-            "title":"Just Ape."
-         },
-{
-         "scams": null,
-         "original":{
-            "url":"http://justape.co/
+            "url":"http://justape.co/",
             "address":"",
             "collection":"https://opensea.io/collection/justape-solana",
             "title":"Just Ape."
          }
-      
-          
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://justape.co/",
+            "address":"",
+            "collection":"https://opensea.io/collection/justape-solana",
+            "title":"Just Ape."
+         }
+      }
    ]
 }
