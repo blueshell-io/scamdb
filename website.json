@@ -44,7 +44,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://nftworlldsnft.xyz/",
+               "address":"",
+               "collection":""
+            }
+            ],
          "original":{
             "url":"https://www.nfttrader.io/",
             "address":"",
@@ -630,6 +636,21 @@
             "address":"0xA5F1Ea7DF861952863dF2e8d1312f7305dabf215",
             "collection":"https://opensea.io/collection/zed-run-legacy",
             "title":"ZED RUN Legacy"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"http://Ethereumupgrade.org",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://ethereum.org/en/",
+            "address":"",
+            "collection":"",
+            "title":"Ethereum"
          }
       },
       {
