@@ -59,6 +59,17 @@
       },
       {
          "original":{
+            "username":"MetaMask",
+            "title":"MetaMask"
+         },
+         "fake":[
+            "metamasknews", 
+            "gocalize",
+            "MetamaskAlerts"
+         ]
+      },
+      {
+         "original":{
             "username":"Memeland",
             "title":"Memeland"
          },
