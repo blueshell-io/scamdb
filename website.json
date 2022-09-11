@@ -49,6 +49,11 @@
                "url":"https://nftworlldsnft.xyz/",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"http://freemint-nftworlds.xyz",
+               "address":"",
+               "collection":""
             }
             ],
          "original":{
@@ -5008,7 +5013,321 @@
             "collection":"https://opensea.io/collection/pointila-by-phaust",
             "title":"Pointila by Phaust"
          }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url":"https://www.artblocks.io/project/353",
+            "address":"",
+            "collection":"https://opensea.io/collection/pointila-by-phaust",
+            "title":"Pointila by Phaust"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"http://darbotz.io/",
+            "address":"0x84e78073b28d963ED54713e18F231F677142892e",
+            "collection":"https://opensea.io/collection/darbotz",
+            "title":"Darbotz (DW3)"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://docs.nexustools.io/",
+            "address":"0xe2736a83bc9afe23db1313355dad1ceaf5399bb6",
+            "collection":"https://opensea.io/collection/nexus-tools-pass",
+            "title":"Nexus Tools Pass"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "",
+            "address":"0x389ffe5885e73e2dedbbd7781cae64b9a917b2cf",
+            "collection":"https://opensea.io/collection/witchards-nft",
+            "title":"Witchards NFT"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://future.quest/",
+            "address":"0xa213c344d14e9ae9da2b70a8f9a0122131d59274",
+            "collection":"https://opensea.io/collection/future-quest",
+            "title":"Future Quest"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://kgpotato.com/",
+            "address":"0xe4ee8756842571c022fcb4d88f39a0b7d3c73f0b",
+            "collection":"https://opensea.io/collection/kg-potato-official",
+            "title":"Potato by King George (Official)"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "http://bubblies.io/",
+            "address":"0xF0776D6bC830892d2ec6C125F2CeF40FABE3d89b",
+            "collection":"https://opensea.io/collection/bubbliesnft",
+            "title":"bubblies NFT"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://www.degenpigeons.com/",
+            "address":"0x945603257c79C459D2ED274F0ae0A0192d7fd636",
+            "collection":"https://opensea.io/collection/degen-pigeons-official",
+            "title":"Degen Pigeons Official"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://curve.fi/",
+            "address":"",
+            "collection":"",
+            "title":"Curve"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://uniswap.org/",
+            "address":"",
+            "collection":"",
+            "title":"Uniswap protocol"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://home.bancor.network/",
+            "address":"",
+            "collection":"",
+            "title":"Bancor"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://balancer.fi/",
+            "address":"",
+            "collection":"",
+            "title":"Balancer"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://synthetix.io/",
+            "address":"",
+            "collection":"",
+            "title":"synthetix"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://umaproject.org/",
+            "address":"",
+            "collection":"",
+            "title":"UMA"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://www.tokensets.com/",
+            "address":"",
+            "collection":"",
+            "title":"SET"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://indexcoop.com/",
+            "address":"",
+            "collection":"",
+            "title":"INDEX COOPERATIVe"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://www.ribbon.finance/",
+            "address":"",
+            "collection":"",
+            "title":"Ribbon finance"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://loopring.io/#/",
+            "address":"",
+            "collection":"",
+            "title":"Loopring"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://yearn.finance/#/portfolio",
+            "address":"",
+            "collection":"",
+            "title":"Yearn"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://badger.com/",
+            "address":"",
+            "collection":"",
+            "title":"Badger"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://keep.network/",
+            "address":"",
+            "collection":"",
+            "title":"Keep"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://crypto.com/defi/swap",
+            "address":"",
+            "collection":"",
+            "title":"Defi swap"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://rhino.fi/",
+            "address":"",
+            "collection":"",
+            "title":"Deversifi"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://strike.org/",
+            "address":"",
+            "collection":"",
+            "title":"Strike"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://saddle.finance/#/",
+            "address":"",
+            "collection":"",
+            "title":"SADDLE"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://www.inverse.finance/",
+            "address":"",
+            "collection":"",
+            "title":"Inverse finance"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://gnosis.io/",
+            "address":"",
+            "collection":"",
+            "title":"gnosis"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://betafinance.org/",
+            "address":"",
+            "collection":"",
+            "title":"Beta Finance"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://dfx.finance/",
+            "address":"",
+            "collection":"",
+            "title":"DFX"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://alchemix.fi/",
+            "address":"",
+            "collection":"",
+            "title":"Alchemix Finance"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://insurace.io/",
+            "address":"",
+            "collection":"",
+            "title":"InsurAce"
+         }
+      },
+       {
+         "scams":null,
+         "original":{
+            "url": "https://cvault.finance/",
+            "address":"",
+            "collection":"",
+            "title":"CoreVault"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://keeperdao.com/",
+            "address":"",
+            "collection":"",
+            "title":"KeeperDAO"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://1inch.exchange/",
+            "address":"",
+            "collection":"",
+            "title":"1inch Liquidity Protocol"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url": "https://www.dhedge.org/",
+            "address":"",
+            "collection":"",
+            "title":"https://www.dhedge.org/"
+         }
       }
-      
    ]
 }

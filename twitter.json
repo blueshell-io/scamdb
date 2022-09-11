@@ -310,7 +310,7 @@
             "username":"nftworldsNFT",
             "title":"NFT Worlds"
          },
-         "fake":null
+         "fake":["@nftworldsNFT_"]
       },
       {
          "original":{
@@ -3767,6 +3767,83 @@
             "ABCnftproject",
             "ABC_bracadabra"
          ]
+      },
+            {
+         "original":{
+            "username":"nftigz",
+            "title":"NFTigz"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"DarbotzNFT",
+            "title":"Darbotz Official NFT / Minting Now"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"CDOfficialNFTs",
+            "title":"Cats & Dogs"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"crazycatznft",
+            "title":"Crazy Catz"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"hazard_freaks",
+            "title":"Hazard Freaks NFT"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"NexusToolsNFT",
+            "title":"NexusToolsNFT"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"witchardsnft",
+            "title":"Witchards🧹 | Minting- 9th Sep 5PM UTC"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"FutureQuestDAO",
+            "title":"Future Quest | SOLD OUT 🐉"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"KGPotato_NFT",
+            "title":"Potato by King George | OFFICIAL"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"TroubleCatsCNFT",
+            "title": "Trouble Cats | Minting NOW"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"DegenPigeons",
+            "title": "DegenPigeons"
+         },
+         "fake":null
       }
    ]
 }
