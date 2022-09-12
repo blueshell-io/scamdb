@@ -35,6 +35,21 @@
          }
       },
       {
+         "scams":[
+            {
+               "url":"nouns-mint.xyz",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"nouns.wtf",
+            "address":"0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03",
+            "collection":"https://opensea.io/collection/nouns",
+            "title":"NounsDAO"
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://strxngers.me/",
@@ -195,7 +210,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"boredapeyacchtclub.xyz",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://boredapeyachtclub.com/#/",
             "address":"0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
@@ -279,6 +300,11 @@
             },
             {
                "url":"https://moonbirdz.freemints-link.com/",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"moonbirids.xyz",
                "address":"",
                "collection":""
             }
