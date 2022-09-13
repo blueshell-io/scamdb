@@ -3021,7 +3021,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://ezuu-xyz.xyz/",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://ezu.xyz/",
             "address":"0x6B8281Df97604eeae4b9e0d26E667507eB301E91",
