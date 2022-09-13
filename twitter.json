@@ -70,6 +70,15 @@
       },
       {
          "original":{
+            "username":"LooksRare.eth",
+            "title":"LooksRare"
+         },
+         "fake":[
+            "samcashcash"
+         ]
+      },
+      {
+         "original":{
             "username":"Memeland",
             "title":"Memeland"
          },
