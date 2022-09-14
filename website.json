@@ -5808,34 +5808,7 @@
             "address":"",
             "collection":"",
             "title":"Connext"
-            },
-         {  
-         "scams":null,
-         "original":{
-            "url":"https://www.google.com/",
-            "address":"",
-            "collection":"",
-            "title":"Google"
-            }
-        },
-      {  
-         "scams":null,
-         "original":{
-            "url":"https://www.facebook.com/",
-            "address":"",
-            "collection":"",
-            "title":"Facebook"
-            }
-        },
-        {  
-         "scams":null,
-         "original":{
-            "url":"https://www.twitch.tv/",
-            "address":"",
-            "collection":"",
-            "title":"Twitch"
             }
         }
-      }
    ]
 }
