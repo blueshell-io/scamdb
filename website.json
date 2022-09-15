@@ -294,6 +294,11 @@
                "collection":""
             },
             {
+               "url":"premint.wtf/moonbirds",
+               "address":"",
+               "collection":""
+            },
+            {
                "url":"https://moonbirds2022.xyz/",
                "address":"",
                "collection":""
@@ -422,6 +427,11 @@
          "scams":[
             {
                "url":"https://worldofwomen.mints-link.com/",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"premint.wtf/worldofwomen",
                "address":"",
                "collection":""
             },
