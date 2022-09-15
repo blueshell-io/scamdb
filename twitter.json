@@ -333,7 +333,9 @@
             "username":"nftworldsNFT",
             "title":"NFT Worlds"
          },
-         "fake":["nftworldsNFT_"]
+         "fake":[
+            "nftworldsNFT_"
+         ]
       },
       {
          "original":{
@@ -2415,7 +2417,7 @@
          "fake":[
             "eezu_xyz",
             "ezuu_xyz"
-            ] 
+         ]
       },
       {
          "original":{
@@ -3794,14 +3796,14 @@
             "ABC_bracadabra"
          ]
       },
-            {
+      {
          "original":{
             "username":"nftigz",
             "title":"NFTigz"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"DarbotzNFT",
             "title":"Darbotz Official NFT / Minting Now"
@@ -3815,14 +3817,14 @@
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"crazycatznft",
             "title":"Crazy Catz"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"hazard_freaks",
             "title":"Hazard Freaks NFT"
@@ -3860,21 +3862,21 @@
       {
          "original":{
             "username":"TroubleCatsCNFT",
-            "title": "Trouble Cats | Minting NOW"
+            "title":"Trouble Cats | Minting NOW"
          },
          "fake":null
       },
-       {
+      {
          "original":{
             "username":"DegenPigeons",
-            "title": "DegenPigeons"
+            "title":"Degen Pigeons"
          },
          "fake":null
       },
       {
          "original":{
             "username":"ProjectYinYang",
-            "title": "Yin Yang Gang"
+            "title":"Yin Yang Gang"
          },
          "fake":[
             "ProjectYinYang1",
@@ -3886,7 +3888,14 @@
             "ProjectYinYan",
             "Project_YinYang",
             "Presentation"
-            ]
+         ]
+      },
+      {
+         "original":{
+            "username":"drc_metaverse",
+            "title":"Dracula Metaverse | MINTING NOW"
+         },
+         "fake":null
       }
    ]
 }
