@@ -4929,24 +4929,13 @@
          }
       },
       {
-         "scams":{
-            "url":"https://boxcatpIanet.com/",
-            "Address":"",
-            "Collection":""
-         },
-         "original":{
-            "url":"https://boxcatplanet.com/",
-            "address":"0x13bd972b0bfaefc9538a43c1fda11d71c720cd47",
-            "collection":"https://opensea.io/collection/boxcatplanet-official",
-            "title":"BoxcatPlanet Official"
-         }
-      },
-      {
-         "scams":{
-            "url":"https://boxcatpIanet.com/",
-            "Address":"",
-            "Collection":""
-         },
+         "scams":[
+            {
+               "url":"https://boxcatpIanet.com/",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://boxcatplanet.com/",
             "address":"0x13bd972b0bfaefc9538a43c1fda11d71c720cd47",
@@ -5245,8 +5234,8 @@
             "collection":"",
             "title":"Yearn"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://badger.com/",
@@ -5254,8 +5243,8 @@
             "collection":"",
             "title":"Badger"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://keep.network/",
@@ -5263,8 +5252,8 @@
             "collection":"",
             "title":"Keep"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://crypto.com/defi/swap",
@@ -5272,8 +5261,8 @@
             "collection":"",
             "title":"Defi swap"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://rhino.fi/",
@@ -5281,8 +5270,8 @@
             "collection":"",
             "title":"Deversifi"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://strike.org/",
@@ -5290,8 +5279,8 @@
             "collection":"",
             "title":"Strike"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://saddle.finance/#/",
@@ -5299,8 +5288,8 @@
             "collection":"",
             "title":"SADDLE"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.inverse.finance/",
@@ -5308,8 +5297,8 @@
             "collection":"",
             "title":"Inverse finance"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://gnosis.io/",
@@ -5317,8 +5306,8 @@
             "collection":"",
             "title":"gnosis"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://betafinance.org/",
@@ -5326,8 +5315,8 @@
             "collection":"",
             "title":"Beta Finance"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://dfx.finance/",
@@ -5335,8 +5324,8 @@
             "collection":"",
             "title":"DFX"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://alchemix.fi/",
@@ -5344,8 +5333,8 @@
             "collection":"",
             "title":"Alchemix Finance"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://insurace.io/",
@@ -5353,8 +5342,8 @@
             "collection":"",
             "title":"InsurAce"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://cvault.finance/",
@@ -5362,8 +5351,8 @@
             "collection":"",
             "title":"CoreVault"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://keeperdao.com/",
@@ -5371,8 +5360,8 @@
             "collection":"",
             "title":"KeeperDAO"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://1inch.exchange/",
@@ -5380,8 +5369,8 @@
             "collection":"",
             "title":"1inch Liquidity Protocol"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.dhedge.org/",
@@ -5389,8 +5378,8 @@
             "collection":"",
             "title":"https://www.dhedge.org/"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://renga.app/",
@@ -5398,8 +5387,8 @@
             "collection":"https://opensea.io/collection/renga",
             "title":"RENGA"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"https://yinyanggang.fun/",
@@ -5423,8 +5412,8 @@
             "collection":"https://opensea.io/collection/projectyinyang",
             "title":"Project Yin Yang"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5438,8 +5427,8 @@
             "collection":"https://opensea.io/collection/solswipe",
             "title":"Solswipe"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5453,8 +5442,8 @@
             "collection":"https://opensea.io/collection/dogeclub-dogc",
             "title":"Doge Club(DOGC)"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5468,8 +5457,8 @@
             "collection":"https://opensea.io/collection/pumpp",
             "title":"Pumping Parrots"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5483,8 +5472,8 @@
             "collection":"https://opensea.io/collection/essenza-by-stefano-contiero",
             "title":"Essenza by Stefano Contiero"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5498,8 +5487,8 @@
             "collection":"https://opensea.io/collection/lotusgang",
             "title":"Lotus Gang"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5513,8 +5502,8 @@
             "collection":"https://opensea.io/collection/the-art-of-seasons",
             "title":"The Art of Seasons"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5528,8 +5517,8 @@
             "collection":"https://opensea.io/collection/youtherealmvp",
             "title":"YOU THE REAL MVP"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5543,8 +5532,8 @@
             "collection":"https://opensea.io/collection/tay-keith",
             "title":"Tay Keith"
          }
-        },
-        {
+      },
+      {
          "scams":[
             {
                "url":"",
@@ -5558,8 +5547,8 @@
             "collection":"https://opensea.io/collection/yolo-bunny",
             "title":"YOLO Bunny"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.bromannft.com/",
@@ -5567,17 +5556,17 @@
             "collection":"https://opensea.io/collection/broman-nft",
             "title":"Broman NFT"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.genuineundead.com/",
             "address":"0x209e639a0EC166Ac7a1A4bA41968fa967dB30221",
             "collection":"https://opensea.io/collection/genuine-undead",
             "title":"Genuine Undead"
-           }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://deapegods.com/",
@@ -5585,240 +5574,255 @@
             "collection":"https://opensea.io/collection/deapegods",
             "title":"DeApeGods"
          }
-        },
-        {
+      },
+      {
          "scams":null,
          "original":{
             "url":"",
             "address":"0x732c1D84a88df099c459bEFab680Fa9e97BDcD35",
             "collection":"https://opensea.io/collection/empyreal-v2",
             "title":"Empyreal V2"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://88mph.app/",
             "address":"",
             "collection":"",
             "title":"88mph"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://truefi.io/",
             "address":"",
             "collection":"",
             "title":"truefi"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.originprotocol.com/en/",
             "address":"",
             "collection":"",
             "title":"Origin Protocol"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://onx.finance/",
             "address":"",
             "collection":"",
             "title":"OnX"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://defirex.org/",
             "address":"",
             "collection":"",
             "title":"DeFireX"
-            }
-        },
-        {
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://dyp.finance/",
             "address":"",
             "collection":"",
             "title":"dyp"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://cvi.finance/",
             "address":"",
             "collection":"",
             "title":"Crypto Volatility Index"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://primitive.xyz/",
             "address":"",
             "collection":"",
             "title":"Primitive Finance"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.pods.finance/",
             "address":"",
             "collection":"",
             "title":"Pods"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://dfi.money/",
             "address":"",
             "collection":"",
             "title":"YFII Finance"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://for.tube/",
             "address":"",
             "collection":"",
             "title":"ForTube"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://swarm.com/",
             "address":"",
             "collection":"",
             "title":"Swarm"
-            }
-        }, 
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.impermax.finance/",
             "address":"",
             "collection":"",
             "title":"Impermax"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.futureswap.com/",
             "address":"",
             "collection":"",
             "title":"Futureswap"
-            }
-         },
-         {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://lien.finance/",
             "address":"",
             "collection":"",
             "title":"Lien"
-            }
-         },
-         {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://volmex.finance/",
             "address":"",
             "collection":"",
             "title":"Volmex"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://conv.finance/",
             "address":"",
             "collection":"",
             "title":"Convergence"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://peakdefi.com/",
             "address":"",
             "collection":"",
             "title":"PeakDeFi"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.pickle.finance/",
             "address":"",
             "collection":"",
             "title":"Pickle Finance"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://powerindex.io/",
             "address":"",
             "collection":"",
             "title":"PowerIndex"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.boringdao.com/",
             "address":"",
             "collection":"",
             "title":"BoringDAO"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://clipper.exchange/",
             "address":"",
             "collection":"",
             "title":"Clipper"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://compli.fi/",
             "address":"",
             "collection":"",
             "title":"CompliFi"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.piedao.org/",
             "address":"",
             "collection":"",
             "title":"PieDAO"
-            }
-        },
-        {  
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.connext.network/",
             "address":"",
             "collection":"",
             "title":"Connext"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://ethers-airdrop.org/Dracula",
+               "address":"",
+               "collection":""
             }
-        }
+         ],
+         "original":{
+            "url":"https://dracula-metaverse.com/",
+            "address":"0xd38554b676f8c03dd8a1d3bab3f1eab448e5f3d3",
+            "collection":"https://opensea.io/collection/dracula-metaverse",
+            "title":"Dracule Metaverse"
+         }
+      }
    ]
 }
