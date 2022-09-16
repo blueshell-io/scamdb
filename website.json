@@ -50,6 +50,21 @@
          }
       },
       {
+         "scams":[
+            {
+               "url":"https://theuncanny.whitlist-minting.com/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://www.theuncanny.io/",
+            "address":"0xF4Eac65bbC94E3bE2E3674992c31781032a6d793",
+            "collection":"https://opensea.io/collection/the-uncanny-country-club",
+            "title":"The Uncanny Country Club"
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://strxngers.me/",
