@@ -59,6 +59,15 @@
          }
       },
       {
+         "scams":null,
+         "original":{
+            "url":"https://captcha.bot/",
+            "address":"",
+            "collection":"",
+            "title":"Captcha.bot"
+         }
+      },
+      {
          "scams":[
             {
                "url":"https://nftworlldsnft.xyz/",
