@@ -16,6 +16,11 @@
                "url":"https://otherside.ink.com",
                "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
                "collection":""
+            },
+            {
+               "url":"http://otherside-season2.xyz/",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -239,7 +244,10 @@
                "url":"boredapeyacchtclub.xyz",
                "address":"",
                "collection":""
-            }
+            },
+            {
+               "url":"https://boredapeyaachtclub.xyz/"
+            }  
          ],
          "original":{
             "url":"https://boredapeyachtclub.com/#/",
@@ -1889,7 +1897,10 @@
                "url":"http://potatoznft.org",
                "address":"",
                "collection":""
-            }
+            },
+            {
+               "url":"https://xn--petsand-whb.com/"
+            }  
          ],
          "original":{
             "url":"https://www.memeland.com/potatoz",
@@ -3261,7 +3272,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://shelllzorb.xyz/"
+            }
+          ],  
          "original":{
             "url":"https://shellzorb.io/",
             "address":"0xe17827609Ac34443B3987661f4e037642F6BD9bA",
@@ -3333,7 +3348,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://grumplstown.wtf/",
+               "address":"",
+               "collection":""
+            }
+           ],
          "original":{
             "url":"http://goblintown.wtf/",
             "address":"0x529574D1aFfef7Cf347cDd02B91eFd2C00bb773b",
@@ -3990,7 +4011,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://thephoeenixesnft.xyz/"
+            }
+           ], 
          "original":{
             "url":"http://sukilearnstofly.com/",
             "address":"0x29d7ebca656665c1a52a92f830e413e394db6b4f",
@@ -4584,7 +4609,10 @@
          "scams":[
             {
                "url":"https://xn--ooksrare-mnb.org/"
-            }
+            },
+            {
+               "url":"https://xn--ooksrare-mnb.com/airdrop/"
+            }   
          ],
          "original":{
             "url":"https://looksrare.org/",
@@ -5044,7 +5072,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+            "url":"https://juice.guttercats.io"
+            }
+         ],
          "original":{
             "url":"https://guttercatgang.com/",
             "address":"0x41f20599e9e049004c4d169046eb7023117a6244",
@@ -5846,6 +5878,78 @@
             "address":"0xd38554b676f8c03dd8a1d3bab3f1eab448e5f3d3",
             "collection":"https://opensea.io/collection/dracula-metaverse",
             "title":"Dracula Metaverse"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://finiliar.com/",
+            "address":"0x5a0121A0A21232eC0D024dAb9017314509026480",
+            "collection":"https://opensea.io/collection/finiliar",
+            "title":"Finilar"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/osrs-punks",
+            "title":"OSRS Punks"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.anomuragame.com/",
+            "address":"0xe2ddf03ba8cDafd2Bb4884E52f7FB46df4FC7DC1",
+            "collection":"https://opensea.io/collection/mystery-bowl",
+            "title":"Anomura Mystery Bowl"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://metrogrradnft.xyz/",
+               "address":"0x76c4bF187f40cfb56eE0A5E5F26Fa1f804827929",
+               "collection":""
+            }
+           ], 
+         "original":{
+            "url":"",
+            "address":"0xfc3cA14b43E89d283a6feaC130425E9155CaFce3",
+            "collection":"https://opensea.io/collection/metrograd-gen-1",
+            "title":"MetroGrad Gen.1"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://themaguus-nfts.free300mints.com/",
+               "address":"",
+               "collection":""
+            }
+           ], 
+         "original":{
+            "url":"https://www.themagus.xyz/",
+            "address":"0xC2BbcF69B37844c4Dd1e0eEdb5E9f5C6E7314b2c",
+            "collection":"https://opensea.io/collection/themagusworld",
+            "title":"The Magus World"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://myrais.xyz/",
+               "address":"",
+               "collection":""
+            }
+           ], 
+         "original":{
+            "url":"https://myraicreations.com/",
+            "address":"0x07d542efffA044075070Da587C3144b30e0407E3",
+            "collection":"https://opensea.io/collection/myrai-starter-collection",
+            "title":"Myrai Starter Collection"
          }
       }
    ]
