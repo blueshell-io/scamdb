@@ -600,7 +600,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"http://freemint-nftworlds.xyz/"
+            }
+          ], 
          "original":{
             "url":"https://www.nftworlds.com/",
             "address":"0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
@@ -4904,11 +4908,16 @@
          }
       },
       {
-         "scams":{
+         "scams":[
+            {
             "url":"https://www.thesandboxesgame.com",
             "Address":"",
             "Collection":""
-         },
+            },
+            {
+             "url":"https://sandboxsland.xyz/"
+            }
+          ],  
          "original":{
             "url":"https://www.sandbox.game/en/",
             "address":"",
@@ -6019,6 +6028,267 @@
             "address":"0x07d542efffA044075070Da587C3144b30e0407E3",
             "collection":"https://opensea.io/collection/myrai-starter-collection",
             "title":"Myrai Starter Collection"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://kumaleon.com/",
+            "address":"0x8270FC3B2d23DE703b265b2ABE008883954fea8E",
+            "collection":"https://opensea.io/collection/kumaleon-nft",
+            "title":"KUMALEON"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/simpl3r-bounty-hunters-1",
+            "title":"Simpl3r Bounty Hunters"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"0xF7De31669f4f9386CF000FF6b412E405d0535B74",
+            "collection":"https://opensea.io/collection/8pes-dvnci",
+            "title":"8PES by dvnci"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://emoheads.io/",
+            "address":"0xe627aeA89a1Faf8f0ff770BF242B1cc9515f1952",
+            "collection":"https://opensea.io/collection/emoheads",
+            "title":"EmoHeads by Javirroyo"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://posers.app/",
+            "address":"0x02BeeD1404c69e62b76Af6DbdaE41Bd98bcA2Eab",
+            "collection":"https://opensea.io/collection/posersnft",
+            "title":"posersnft"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://orcsoforakion.quest/",
+            "address":"0xB39f5F5199042086D6F162EdEDb761D0F33a2849",
+            "collection":"https://opensea.io/collection/orcs-of-orakion",
+            "title":"Orcs Of Orakion"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/wade-f-f",
+            "title":"WADE F&F"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.thundervalley.io/",
+            "address":"0xbaf13560F86d65E7a3b982BFC8838791CBc8f3af",
+            "collection":"https://opensea.io/collection/thunder-valley",
+            "title":"Thunder Valley"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://linktr.ee/Driftershoots",
+            "address":"0x509a050f573BE0D5E01a73C3726E17161729558B",
+            "collection":"https://opensea.io/collection/where-my-vans-go",
+            "title":"Where My Vans Go"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://blockbar.com/",
+            "address":"0x9dB475371B5cC2913D3219f72e16a3F101339a05",
+            "collection":"https://opensea.io/collection/blockbar",
+            "title":"BlockBar"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/bvdcats",
+            "title":"BVDCATs"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.akyllers.com/",
+            "address":"0x145ac4EDfFAE802D8260D64e5720E4b210039C71",
+            "collection":"https://opensea.io/collection/akyllersden",
+            "title":"Akyllers"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"0xF29E761560610D3AeEe4cA8FE75b9b3ec6783D94",
+            "collection":"https://opensea.io/collection/qwc-mint-pass",
+            "title":"QWC Mint Pass"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"0x69EdA943891E3730a56125a7e0340cb109b5532f",
+            "collection":"https://opensea.io/collection/skulledz",
+            "title":"Skull'edz"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/digikong-soiana",
+            "title":"DigiKong"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"https://opensea.io/collection/trustpass",
+            "title":"TrustPass"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.nexilabs.io/",
+            "address":"",
+            "collection":"https://opensea.io/collection/nexi-labs",
+            "title":"Nexi Labs"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://3gm.dev/#/bot-pass",
+            "address":"0xb1C9931636f9A6EEB0D8ceb6dF4F068904D9F025",
+            "collection":"https://opensea.io/collection/3gm-bot-pass",
+            "title":"3gm Bot Pass"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.x2e-dao.com/lp/my-hero-sidekicks/",
+            "address":"0x5b7A317A300699531cA4673473b84b6a7cbBC294",
+            "collection":"https://opensea.io/collection/my-hero-sidekicks",
+            "title":"My HERO Sidekicks"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.crosstheages.com/",
+            "address":"0xb6041EAe62C4591458AF480679c6A497EDA6CfcD",
+            "collection":"https://opensea.io/collection/cross-the-ages-arkhante-booster-premium-pack-1",
+            "title":"Cross The Ages - Arkhante Premium Pack"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://tranche.finance/",
+            "address":"",
+            "collection":"",
+            "title":"Tranche"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.augur.net/",
+            "address":"",
+            "collection":"",
+            "title":"Augur"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://opium.finance/",
+            "address":"",
+            "collection":"",
+            "title":"Opium"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://shellprotocol.io/",
+            "address":"",
+            "collection":"",
+            "title":"Shell"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://derivadex.com/",
+            "address":"",
+            "collection":"",
+            "title":"DerivaDEX"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://www.hegic.co/",
+            "address":"",
+            "collection":"",
+            "title":"Hegic"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://premia.finance/",
+            "address":"",
+            "collection":"",
+            "title":"Premia"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://wepiggy.com/",
+            "address":"",
+            "collection":"",
+            "title":"WePiggy"
+         }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://bifi.finance/",
+            "address":"",
+            "collection":"",
+            "title":"BiFi"
          }
       }
    ]
