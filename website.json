@@ -5803,6 +5803,21 @@
          }
       },
       {
+         "scams":[
+            {
+               "url":"https://katanaronin.net/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://roninchain.com/",
+            "address":"",
+            "collection":"",
+            "title":"Ronin Network"
+         }
+      },
+      {
          "scams":null,
          "original":{
             "url":"https://www.pickle.finance/",
@@ -5935,6 +5950,60 @@
             "address":"0xC2BbcF69B37844c4Dd1e0eEdb5E9f5C6E7314b2c",
             "collection":"https://opensea.io/collection/themagusworld",
             "title":"The Magus World"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://wgmi.io/",
+            "address":"",
+            "collection":"",
+            "title":"WGMI.io"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://cryptogrow.world/",
+            "address":"",
+            "collection":"",
+            "title":"CRYPTOGROW"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://decrypt.co/",
+            "address":"",
+            "collection":"",
+            "title":"Decrypt"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://raffles.taiyorobotics.com/",
+            "address":"",
+            "collection":"",
+            "title":"Taiyo Robotics - Raffles"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"drinkmelk.cetsoncreck.com",
+            "address":"",
+            "collection":"",
+            "title":"Cets On Creck - Drink Melk"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"premint.xyz",
+            "address":"",
+            "collection":"",
+            "title":"Premint"
          }
       },
       {
