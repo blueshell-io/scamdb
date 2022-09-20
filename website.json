@@ -6290,6 +6290,21 @@
             "collection":"",
             "title":"BiFi"
          }
+      },
+      {
+         "scams":[
+            {
+               "url":"",
+               "address":"",
+               "collection":""
+            }
+         ], 
+         "original":{
+            "url":"https://www.piratesnft.io/",
+            "address":"",
+            "collection":"https://opensea.io/collection/pirates-of-the-metaverse-by-drip-studios",
+            "title":"Pirates of the Metaverse"
+         }
       }
    ]
 }
