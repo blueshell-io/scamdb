@@ -256,6 +256,9 @@
             },
             {
                "url":"https://boredapeyaachtclub.xyz/"
+            },
+            {
+               "url":"https://boredapreyachtclub.xyz/"
             }  
          ],
          "original":{
@@ -319,7 +322,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://sandbox-freemint.xyz/"
+            }
+          ],  
          "original":{
             "url":"https://www.sandbox.game/en/",
             "address":"",
@@ -495,7 +502,10 @@
                "url":"https://worldofwoomen.xyz/",
                "address":"",
                "collection":""
-            }
+            },
+            {
+               "url":"https://worldofwomenft.xyz/"
+            }   
          ],
          "original":{
             "url":"https://worldofwomen.art/",
@@ -988,7 +998,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://cyberkongz-freemint.xyz/"
+            }
+          ],  
          "original":{
             "url":"https://www.cyberkongz.com/",
             "address":"0x7EA3Cca10668B8346aeC0bf1844A49e995527c8B",
@@ -1613,7 +1627,11 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"https://bossbeauties-freemint.xyz/"
+            }
+          ],  
          "original":{
             "url":"http://www.bossbeauties.com/",
             "address":"0xB5C747561a185A146f83cFff25BdfD2455b31fF4",
