@@ -81,6 +81,15 @@
       {
          "scams":null,
          "original":{
+            "url":"https://www.coinbase.com/",
+            "address":"",
+            "collection":"",
+            "title":"Coinbase"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://captcha.bot/",
             "address":"",
             "collection":"",
