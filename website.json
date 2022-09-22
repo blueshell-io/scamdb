@@ -6472,6 +6472,15 @@
             "collection":"https://opensea.io/collection/rexie-solana",
             "title":"Rexie"
          }
+      },
+      {
+         "scams":null, 
+         "original":{
+            "url":"https://apecoin.com/",
+            "address":"",
+            "collection":"",
+            "title":"ApeCoin"
+         }
       }
    ]
 }
