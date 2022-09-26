@@ -6032,7 +6032,7 @@
       {
          "scams":null,
          "original":{
-            "url":"drinkmelk.cetsoncreck.com",
+            "url":"https://www.drinkmelk.cetsoncreck.com",
             "address":"",
             "collection":"",
             "title":"Cets On Creck - Drink Melk"
@@ -6041,7 +6041,25 @@
       {
          "scams":null,
          "original":{
-            "url":"premint.xyz",
+            "url":"https://hyperspace.xyz/",
+            "address":"",
+            "collection":"",
+            "title":"Hyperspace"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.degentweet.xyz/",
+            "address":"",
+            "collection":"",
+            "title":"Degentweet"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://www.premint.xyz/",
             "address":"",
             "collection":"",
             "title":"Premint"
