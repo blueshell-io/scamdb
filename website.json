@@ -6641,6 +6641,21 @@
             "collection":"",
             "title":""
          }
+        },
+      {
+         "scams":[
+            {
+               "url":"http://coinresolution.click/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"",
+            "title":""
+         }
         }
       ]
 }
