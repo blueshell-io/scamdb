@@ -155,46 +155,6 @@
          }
       },
       {
-         "scams":[
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/ladyapeclubnft"
-            },
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/ladyapeclub-2"
-            },
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/ladyapeclub-3"
-            },
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/lady-ape-clubs"
-            },
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/lady-ape-ciub-3"
-            },
-            {
-               "url":"",
-               "address":"",
-               "collection":"https://opensea.io/collection/lady-ape-club-12"
-            }
-         ],
-         "original":{
-            "url":"https://ladyapeclub.com/",
-            "address":"",
-            "collection":"https://opensea.io/collection/ladyapeclub5668",
-            "title":"Lady Ape Club"
-         }
-      },
-      {
          "scams":null,
          "original":{
             "url":"https://bohemia.gallery/",
