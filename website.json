@@ -6640,8 +6640,8 @@
             "address":"",
             "collection":"",
             "title":""
-   }
-},
+         }
+        },
       {
          "scams":[
             {
@@ -6655,8 +6655,23 @@
             "address":"",
             "collection":"",
             "title":""
-   }
-},
+         }
+        },
+      {
+         "scams":[
+            {
+               "url":"coinresolutions.click",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"",
+            "title":""
+            }
+         },
       {
          "scams":[
             {
@@ -7113,8 +7128,8 @@
             "title":""
    }
 },
-      {
-         "scams":[
+ {
+    "scams":[
             {
                "url":"astrashop.cards",
                "address":"",
