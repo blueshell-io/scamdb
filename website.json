@@ -6643,13 +6643,20 @@
          }
       },
       {
+         "scams":null, 
+         "original":{
+            "url":"https://apehaterclub.com/",
+            "address":"0x9370045CE37F381500ac7D6802513bb89871e076",
+            "collection":"https://opensea.io/collection/apehaterclub",
+            "title":"Ape Hater Club"
+         }
+      },
+      {
          "scams":[
             {
-               "url":"coinresolution.click",
-               "address":"",
-               "collection":""
+               "url":"coinresolution.click"
             }
-         ],
+           ], 
          "original":{
             "url":"",
             "address":"",
@@ -6658,6 +6665,4 @@
          }
       }
    ]
-}
-      
-      
+}  
