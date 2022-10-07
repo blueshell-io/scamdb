@@ -4281,6 +4281,15 @@
          "fake":[
             "xborg_officia"
          ]
+      },
+      {
+         "original":{
+            "username":"Rabby_io",
+            "title":"Rabby Wallet"
+         },
+         "fake":[
+            "RabbyWallet"
+         ]
       }
    ]
 }
