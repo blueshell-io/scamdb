@@ -8390,18 +8390,33 @@
          }
       },
       {
-         "scams": [
+         "scams":[
             {
-            "url":"https://xborgofficial.xyz",
-            "address":"",
-            "collection":""
-         }
+               "url":"https://xborgofficial.xyz",
+               "address":"",
+               "collection":""
+            }
          ],
          "original":{
             "url":"https://www.xborg.com/",
             "address":"0x5a3e7fd48d9e88c22c391e0e4836c8e211daee66",
             "collection":"https://opensea.io/collection/xborg-prometheus",
             "title":"XBorg"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://skydancernft.com/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"",
+            "title":""
          }
       }
    ]
