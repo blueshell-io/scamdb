@@ -13,6 +13,11 @@
                "collection":""
             },
             {
+               "url":"https://xn--othersde-z2a.xyz/",
+               "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
+               "collection":""
+            },
+            {
                "url":"https://otherside.ink.com",
                "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
                "collection":""
@@ -6541,12 +6546,33 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"apeclaimcoin.com",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://apecoin.com/",
             "address":"",
             "collection":"",
             "title":"ApeCoin"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://preminť.xyz/garbagefriends",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"",
+            "address":"",
+            "collection":"",
+            "title":"Garbage Friends"
          }
       },
       {
