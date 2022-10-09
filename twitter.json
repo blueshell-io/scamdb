@@ -6,6 +6,7 @@
             "title":"OthersideMeta"
          },
          "fake":[
+            "TimCostello",
             "OthersideETH",
             "MetaOthersidNFT",
             "OtherSide_BSC",
@@ -4264,7 +4265,19 @@
             "username":"apecoin",
             "title":"ApeCoin"
          },
-         "fake":null
+         "fake":[
+            "apecoinofficlaI"
+         ]
+      },
+      {
+         "original":{
+            "username":"garbagefriends",
+            "title":"Garbage Friends 🗑🟢"
+         },
+         "fake":[
+            "garbagfriends",
+            "garbagesfrends"
+         ]
       },
       {
          "original":{
