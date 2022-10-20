@@ -4303,6 +4303,24 @@
          "fake":[
             "RabbyWallet"
          ]
+      },
+      {
+         "original":{
+            "username":"optimismFND",
+            "title":"Optimism (✨🔴_🔴✨)"
+         },
+         "fake":[
+            "optimismsFND"
+         ]
+      },
+      {
+         "original":{
+            "username":"dandelion_wist",
+            "title":"Dandelion"
+         },
+         "fake":[
+            "dandeIion__wist"
+         ]
       }
    ]
 }
