@@ -9,6 +9,16 @@
             "SuiLabs_fi",
             "SuiNetworkLabs"
          ]
+      }, 
+      {
+         "original":{
+            "username":"blur_io",
+            "title":"Blur"
+         },
+         "fake":[
+            "bIur_nft",
+            "_BlurNFT"
+         ]
       },
       {
          "original":{
