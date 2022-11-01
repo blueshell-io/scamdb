@@ -459,7 +459,7 @@
                "collection":""
             },
             {
-               "url":" WorldofWomen.wl-spots-mint.com",
+               "url": "https://worldofwomen.wl-spots-mint.com/",
                "address":"",
                "collection":""
             },
@@ -470,6 +470,8 @@
             },
             {
                "url":"https://worldofwomenft.xyz/"
+                "address":"",
+               "collection":""
             }
          ],
          "original":{
