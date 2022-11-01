@@ -8874,6 +8874,11 @@
                "url":"aptōs.com/airdrop",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"http://aptoslabs.bond",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -8896,6 +8901,21 @@
             "address":"",
             "collection":"",
             "title":"LayerZero"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://airdrop.suilabs.app",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://sui.io/",
+            "address":"",
+            "collection":"",
+            "title":"Sui"
          }
       }
    ]
