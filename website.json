@@ -258,6 +258,11 @@
                "url":"https://rtfkt.freemints-link.com/",
                "address":"",
                "collection":""
+            },
+            {
+               "url":"rtfkt-airdrop.io/animus",
+               "address":"",
+               "collection":""
             }
          ],
          "original":{
@@ -451,6 +456,11 @@
             {
                "url":"https://worldofwomen.web-mints.com/",
                "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
+               "collection":""
+            },
+            {
+               "url":" WorldofWomen.wl-spots-mint.com",
+               "address":"",
                "collection":""
             },
             {
@@ -2288,7 +2298,13 @@
          }
       },
       {
-         "scams":null,
+         "scams":[
+            {
+               "url":"earn-airdrops.io/Compound",
+               "address":"",
+               "collection":""
+            }
+         ],
          "original":{
             "url":"https://compound.finance/",
             "address":"",
@@ -8850,6 +8866,36 @@
             "address":"",
             "collection":"",
             "title":"Optimism"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"aptōs.com/airdrop",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://aptosfoundation.org/",
+            "address":"",
+            "collection":"",
+            "title":"Aptos"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"http://airdrop.layerzeronetwork.net",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://layerzero.network/",
+            "address":"",
+            "collection":"",
+            "title":"LayerZero"
          }
       }
    ]
