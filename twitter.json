@@ -2,6 +2,16 @@
    "data":[
       {
          "original":{
+            "username":"SuiNetwork",
+            "title":"Sui"
+         },
+         "fake":[
+            "SuiLabs_fi",
+            "SuiNetworkLabs"
+         ]
+      },
+      {
+         "original":{
             "username":"OthersideMeta",
             "title":"OthersideMeta"
          },
@@ -4332,7 +4342,8 @@
             "title":"Aptos"
          },
          "fake":[
-            "AptosLab_fi"
+            "AptosLab_fi",
+            "AptosFouadtion"
          ]
       },
       {
