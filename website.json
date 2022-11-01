@@ -8917,6 +8917,21 @@
             "collection":"",
             "title":"Sui"
          }
+      },
+      {
+         "scams":[
+            {
+               "url":"bļur.com/unbox",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://blur.io/",
+            "address":"",
+            "collection":"",
+            "title":"Blur"
+         }
       }
    ]
 }
