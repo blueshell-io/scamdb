@@ -291,6 +291,7 @@
             "title":"RTFKT"
          },
          "fake":[
+            "RTFKFT",
             "RTFKTHOODIE",
             "RTFKTstudlos",
             "Selen34127587",
@@ -381,6 +382,7 @@
          "fake":[
             "wordofwomennft",
             "Worldofwomennf3",
+            "_worldofwomnnft",
             "worldofw0mennft",
             "worldofwomannft",
             "WorIdOfWomanNFT"
@@ -3828,10 +3830,12 @@
       },
       {
          "original":{
-            "username":"_COMPOUND",
-            "title":"COMPOUND"
+            "username":"compoundfinance",
+            "title":"Compound Labs"
          },
-         "fake":null
+         "fake":[
+            "compfinancelabs"
+         ]
       },
       {
          "original":{
@@ -4320,6 +4324,24 @@
          },
          "fake":[
             "dandeIion__wist"
+         ]
+      },
+      {
+         "original":{
+            "username":"Aptos_Network",
+            "title":"Aptos"
+         },
+         "fake":[
+            "AptosLab_fi"
+         ]
+      },
+      {
+         "original":{
+            "username":"LayerZero_Labs",
+            "title":"LayerZero Labs"
+         },
+         "fake":[
+            "Layer7ero_Labs"
          ]
       }
    ]
