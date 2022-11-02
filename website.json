@@ -49,6 +49,21 @@
             "title":"Metadrop"
          }
       },
+       {
+         "scams":[
+            {
+               "url":"http://arțgobblers.com",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://artgobblers.com/",
+            "address":"",
+            "collection":"",
+            "title":"Art Gobblers"
+         }
+      },
       {
          "scams":[
             {
@@ -211,6 +226,9 @@
             },
             {
                "url":"https://boredapeyaachtclub.xyz/"
+            },       
+            {
+               "url":"boredapeyacclub.xyz"
             },
             {
                "url":"https://boredapreyachtclub.xyz/"
@@ -251,6 +269,11 @@
          "scams":[
             {
                "url":"https://rtfkt.mints-link.com/",
+               "address":"",
+               "collection":""
+            }, 
+            {
+               "url":"https://animus.rtfkt.cloud",
                "address":"",
                "collection":""
             },
@@ -2324,7 +2347,7 @@
          }
       },
       {
-         "scams":null,
+         "scams": null,
          "original":{
             "url":"https://balancer.finance/",
             "address":"",
@@ -2342,7 +2365,11 @@
          }
       },
       {
-         "scams":null,
+         "scams": [
+            {
+               "url": "https://earnsairdrops.io/Liquity"
+            }
+         ],
          "original":{
             "url":"https://www.liquity.org/",
             "address":"",
