@@ -2,6 +2,35 @@
    "data":[
       {
          "original":{
+            "username":"artgobblers",
+            "title":"Art Gobblers"
+         },
+         "fake":[
+            "ArtGobbIersNFT",
+            "artgobIers"
+         ]
+      }, 
+       {
+         "original":{
+            "username":"LiquityProtocol",
+            "title":"Liquity (🥚, 🐔)"
+         },
+         "fake":[
+            "LlquityProtocoI"
+         ]
+      }, 
+      {
+         "original":{
+            "username":"imaginary_ones",
+            "title":"Imaginary Ones"
+         },
+         "fake":[
+            "Imaginery_Ones",
+            "ImagineryOnes"
+         ]
+      },
+      {
+         "original":{
             "username":"SuiNetwork",
             "title":"Sui"
          },
@@ -263,7 +292,8 @@
          "fake":[
             "Wilsonc16678966",
             "BoredApeNNYC",
-            "BoredA1peYC"
+            "BoredA1peYC",
+            "@Bored1ApeYC"
          ]
       },
       {
@@ -312,6 +342,8 @@
          },
          "fake":[
             "RTFKFT",
+            "_RTFTKT",
+            "RTRTFKT",
             "RTFKTHOODIE",
             "RTFKTstudlos",
             "Selen34127587",
