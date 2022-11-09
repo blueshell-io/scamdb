@@ -1370,15 +1370,17 @@
             "collection":"https://opensea.io/collection/adidasoriginals",
             "title":"adidas Originals Into the Metaverse"
          },
-        "twitter": [{
-         "original":{
-            "username":"adidasoriginals",
-            "title":"adidas Originals Into the Metaverse"
-         },
-         "fake": [
-          "adidasoriginIls"
+         "twitter":[
+            {
+               "original":{
+                  "username":"adidasoriginals",
+                  "title":"adidas Originals Into the Metaverse"
+               },
+               "fake":[
+                  "adidasoriginIls"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":null,
@@ -1388,24 +1390,25 @@
             "collection":"https://opensea.io/collection/pxnghostdivision",
             "title":"PXN: Ghost Division"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"projectPXN",
-            "title":"PXN: Ghost Division"
-         },
-         "fake": [
-           "AlickMadeline",
-           "BarnettAlbert5",
-           "BartholomewCl12",
-           "AnnaHod81011049",
-           "SampsonMark8",
-           "MarshallCongre3",
-           "BartWells7",
-           "GaryRhys4",
-           "keynes_herman"
+         "twitter":[
+            {
+               "original":{
+                  "username":"projectPXN",
+                  "title":"PXN: Ghost Division"
+               },
+               "fake":[
+                  "AlickMadeline",
+                  "BarnettAlbert5",
+                  "BartholomewCl12",
+                  "AnnaHod81011049",
+                  "SampsonMark8",
+                  "MarshallCongre3",
+                  "BartWells7",
+                  "GaryRhys4",
+                  "keynes_herman"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":[
@@ -1451,17 +1454,19 @@
             "collection":"https://opensea.io/collection/goblintownwtf",
             "title":"goblintown.wtf"
          },
-        "twitter": [{
-         "original":{
-            "username":"goblintown",
-            "title":"goblintown.wtf"
-         },
-         "fake": [
-          "g0blint0wn",
-           "goblintownmints",
-           "gamzeJL0"
+         "twitter":[
+            {
+               "original":{
+                  "username":"goblintown",
+                  "title":"goblintown.wtf"
+               },
+               "fake":[
+                  "g0blint0wn",
+                  "goblintownmints",
+                  "gamzeJL0"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":[
@@ -1477,17 +1482,17 @@
             "collection":"https://opensea.io/collection/karafuru",
             "title":"Karafuru"
          },
-        "twitter": [
-          {
-             "original":{
-                "username":"KarafuruNft",
-                "title":"Karafuru"
-             },
-             "fake":[
-                "NFTKarafuru_"
-             ]
-          }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"KarafuruNft",
+                  "title":"Karafuru"
+               },
+               "fake":[
+                  "NFTKarafuru_"
+               ]
+            }
+         ]
       },
       {
          "scams":[
@@ -1513,16 +1518,17 @@
             "collection":"https://opensea.io/collection/invisiblefriends",
             "title":"Invisible Friends"
          },
-        "twitter": [  {
-             "original":{
-                "username":"InvsbleFriends",
-                "title":"Invisible Friends"
-             },
-             "fake": [
-             "lnvsibleFriend"
-             ]
-          }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"InvsbleFriends",
+                  "title":"Invisible Friends"
+               },
+               "fake":[
+                  "lnvsibleFriend"
+               ]
+            }
+         ]
       },
       {
          "scams":null,
@@ -1532,15 +1538,15 @@
             "collection":"https://opensea.io/collection/hashmasks",
             "title":"Hashmasks"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"TheHashmasks",
-            "title":"Hashmasks"
-         },
-         "fake":null
-      },
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"TheHashmasks",
+                  "title":"Hashmasks"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":[
@@ -1556,15 +1562,15 @@
             "collection":"https://opensea.io/collection/mfers",
             "title":"mfers"
          },
-        "twitter": [
-        {
-           "original":{
-              "username":"unofficialmfers",
-              "title":"mfers"
-           },
-           "fake":null
-        }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"unofficialmfers",
+                  "title":"mfers"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1574,14 +1580,15 @@
             "collection":"https://opensea.io/collection/curiocardswrapper",
             "title":"My Curio Cards"
          },
-        "twitter": [{
-             "original":{
-                "username":"MyCurioCards",
-                "title":"My Curio Cards"
-             },
-             "fake":null
-          }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"MyCurioCards",
+                  "title":"My Curio Cards"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1591,13 +1598,15 @@
             "collection":"https://opensea.io/collection/clonex-mintvial",
             "title":"RTFKT - CloneX Mintvial"
          },
-        "twitter": [{
-             "original":{
-                "username":"RTFKT",
-                "title":"RTFKT"
-             },
-             "fake":null
-          }
+         "twitter":[
+            {
+               "original":{
+                  "username":"RTFKT",
+                  "title":"RTFKT"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":[
@@ -1638,19 +1647,20 @@
             "collection":"https://opensea.io/collection/fluf",
             "title":"FLUF World"
          },
-         "twitter": [
-      {
-         "original":{
-            "username":"flufworld",
-            "title":"FLUF World"
-         },
-         "fake": [
-            "flufworld_",
-            "flufworld_v",
-            "flufworld_f",
-            "1_flufworld",
+         "twitter":[
+            {
+               "original":{
+                  "username":"flufworld",
+                  "title":"FLUF World"
+               },
+               "fake":[
+                  "flufworld_",
+                  "flufworld_v",
+                  "flufworld_f",
+                  "1_flufworld"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":[
@@ -1671,20 +1681,20 @@
             "collection":"https://opensea.io/collection/creatureworld",
             "title":"Creature World"
          },
-        "twitter": [
-          {
-             "original":{
-                "username":"creatureworld",
-                "title":"Creature World"
-             },
-             "fake": [
-              "1_creatureworld",
-              "creatureworld_s",
-              "creatureworld_c",
-              "_creatureworld_",
-             ]
-          }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"creatureworld",
+                  "title":"Creature World"
+               },
+               "fake":[
+                  "1_creatureworld",
+                  "creatureworld_s",
+                  "creatureworld_c",
+                  "_creatureworld_"
+               ]
+            }
+         ]
       },
       {
          "scams":null,
@@ -1694,18 +1704,19 @@
             "collection":"https://opensea.io/collection/phantabear",
             "title":"PhantaBear"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"EzekClub",
-            "title":"PhantaBear"
-         },
-         "fake":[
-            "shainz18",
-            "Chacha14103981",
-            "Melissa15841281"
+         "twitter":[
+            {
+               "original":{
+                  "username":"EzekClub",
+                  "title":"PhantaBear"
+               },
+               "fake":[
+                  "shainz18",
+                  "Chacha14103981",
+                  "Melissa15841281"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":null,
@@ -1715,14 +1726,15 @@
             "collection":"https://opensea.io/collection/3landers",
             "title":"3Landers"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"3landersNFT",
-            "title":"3Landers"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"3landersNFT",
+                  "title":"3Landers"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1732,17 +1744,18 @@
             "collection":"https://opensea.io/collection/cyberbrokers",
             "title":"CyberBrokers"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"CyberBrokers_",
-            "title":"CyberBrokers"
-         },
-         "fake":[
-            "CyberBrokerrs_",
-            "CyberBrokersWL"
+         "twitter":[
+            {
+               "original":{
+                  "username":"CyberBrokers_",
+                  "title":"CyberBrokers"
+               },
+               "fake":[
+                  "CyberBrokerrs_",
+                  "CyberBrokersWL"
+               ]
+            }
          ]
-      }]
       },
       {
          "scams":[
@@ -1756,18 +1769,17 @@
             "collection":"https://opensea.io/collection/cyberkongz-vx",
             "title":"CyberKongz VX"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"CyberKongz",
-            "title":"CyberKongz VX"
-         },
-         "fake": [
-             "CyberKoingz"
+         "twitter":[
+            {
+               "original":{
+                  "username":"CyberKongz",
+                  "title":"CyberKongz VX"
+               },
+               "fake":[
+                  "CyberKoingz"
+               ]
+            }
          ]
-      }
-        
-        ]
       },
       {
          "scams":null,
@@ -1777,15 +1789,14 @@
             "collection":"https://opensea.io/collection/cyberkongz-babies",
             "title":"CyberKongz (Babies)"
          },
-        
-        "twitter": [
-          {
-             "original":{
-                "username":"CyberKongz",
-                "title":"CyberKongz VX"
-             }
-          }
-        ]
+         "twitter":[
+            {
+               "original":{
+                  "username":"CyberKongz",
+                  "title":"CyberKongz VX"
+               }
+            }
+         ]
       },
       {
          "scams":null,
@@ -1795,14 +1806,15 @@
             "collection":"https://opensea.io/collection/lostpoets",
             "title":"LOSTPOETS"
          },
-        "twitter": [
-      {
-         "original":{
-            "username":"poetslost",
-            "title":"LOSTPOETS"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"poetslost",
+                  "title":"LOSTPOETS"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":[
@@ -1823,14 +1835,14 @@
             "collection":"https://opensea.io/collection/lazy-lions",
             "title":"Lazy Lions"
          },
-         "twitter": [
-         {
-            "original":{
-               "username":"LazyLionsNFT",
-               "title":"Lazy Lions"
-            },
-            "fake":null
-         }
+         "twitter":[
+            {
+               "original":{
+                  "username":"LazyLionsNFT",
+                  "title":"Lazy Lions"
+               },
+               "fake":null
+            }
          ]
       },
       {
@@ -1841,13 +1853,14 @@
             "collection":"https://opensea.io/collection/coolpetsnft",
             "title":"Cool Pets NFT"
          },
-         "twitter": [ {
-            "original":{
-               "username":"coolcatsnft",
-               "title":"Cool Cats"
-            },
-            "fake":null
-         }
+         "twitter":[
+            {
+               "original":{
+                  "username":"coolcatsnft",
+                  "title":"Cool Cats"
+               },
+               "fake":null
+            }
          ]
       },
       {
@@ -1858,14 +1871,15 @@
             "collection":"https://opensea.io/collection/primeapeplanetpap",
             "title":"Prime Ape Planet PAP"
          },
-         "twitter": [
-         {
-         "original":{
-            "username":"PrimeApePlanet",
-            "title":"Prime Ape Planet PAP"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"PrimeApePlanet",
+                  "title":"Prime Ape Planet PAP"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1875,14 +1889,15 @@
             "collection":"https://opensea.io/collection/kaiju-kingz",
             "title":"Kaiju Kingz"
          },
-         "twitter": [
-      {
-         "original":{
-            "username":"KaijuKingz",
-            "title":"Kaiju Kingz"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"KaijuKingz",
+                  "title":"Kaiju Kingz"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1892,14 +1907,15 @@
             "collection":"https://opensea.io/collection/the-doge-pound",
             "title":"The Doge Pound"
          },
-         "twitter": [
-      {
-         "original":{
-            "username":"TheDogePoundNFT",
-            "title":"The Doge Pound"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"TheDogePoundNFT",
+                  "title":"The Doge Pound"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":[
@@ -1920,14 +1936,15 @@
             "collection":"https://opensea.io/collection/deadfellaz",
             "title":"DeadFellaz"
          },
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"Deadfellaz",
                   "title":"DeadFellaz"
                },
                "fake":null
-            }]
+            }
+         ]
       },
       {
          "scams":null,
@@ -1937,14 +1954,15 @@
             "collection":"https://opensea.io/collection/genesis-creepz",
             "title":"Creepz Genesis"
          },
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"Overlord_xyz",
                   "title":"Creepz Genesis"
                },
                "fake":null
-            }]
+            }
+         ]
       },
       {
          "scams":null,
@@ -1954,13 +1972,15 @@
             "collection":"https://opensea.io/collection/world-of-women-galaxy",
             "title":"World of Women Galaxy"
          },
-         "twitter": [{
-         "original":{
-            "username":"worldofwomennft",
-            "title":"World of Women Galaxy"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"worldofwomennft",
+                  "title":"World of Women Galaxy"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1970,14 +1990,15 @@
             "collection":"https://opensea.io/collection/alienfrensnft",
             "title":"alien frens"
          },
-         "twitter": [
-         {
-            "original":{
-               "username":"alienfrens",
-               "title":"alien frens"
-            },
-            "fake":null
-         }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"alienfrens",
+                  "title":"alien frens"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -1987,14 +2008,15 @@
             "collection":"https://opensea.io/collection/veefriends-series-2",
             "title":"VeeFriends Series 2"
          },
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"veefriends",
                   "title":"VeeFriends"
                },
                "fake":null
-            }]
+            }
+         ]
       },
       {
          "scams":null,
@@ -2004,15 +2026,15 @@
             "collection":"https://opensea.io/collection/ringers-by-dmitri-cherniak",
             "title":"Ringers by Dmitri Cherniak"
          },
-         
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"dmitricherniak",
                   "title":"Dmitri Cherniak"
                },
                "fake":null
-            }]
+            }
+         ]
       },
       {
          "scams":null,
@@ -2022,14 +2044,15 @@
             "collection":"https://opensea.io/collection/axie",
             "title":"Axie Infinity"
          },
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"Jihoz_Axie",
                   "title":"Axie Infinity"
                },
                "fake":null
-            }]
+            }
+         ]
       },
       {
          "scams":null,
@@ -2039,13 +2062,15 @@
             "collection":"https://opensea.io/collection/mycryptoheroes",
             "title":"MyCryptoHeroes"
          },
-         "twitter": [ {
-         "original":{
-            "username":"mycryptoheroes_",
-            "title":"MyCryptoHeroes"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"mycryptoheroes_",
+                  "title":"MyCryptoHeroes"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2055,7 +2080,7 @@
             "collection":"https://opensea.io/collection/supernormalbyzipcy",
             "title":"Zipcy's SuperNormal"
          },
-         "twitter": [
+         "twitter":[
             {
                "original":{
                   "username":"zipcy8888",
@@ -2073,14 +2098,15 @@
             "collection":"https://opensea.io/collection/somnium-space",
             "title":"Somnium Space VR"
          },
-         "twitter": [
-      {
-         "original":{
-            "username":"SomniumSpace",
-            "title":"Somnium Space VR"
-         },
-         "fake":null
-      },]
+         "twitter":[
+            {
+               "original":{
+                  "username":"SomniumSpace",
+                  "title":"Somnium Space VR"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2090,15 +2116,15 @@
             "collection":"https://opensea.io/collection/cyberkongz",
             "title":"CyberKongz"
          },
-            "twitter": [
-         {
-            "original":{
-               "username":"CyberKongz",
-               "title":"CyberKongz"
-            },
-            "fake":null
-         }]
-         
+         "twitter":[
+            {
+               "original":{
+                  "username":"CyberKongz",
+                  "title":"CyberKongz"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2108,13 +2134,15 @@
             "collection":"https://opensea.io/collection/coolmans-universe",
             "title":"Coolman's Universe"
          },
-         "twitter": [ {
-         "original":{
-            "username":"CoolmanUniverse",
-            "title":"Coolman's Universe"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"CoolmanUniverse",
+                  "title":"Coolman's Universe"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2124,13 +2152,15 @@
             "collection":"https://opensea.io/collection/psychedelics-anonymous-genesis",
             "title":"Psychedelics Anonymous Genesis"
          },
-         "twitter": [ {
-         "original":{
-            "username":"psychedelic_nft",
-            "title":"Psychedelics Anonymous Genesis"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"psychedelic_nft",
+                  "title":"Psychedelics Anonymous Genesis"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2140,13 +2170,15 @@
             "collection":"https://opensea.io/collection/cryptovoxels",
             "title":"Voxels (formerly Cryptovoxels)"
          },
-         "twitter": [{
-         "original":{
-            "username":"cryptovoxels",
-            "title":"Voxels (formerly Cryptovoxels)"
-         },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"cryptovoxels",
+                  "title":"Voxels (formerly Cryptovoxels)"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2155,14 +2187,16 @@
             "address":"0xad9Fd7cB4fC7A0fBCE08d64068f60CbDE22Ed34C",
             "collection":"https://opensea.io/collection/collectvoxtownstar",
             "title":"VOX Collectibles"
-         }, 
-         "twitter": [  {
-         "original":{
-            "username":"gogalagames",
-            "title":"Gala Games - Spider Tanks is LIVE!"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"gogalagames",
+                  "title":"Gala Games - Spider Tanks is LIVE!"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2171,14 +2205,16 @@
             "address":"0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F",
             "collection":"https://opensea.io/collection/metroverse-genesis",
             "title":"Metroverse Genesis"
-         }, 
-         "twitter": [ {
-         "original":{
-            "username":"themetroverse",
-            "title":"Metroverse Genesis"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"themetroverse",
+                  "title":"Metroverse Genesis"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2187,15 +2223,16 @@
             "address":"0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51",
             "collection":"https://opensea.io/collection/worldwidewebbland",
             "title":"Worldwide Webb Land"
-         }, 
-         "twitter": [
-      {
-         "original":{
-            "username":"Worldwide_WEB3",
-            "title":"Worldwide Webb Land"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"Worldwide_WEB3",
+                  "title":"Worldwide Webb Land"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2204,15 +2241,16 @@
             "address":"",
             "collection":"https://opensea.io/collection/punks-comic",
             "title":"PUNKS Comic"
-         }, 
-         "twitter": [
-      {
-         "original":{
-            "username":"punkscomic",
-            "title":"PUNKS Comic"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"punkscomic",
+                  "title":"PUNKS Comic"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2221,15 +2259,16 @@
             "address":"0xfcB1315C4273954F74Cb16D5b663DBF479EEC62e",
             "collection":"https://opensea.io/collection/capsulehouse",
             "title":"Capsule House"
-         }, 
-         "twitter": [
-      {
-         "original":{
-            "username":"capsule_house",
-            "title":"Capsule House"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"capsule_house",
+                  "title":"Capsule House"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2238,14 +2277,16 @@
             "address":"0xc36cF0cFcb5d905B8B513860dB0CFE63F6Cf9F5c",
             "collection":"https://opensea.io/collection/town-star",
             "title":"Town Star"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"GoGalaGames",
-            "title":"Gala Games - Spider Tanks is LIVE!"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"GoGalaGames",
+                  "title":"Gala Games - Spider Tanks is LIVE!"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2254,14 +2295,16 @@
             "address":"0x3Fe1a4c1481c8351E91B64D5c398b159dE07cbc5",
             "collection":"https://opensea.io/collection/supducks",
             "title":"SupDucks"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"RealSupDucks",
-            "title":"SupDucks"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"RealSupDucks",
+                  "title":"SupDucks"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2270,14 +2313,16 @@
             "address":"0xEdB61f74B0d09B2558F1eeb79B247c1F363Ae452",
             "collection":"https://opensea.io/collection/guttercatgang",
             "title":"Gutter Cat Gang"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"GutterCatGang",
-            "title":"Gutter Cat Gang"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"GutterCatGang",
+                  "title":"Gutter Cat Gang"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2286,14 +2331,16 @@
             "address":"0xAf615B61448691fC3E4c61AE4F015d6e77b6CCa8",
             "collection":"https://opensea.io/collection/livesofasuna",
             "title":"Lives of Asuna"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"GutterCatGang",
-            "title":"Gutter Cat Gang"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"GutterCatGang",
+                  "title":"Gutter Cat Gang"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2302,14 +2349,16 @@
             "address":"0x219B8aB790dECC32444a6600971c7C3718252539",
             "collection":"https://opensea.io/collection/sneaky-vampire-syndicate",
             "title":"Sneaky Vampire Syndicate"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"SVSNFT",
-            "title":"Sneaky Vampire Syndicate"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"SVSNFT",
+                  "title":"Sneaky Vampire Syndicate"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2318,14 +2367,16 @@
             "address":"0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f",
             "collection":"https://opensea.io/collection/wolf-game",
             "title":"Wolf Game"
-         }, 
-         "twitter": [ {
-         "original":{
-            "username":"wolfdotgame",
-            "title":"Wolf Game"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"wolfdotgame",
+                  "title":"Wolf Game"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2334,14 +2385,16 @@
             "address":"0xaaDc2D4261199ce24A4B0a57370c4FCf43BB60aa",
             "collection":"https://opensea.io/collection/thecurrency",
             "title":"Damien Hirst - The Currency"
-         }, 
-         "twitter": [      {
-         "original":{
-            "username":"HENI",
-            "title":"Damien Hirst - The Currency"
          },
-         "fake":null
-      },]
+         "twitter":[
+            {
+               "original":{
+                  "username":"HENI",
+                  "title":"Damien Hirst - The Currency"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2350,14 +2403,16 @@
             "address":"0x7AB2352b1D2e185560494D5e577F9D3c238b78C5",
             "collection":"https://opensea.io/collection/adam-bomb-squad",
             "title":"Adam Bomb Squad"
-         }, 
-         "twitter": [      {
-         "original":{
-            "username":"HENI",
-            "title":"Damien Hirst - The Currency"
          },
-         "fake":null
-      },]
+         "twitter":[
+            {
+               "original":{
+                  "username":"HENI",
+                  "title":"Damien Hirst - The Currency"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2366,14 +2421,16 @@
             "address":"0xc1Caf0C19A8AC28c41Fe59bA6c754e4b9bd54dE9",
             "collection":"https://opensea.io/collection/cryptoskulls",
             "title":"CryptoSkulls"
-         }, 
-         "twitter": [ {
-         "original":{
-            "username":"Crypto_Skulls",
-            "title":"CryptoSkulls"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"Crypto_Skulls",
+                  "title":"CryptoSkulls"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2382,14 +2439,16 @@
             "address":"0x6bE69b2A9B153737887CfcdCa7781eD1511C7e36",
             "collection":"https://opensea.io/collection/killergf",
             "title":"Killer GF"
-         }, 
-         "twitter": [ {
-         "original":{
-            "username":"Crypto_Skulls",
-            "title":"CryptoSkulls"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"Crypto_Skulls",
+                  "title":"CryptoSkulls"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2398,14 +2457,16 @@
             "address":"0x4B61413D4392c806E6d0fF5Ee91E6073C21d6430",
             "collection":"https://opensea.io/collection/murixhaus",
             "title":"MURI by Haus"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"MuriNFT",
-            "title":"MURI by Haus"
          },
-         "fake":null
-      },]
+         "twitter":[
+            {
+               "original":{
+                  "username":"MuriNFT",
+                  "title":"MURI by Haus"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2414,14 +2475,16 @@
             "address":"0x36d30B3b85255473D27dd0F7fD8F35e36a9d6F06",
             "collection":"https://opensea.io/collection/888innercircle",
             "title":"888 inner circle"
-         }, 
-         "twitter": [  {
-         "original":{
-            "username":"crypto888crypto",
-            "title":"888 inner circle"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"crypto888crypto",
+                  "title":"888 inner circle"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2430,14 +2493,16 @@
             "address":"0x3110EF5f612208724CA51F5761A69081809F03B7",
             "collection":"https://opensea.io/collection/impostors-genesis-aliens",
             "title":"Impostors Genesis Aliens"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"PlayImpostors",
-            "title":"Impostors Genesis Aliens"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"PlayImpostors",
+                  "title":"Impostors Genesis Aliens"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2446,14 +2511,16 @@
             "address":"0x698FbAACA64944376e2CDC4CAD86eaa91362cF54",
             "collection":"https://opensea.io/collection/neotokyo-outer-identities",
             "title":"NeoTokyo Outer Identities"
-         }, 
-         "twitter": [ {
-         "original":{
-            "username":"NeoTokyoCode",
-            "title":"NeoTokyo Outer Identities"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"NeoTokyoCode",
+                  "title":"NeoTokyo Outer Identities"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2462,14 +2529,16 @@
             "address":"0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782",
             "collection":"https://opensea.io/collection/autoglyphs",
             "title":"Autoglyphs"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"larvalabs",
-            "title":"Larva Labs"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"larvalabs",
+                  "title":"Larva Labs"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2478,14 +2547,16 @@
             "address":"0x497a9A79e82e6fC0FF10a16f6F75e6fcd5aE65a8",
             "collection":"https://opensea.io/collection/ragnarok-meta",
             "title":"Ragnarok Meta"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"RagnarokMeta",
-            "title":"Ragnarok Meta"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"RagnarokMeta",
+                  "title":"Ragnarok Meta"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2494,14 +2565,16 @@
             "address":"0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D",
             "collection":"https://opensea.io/collection/official-v1-punks",
             "title":"CryptoPunks V1 (wrapped)"
-         }, 
-         "twitter": [{
-         "original":{
-            "username":"v1punks",
-            "title":"CryptoPunks V1 (wrapped)"
          },
-         "fake":null
-      }]
+         "twitter":[
+            {
+               "original":{
+                  "username":"v1punks",
+                  "title":"CryptoPunks V1 (wrapped)"
+               },
+               "fake":null
+            }
+         ]
       },
       {
          "scams":null,
@@ -2510,8 +2583,10 @@
             "address":"0x7E6Bc952d4b4bD814853301bEe48E99891424de0",
             "collection":"https://opensea.io/collection/jungle-freaks-genesis",
             "title":"JUNGLE FREAKS GENESIS"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2520,8 +2595,10 @@
             "address":"0x226Bf5293692610692E2C996C9875C914d2A7f73",
             "collection":"https://opensea.io/collection/oncyber-labs",
             "title":"oncyber labs"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2530,8 +2607,10 @@
             "address":"0x08D7C0242953446436F34b4C78Fe9da38c73668d",
             "collection":"https://opensea.io/collection/proof-collective",
             "title":"PROOF Collective"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2540,8 +2619,10 @@
             "address":"0xc3f733ca98E0daD0386979Eb96fb1722A1A05E69",
             "collection":"https://opensea.io/collection/acclimatedmooncats",
             "title":"MoonCats"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2559,8 +2640,10 @@
             "address":"",
             "collection":"https://opensea.io/collection/meridian-by-matt-deslauriers",
             "title":"Meridian by Matt DesLauriers"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2569,8 +2652,10 @@
             "address":"0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF",
             "collection":"https://opensea.io/collection/arcade-land",
             "title":"Arcade Land"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2579,8 +2664,10 @@
             "address":"0xEf0182dc0574cd5874494a120750FD222FdB909a",
             "collection":"https://opensea.io/collection/rumble-kong-league",
             "title":"Rumble Kong League"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
@@ -2589,8 +2676,10 @@
             "address":"0x12d2D1beD91c24f878F37E66bd829Ce7197e4d14",
             "collection":"https://opensea.io/collection/galacticapes",
             "title":"GalacticApes"
-         }, 
-         "twitter": []
+         },
+         "twitter":[
+            
+         ]
       },
       {
          "scams":null,
