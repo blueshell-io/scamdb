@@ -4081,7 +4081,7 @@
          "original":{
             "url":"https://tokyosaints.com/",
             "address":"",
-            "collection":"https://www.magiceden.io/marketplace/tokyo_saints",
+            "magiceden”:”https://www.magiceden.io/marketplace/tokyo_saints",
             "title":"Tokyo Saints"
          }
       },
@@ -4404,15 +4404,6 @@
             "address":"0x9F71E6A9bd29AdAEF6A8f2026c760c55A5Bb9a7E",
             "collection":"https://opensea.io/collection/kokoro-club-nft",
             "title":"Kokoro NFT Club"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"https://tokyosaints.com/",
-            "address":"",
-            "collection":"https://www.magiceden.io/marketplace/tokyo_saints",
-            "title":"Tokyo Saints"
          }
       },
       {
