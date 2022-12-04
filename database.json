@@ -1188,8 +1188,8 @@
          "scams":null,
          "original":{
             "url":"https://www.artblocks.io",
-            "address":"0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",
-            "collection":"",
+            "address":"0xCF00eC2B327BCfA2bee2D8A5Aee0A7671d08A283",
+            "collection":"https://opensea.io/collection/art-blocks",
             "title":"Art Blocks"
          },
          "twitter":[
@@ -9658,15 +9658,6 @@
             "address":"",
             "collection":"https://opensea.io/collection/lunar-sol",
             "title":"Lunar"
-         }
-      },
-      {
-         "scams":null,
-         "original":{
-            "url":"",
-            "address":"",
-            "collection":"https://opensea.io/collection/art-blocks",
-            "title":"Art Blocks"
          }
       },
       {
