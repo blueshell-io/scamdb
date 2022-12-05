@@ -3485,7 +3485,22 @@
                 "title": "Rare Apepe YC"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "RareApepeYC",
+                        "title": "Rare Apepes"
+                    },
+                    "fake": [
+                        "RareApeYC",
+                        "RereAppeGrlz",
+                        "RareApepeGrlzYC",
+                        "RareApepeGrlz",
+                        "Rare_Apepes_YC",
+                        "RareApepeYCGrlz"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -3610,7 +3625,12 @@
                 "title": "Based Ghouls"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "BASEDghouls",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3859,7 +3879,12 @@
                 "title": "uglyduck.wtf"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "Uglyduckwtf",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3897,7 +3922,12 @@
                 "title": "CrudeBorne Eggs"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "crudeborne",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3907,7 +3937,12 @@
                 "title": "Joker Charlie Club Genesis"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "JokerCharlieNFT",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3917,7 +3952,12 @@
                 "title": "wgmis"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "wgmis",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3957,7 +3997,15 @@
                 "title": "The GODA Mint Pass"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "TheGoda_io",
+                        "title": "Gallery Of Digital Assets ⚪️"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4481,7 +4529,22 @@
                 "title": "Lil Pudgys"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "pudgypenguins",
+                        "title": "Pudgy Penguins"
+                    },
+                    "fake": [
+                        "PudgyPenguns",
+                        "pudgypengiuns",
+                        "PudgyPenguins_",
+                        "PudgyPengins",
+                        "PudgyPegnuins",
+                        "pudgypenguin_"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -4491,7 +4554,15 @@
                 "title": "Nitro Token by PUMA"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "PUMA",
+                        "title": "PUMA.eth"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4501,7 +4572,15 @@
                 "title": "BEEBLE GENESIS"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Beeble_XYZ",
+                        "title": "My Beautiful Dark Twisted Fantasy"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4567,7 +4646,15 @@
                 "title": "Lost In The Devils Triangle"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "LITDT_NFT",
+                        "title": "Lost In The Devils Triangle (SOLD OUT)"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4595,7 +4682,15 @@
                 "title": "CryptoNinja Partners"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "CryptoNinja_NFT",
+                        "title": "Ninja DAO | CryptoNinja"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4615,7 +4710,15 @@
                 "title": "Suji Official"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Suji_nft",
+                        "title": "Sūji"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4653,7 +4756,15 @@
                 "title": "The MV3 Universe"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "mv3nft",
+                        "title": "MV3"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4663,7 +4774,15 @@
                 "title": "WZRDS"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "WZRDSxyz",
+                        "title": "WZRDS.xyz"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4673,7 +4792,15 @@
                 "title": "Kokoro NFT Club"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Kokoroheartclub",
+                        "title": "Kokoro"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4701,7 +4828,15 @@
                 "title": "Satoshiverse - The Apemo Army"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Satoshiverse_io",
+                        "title": "𝕋𝕙𝕖 𝕊𝕒𝕥𝕠𝕤𝕙𝕚𝕧𝕖𝕣𝕤𝕖"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4731,7 +4866,15 @@
                 "title": "RWO - Reptilian World Order Official"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "RWONFT",
+                        "title": "Reptilian World Order | MINTING NOW🦎"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4771,7 +4914,17 @@
                 "title": "Isekai Meta"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "IsekaiMeta",
+                        "title": "Isekai Meta"
+                    },
+                    "fake": [
+                        "lsekaiMeta"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -4847,7 +5000,15 @@
                 "title": "10KTF Combat Crates"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "10KTFshop",
+                        "title": "Wagmi-san"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4857,7 +5018,15 @@
                 "title": "Hellfire By BEEBLE"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Beeble_XYZ",
+                        "title": "My Beautiful Dark Twisted Fantasy"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4885,7 +5054,15 @@
                 "title": "OutSad Official"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "OutsadNFT",
+                        "title": "OutSadNFT｜SOLD OUT"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -4915,7 +5092,15 @@
                 "title": "Elemental by Fang Lijun"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "outland_art",
+                        "title": "Outland"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
