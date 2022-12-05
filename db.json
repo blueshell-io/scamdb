@@ -2750,7 +2750,19 @@
                 "title": "DeGods"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "DeGodsNFT",
+                        "title": "DeGods"
+                    },
+                    "fake": [
+                        "DeGod_NFT",
+                        "DeGodsNtf",
+                        "DeGodNFTs"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -3054,7 +3066,15 @@
                 "title": "Treeverse Plots"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "TheTreeverse",
+                        "title": "Treeverse Plots"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -3064,7 +3084,15 @@
                 "title": "Mirandus"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "GoGalaGames",
+                        "title": "Town Star"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -3300,7 +3328,15 @@
                 "title": "PREMINT Collector Pass - OFFICIAL"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "PREMINT_NFT",
+                        "title": "PREMINT Collector Pass - OFFICIAL"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -3392,7 +3428,12 @@
                 "title": "Koala Intelligence Agency"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "KoalaAgencyNFT",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3402,7 +3443,15 @@
                 "title": "Nina's Super Cool World"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "TheGoda_io",
+                        "title": "Gallery Of Digital Assets ⚪️"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -3421,7 +3470,12 @@
                     "url": "https://xn--petsand-whb.com/"
                 }
             ],
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "memeland",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3466,7 +3520,19 @@
                 "title": "DeGods"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "DeGodsNFT",
+                        "title": "DeGods"
+                    },
+                    "fake": [
+                        "DeGod_NFT",
+                        "DeGodsNtf",
+                        "DeGodNFTs"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -3476,7 +3542,15 @@
                 "title": "Worldwide Webb Land"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "Worldwide_WEB3",
+                        "title": "Worldwide Webb Land"
+                    },
+                    "fake": null
+                }
+            ]
         },
         {
             "original": {
@@ -3486,7 +3560,12 @@
                 "title": "Rags to Richie by Alec Monopoly"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "ragstorichienft",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3516,7 +3595,12 @@
                 "title": "Terraforms by Mathcastles"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "mathcastles",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3564,7 +3648,22 @@
                 "title": "Rare Apepe YC"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "original": {
+                        "username": "RareApepeYC",
+                        "title": "Rare Apepes"
+                    },
+                    "fake": [
+                        "RareApeYC",
+                        "RereAppeGrlz",
+                        "RareApepeGrlzYC",
+                        "RareApepeGrlz",
+                        "Rare_Apepes_YC",
+                        "RareApepeYCGrlz"
+                    ]
+                }
+            ]
         },
         {
             "original": {
@@ -3618,7 +3717,12 @@
                     "collection": ""
                 }
             ],
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "StickmenToys",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
@@ -3680,7 +3784,12 @@
                 "title": "8liens NFT"
             },
             "scams": null,
-            "twitter": []
+            "twitter": [
+                {
+                    "username": "8liensNFT",
+                    "title": ""
+                }
+            ]
         },
         {
             "original": {
