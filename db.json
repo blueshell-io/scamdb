@@ -777,6 +777,13 @@
                   "worldofwomannft",
                   "WorIdOfWomanNFT"
                ]
+            },
+            {
+               "original":{
+                  "username":"YKarkai",
+                  "title":"Yam"
+               },
+               "fake":null
             }
          ]
       },
@@ -2617,6 +2624,13 @@
                   "DeGodsNtf",
                   "DeGodNFTs"
                ]
+            },
+            {
+               "original":{
+                  "username":"frankdegods",
+                  "title":"Frankⓨ (33.3%)"
+               },
+               "fake":null
             }
          ]
       },
@@ -2711,6 +2725,24 @@
                "original":{
                   "username":"pixelvault_",
                   "title":"Pixel Vault"
+               },
+               "fake":null
+            }
+         ]
+      },
+      {
+         "original":{
+            "url":"https://inhabitantsuniverse.com/",
+            "address":"",
+            "collection":"",
+            "title":"Inhabitants Universe"
+         },
+         "scams":null,
+         "twitter":[
+            {
+               "original":{
+                  "username":"inhabitants_",
+                  "title":"Inhabitants Universe"
                },
                "fake":null
             }
@@ -13180,7 +13212,12 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://devinfinzer.com/",
+            "collection":"",
+            "address":"",
+            "title":"Devin Finzer"
+         },
          "scams":null,
          "twitter":[
             {
@@ -13209,7 +13246,12 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://pranksy.io/",
+            "collection":"",
+            "address":"",
+            "title":"Pransky"
+         },
          "scams":null,
          "twitter":[
             {
@@ -13224,7 +13266,12 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://openfren.com/",
+            "collection":"",
+            "address":"",
+            "title":"Openfren"
+         },
          "scams":null,
          "twitter":[
             {
@@ -13242,34 +13289,8 @@
          "twitter":[
             {
                "original":{
-                  "username":"parallelnft",
-                  "title":"Parallel Alpha"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
-                  "username":"MNLTH 🗿",
-                  "title":"CLONEXCORP"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
-                  "username":"Franklin has 61 apes",
-                  "title":"franklinisbored"
+                  "username":"franklinisbored",
+                  "title":"Franklin has 61 apes"
                },
                "fake":[
                   "newarkurt"
@@ -13278,7 +13299,12 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://emblem.finance/",
+            "title":"Emblem Vault",
+            "address":"",
+            "collection":""
+         },
          "scams":null,
          "twitter":[
             {
@@ -13291,33 +13317,30 @@
          ]
       },
       {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
-                  "username":"MetaHero_",
-                  "title":"MetaHero Universe: Generative Identities"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
+         "original":{
+            "url":"https://www.aku.world/",
+            "address":"",
+            "collection":"",
+            "title":"Aku World"
+         },
          "scams":null,
          "twitter":[
             {
                "original":{
                   "username":"AkuDreams",
-                  "title":"Akutars"
+                  "title":"Aku avatars"
                },
                "fake":null
             }
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://www.shibatoken.com/",
+            "address":"0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "collection":"",
+            "title":"Shiba Token"
+         },
          "scams":null,
          "twitter":[
             {
@@ -13335,34 +13358,8 @@
          "twitter":[
             {
                "original":{
-                  "username":"YKarkai",
-                  "title":"Yam"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
                   "username":"ShiLLin_ViLLian",
                   "title":"Alexander42.eth"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
-                  "username":"frankdegods",
-                  "title":"Frankⓨ (33.3%)"
                },
                "fake":null
             }
@@ -13439,19 +13436,6 @@
          "twitter":[
             {
                "original":{
-                  "username":"0x_fxnction",
-                  "title":"fxnction"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
                   "username":"MintOfTheDay",
                   "title":"Nic0 | MOTD"
                },
@@ -13486,13 +13470,32 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://www.gmers.io/",
+            "magiceden":"https://magiceden.io/marketplace/gmers",
+            "address":"",
+            "title":"GMers"
+         },
          "scams":null,
          "twitter":[
             {
                "original":{
                   "username":"Ace0fTrades",
                   "title":"Ace 🟠f Trades (33.3%) 👑🧃"
+               },
+               "fake":null
+            },
+            {
+               "original":{
+                  "username":"GMersNFT",
+                  "title":"GMers NFT"
+               },
+               "fake":null
+            },
+            {
+               "original":{
+                  "username":"GM_Labs",
+                  "title":"GM Labs ☀️"
                },
                "fake":null
             }
@@ -13504,8 +13507,8 @@
          "twitter":[
             {
                "original":{
-                  "username":"PuffYatty",
-                  "title":"Puff"
+                  "username":"PuffYachty",
+                  "title":"Puff Yachty"
                },
                "fake":null
             }
@@ -13590,7 +13593,10 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"nftgod.substack.com",
+            "address":""
+         },
          "scams":null,
          "twitter":[
             {
@@ -14700,19 +14706,6 @@
          "twitter":[
             {
                "original":{
-                  "username":"finndegods",
-                  "title":"F00NN (33.3%)"
-               },
-               "fake":null
-            }
-         ]
-      },
-      {
-         "original":null,
-         "scams":null,
-         "twitter":[
-            {
-               "original":{
                   "username":"UgurrERA",
                   "title":"Ugurr.eth"
                },
@@ -15395,7 +15388,12 @@
          ]
       },
       {
-         "original":null,
+         "original":{
+            "url":"https://www.rug.fm/",
+            "address":"",
+            "collection":"",
+            "title":"Rug Radio"
+         },
          "scams":null,
          "twitter":[
             {
