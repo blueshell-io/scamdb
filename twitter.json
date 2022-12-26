@@ -9,6 +9,15 @@
             "EthButer"
          ]
       }, 
+       {
+         "original":{
+            "username":"CurveFinance",
+            "title":"Curve Finance"
+         },
+         "fake":[
+            "CurveFinancial"
+         ]
+      }, 
       {
          "original":{
             "username":"artgobblers",
