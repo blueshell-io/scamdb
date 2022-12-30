@@ -105,6 +105,42 @@
             }
          ]
       },
+       {
+         "original":{
+            "url":"https://blockscan.com",
+            "address":"",
+            "collection":"",
+            "title":"BlockScan"
+         },
+         "scams":null,
+         "twitter":[
+            {
+               "original":{
+                  "username":"BlockscanHQ",
+                  "title":"BlockScanHQ"
+               },
+               "fake":null
+            }
+         ]
+      },
+       {
+         "original":{
+            "url":"https://magiceden.io/",
+            "address":"",
+            "collection":"",
+            "title":"Magic Eden"
+         },
+         "scams":null,
+         "twitter":[
+            {
+               "original":{
+                  "username":"MagicEden",
+                  "title":"Magic Eden"
+               },
+               "fake":null
+            }
+         ]
+      },
       {
          "original":{
             "url":"https://artgobblers.com/",
