@@ -1602,7 +1602,8 @@
                 "url": "https://fluf.world/",
                 "address": "0xCcc441ac31f02cD96C153DB6fd5Fe0a2F4e6A68d",
                 "collection": [
-                    "https://opensea.io/collection/fluf"
+                    "https://opensea.io/collection/fluf",
+                    "https://opensea.io/collection/fluf-world-burrows"
                 ],
                 "title": "FLUF World"
             },
@@ -15290,19 +15291,6 @@
             "twitter": [
                 {
                     "original": {
-                        "username": "opensea",
-                        "title": "OpenSea"
-                    },
-                    "fake": null
-                }
-            ],
-            "scams": null
-        },
-        {
-            "original": null,
-            "twitter": [
-                {
-                    "original": {
                         "username": "gemxyz",
                         "title": "gem.xyz"
                     },
@@ -16643,26 +16631,6 @@
                     "original": {
                         "username": "Based_Pleb",
                         "title": "Based_Pleb"
-                    },
-                    "fake": null
-                }
-            ],
-            "scams": []
-        },
-        {
-            "original": {
-                "url": "https://burrows.fluf.world",
-                "address": "0xf6cd7a935e3c339a68b7ccec1897284830af8ac7",
-                "collection": [
-                    "https://opensea.io/collection/fluf-world-burrows"
-                ],
-                "title": "FLUF World: Burrows"
-            },
-            "twitter": [
-                {
-                    "original": {
-                        "username": "flufworld",
-                        "title": "flufworld"
                     },
                     "fake": null
                 }
