@@ -944,7 +944,8 @@
             "address":"0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
             "collection":[
                "https://opensea.io/collection/pudgypenguins",
-               "https://opensea.io/collection/lilpudgys"
+               "https://opensea.io/collection/lilpudgys",
+               "https://opensea.io/collection/pudgyrods"
             ],
             "title":"Pudgy Penguins"
          },
@@ -1034,7 +1035,8 @@
                "https://opensea.io/collection/clonex-mintvial",
                "https://opensea.io/collection/clonex",
                "https://opensea.io/collection/rtfkt-mnlth",
-               "https://opensea.io/collection/clonexforging"
+               "https://opensea.io/collection/clonexforging",
+               "https://opensea.io/collection/rtfkt-animus-egg"
             ],
             "title":"CLONE X - X TAKASHI MURAKAMI"
          },
@@ -1180,7 +1182,8 @@
             "url":"https://www.artblocks.io",
             "address":"0xCF00eC2B327BCfA2bee2D8A5Aee0A7671d08A283",
             "collection":[
-               "https://opensea.io/collection/art-blocks"
+               "https://opensea.io/collection/art-blocks",
+               "https://opensea.io/collection/chromie-squiggle-by-snowfro"
             ],
             "title":"Art Blocks"
          },
@@ -15264,19 +15267,6 @@
          "twitter":[
             {
                "original":{
-                  "username":"keung",
-                  "title":"Keungz ❤️ Memeland 🏴‍☠️"
-               },
-               "fake":null
-            }
-         ],
-         "scams":null
-      },
-      {
-         "original":null,
-         "twitter":[
-            {
-               "original":{
                   "username":"Jaci_DAO",
                   "title":"Degen Goddess 👑"
                },
@@ -16007,19 +15997,6 @@
                "original":{
                   "username":"bywassies",
                   "title":"ByWassies"
-               },
-               "fake":null
-            }
-         ],
-         "scams":null
-      },
-      {
-         "original":null,
-         "twitter":[
-            {
-               "original":{
-                  "username":"killabearsnft",
-                  "title":"KILLABEARS🧸"
                },
                "fake":null
             }
@@ -17024,6 +17001,1035 @@
             }
          ],
          "scams":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://toys.0xtechno.art/",
+            "address":"0x8a09928a0623155f0554f42427e27b8ee88411fb",
+            "collection":[
+               "https://opensea.io/collection/toys-by-0xtechno"
+            ],
+            "title":"Toys by 0xTechno"
+         },
+         "twitter":{
+            "original":{
+               "username":"0xTechno",
+               "title":"0xTechno"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xcf00ec2b327bcfa2bee2d8a5aee0a7671d08a283",
+            "collection":[
+               "https://opensea.io/collection/friendship-bracelets-by-alexis-andre"
+            ],
+            "title":"Friendship Bracelets by Alexis André"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://savagenationnft.com",
+            "address":"0x01228f8ba53f0d94891c056d6651bf76bfcf8663",
+            "collection":[
+               "https://opensea.io/collection/savage-nation"
+            ],
+            "title":"Savage Nation"
+         },
+         "twitter":{
+            "original":{
+               "username":"savagenationnft",
+               "title":"savagenationnft"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.mutantdao.com/",
+            "address":"0xe117bbe206ed80adbd4ee0e999984dda7d769e01",
+            "collection":[
+               "https://opensea.io/collection/mutant-hound-collars"
+            ],
+            "title":"Mutant Hound Collars"
+         },
+         "twitter":{
+            "original":{
+               "username":"MutantHounds",
+               "title":"MutantHounds"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://killabears.com",
+            "address":"0x48cf2a4b8a74974beabf8db1f45f9123edc79c06",
+            "collection":[
+               "https://opensea.io/collection/killabears",
+               "https://opensea.io/collection/killabits"
+            ],
+            "title":"KILLABEARS"
+         },
+         "twitter":{
+            "original":{
+               "username":"killabearsnft",
+               "title":"killabearsnft"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://keungz.com",
+            "address":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f",
+            "collection":[
+               "https://opensea.io/collection/kubz"
+            ],
+            "title":"Kubz"
+         },
+         "twitter":{
+            "original":{
+               "username":"keung",
+               "title":"keung"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://steviep.xyz/fiefdoms",
+            "address":"0x47144372eb383466d18fc91db9cd0396aa6c87a4",
+            "collection":[
+               "https://opensea.io/collection/fiefdoms"
+            ],
+            "title":"Fiefdoms"
+         },
+         "twitter":{
+            "original":{
+               "username":"steviepxyz",
+               "title":"steviepxyz"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xb931dba8509afbb8304b9826bdeaadba2816924c",
+            "collection":[
+               "https://opensea.io/collection/cnp-charm-official"
+            ],
+            "title":"CNP Charm Official"
+         },
+         "twitter":{
+            "original":{
+               "username":"CNP_Charm",
+               "title":"CNP_Charm"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x9874c93a82e2abb5bbaa3ad76bf45328a9d4e226",
+            "collection":[
+               "https://opensea.io/collection/end-of-sartoshi"
+            ],
+            "title":"end of sartoshi"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://joinvalhalla.com",
+            "address":"0xff59b4b3d52728f78020414c720164a17c08f499",
+            "collection":[
+               "https://opensea.io/collection/valhalla"
+            ],
+            "title":"Valhalla"
+         },
+         "twitter":{
+            "original":{
+               "username":"valhalla",
+               "title":"valhalla"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x3cd378c9b1cb5f147ebf1b2c2564118946ae4ba1",
+            "collection":[
+               "https://opensea.io/collection/circle-of-frens"
+            ],
+            "title":"Circle of Frens by Chikai"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x6ce9f49239e8adaf5bda1154262a3a054fad9db3",
+            "collection":[
+               "https://opensea.io/collection/unidentified-contract-78gtzi3wpm"
+            ],
+            "title":"Evil In Colour Editions"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.juuni.xyz/",
+            "address":"0x6faea455ea5309259cdfb076caaf779488ddf8de",
+            "collection":[
+               "https://opensea.io/collection/juuni-grimoire",
+               "https://opensea.io/collection/juuni-zodia"
+            ],
+            "title":"JUUNI Grimoire"
+         },
+         "twitter":{
+            "original":{
+               "username":"JUUNI_Official",
+               "title":"JUUNI_Official"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://codex.lootgpt.com/",
+            "address":"0x265e613ca526f58ad82fbaa5ed26f78e3b54b40e",
+            "collection":[
+               "https://opensea.io/collection/lootgpt"
+            ],
+            "title":"LootGPT (for Degenerates)"
+         },
+         "twitter":{
+            "original":{
+               "username":"LootGPTnft",
+               "title":"LootGPTnft"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.thecryptopainter.com/",
+            "address":"0x195fce941ae0c972b8dc814d2059537b67f14038",
+            "collection":[
+               "https://opensea.io/collection/drunk-santa-s-presents-cryptopainter"
+            ],
+            "title":"DRUNK SANTA's PRESENTS  - cryptopainter"
+         },
+         "twitter":{
+            "original":{
+               "username":"painter_crypto",
+               "title":"painter_crypto"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xe4b77842e0d992f6358f0742f8c2cbe955b8839e",
+            "collection":[
+               "https://opensea.io/collection/living-on-the-internet"
+            ],
+            "title":"Living on the Internet"
+         },
+         "twitter":{
+            "original":{
+               "username":"BitBoyJay",
+               "title":"BitBoyJay"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://llac.fun/community/",
+            "address":"0xa6eeddcd3a1a3cad0d0192ac50630afb2e75a112",
+            "collection":[
+               "https://opensea.io/collection/live-like-a-cat-nekonoyouniikiru"
+            ],
+            "title":"Live Like A Cat -neko no youni ikiru-"
+         },
+         "twitter":{
+            "original":{
+               "username":"shupeiman",
+               "title":"shupeiman"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.dendekaden.com/",
+            "address":"0x1bdf03744d3e5041f123524da4119e42a5f2763c",
+            "collection":[
+               "https://opensea.io/collection/dendekaden"
+            ],
+            "title":"DenDekaDen Genesis Omikuji"
+         },
+         "twitter":{
+            "original":{
+               "username":"DenDekaDen",
+               "title":"DenDekaDen"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.oldeus.com/",
+            "address":"0xf4b5ab431b1f002b6f67e930522a07bd1ca46ff2",
+            "collection":[
+               "https://opensea.io/collection/oldeus-origins"
+            ],
+            "title":"Oldeus: Origins"
+         },
+         "twitter":{
+            "original":{
+               "username":"OldeusOfficial",
+               "title":"OldeusOfficial"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://ethgobblers.com",
+            "address":"0xb031159ca0a4b3841e3278b5361639860262d512",
+            "collection":[
+               "https://opensea.io/collection/eth-gobblers"
+            ],
+            "title":"ETH GOBBLERS"
+         },
+         "twitter":{
+            "original":{
+               "username":"omakaseadev",
+               "title":"omakaseadev"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://crashblossom.co/burner/",
+            "address":"0x65c7432e6662a96f4e999603991d5e929e57f60a",
+            "collection":[
+               "https://opensea.io/collection/burnerbycrashblossom"
+            ],
+            "title":"BURNER by crashblossom"
+         },
+         "twitter":{
+            "original":{
+               "username":"crashblossom1",
+               "title":"crashblossom1"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://degenz.finance",
+            "address":"0x593fb9d088202c7ac2b8d777e9229cad23b2ac02",
+            "collection":[
+               "https://opensea.io/collection/tabz"
+            ],
+            "title":"TABZ NFT"
+         },
+         "twitter":{
+            "original":{
+               "username":"TABZ_NFT",
+               "title":"TABZ_NFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://kurenai.tech/",
+            "address":"0x646a431394efda5bb0601882a978695be402b295",
+            "collection":[
+               "https://opensea.io/collection/kurenai-hoozuki-"
+            ],
+            "title":"KURENAI -HOOZUKI-"
+         },
+         "twitter":{
+            "original":{
+               "username":"BigHatMonkeys",
+               "title":"BigHatMonkeys"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x32f8398cf62dc0646db0a3ca9a6ed7dd35acc2e6",
+            "collection":[
+               "https://opensea.io/collection/helpmedebugthis"
+            ],
+            "title":"HelpMeDebugThis"
+         },
+         "twitter":{
+            "original":{
+               "username":"HelpMeDebugThis",
+               "title":"HelpMeDebugThis"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://www.nfa.gg/",
+            "address":"0x987270bde0db9b9e280360c0c0025afdcce1a856",
+            "collection":[
+               "https://opensea.io/collection/nfarcade-pass"
+            ],
+            "title":"NFArcade Pass"
+         },
+         "twitter":{
+            "original":{
+               "username":"NFArcade",
+               "title":"NFArcade"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://thorfi.io",
+            "address":"0x0f20a0eee0bcc5104645e6040d4eae7fe3c50497",
+            "collection":[
+               "https://opensea.io/collection/origin-odin"
+            ],
+            "title":"Origin Odin"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x073d67c28d909a18555a4a860df3f309ba5472c7",
+            "collection":[
+               "https://opensea.io/collection/yugal-editions"
+            ],
+            "title":"Yugal Editions"
+         },
+         "twitter":{
+            "original":{
+               "username":"yvgal",
+               "title":"yvgal"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://collecttrumpcards.com",
+            "address":"0x348494c4370721acc4ec394baa03bc3043ad7dcf",
+            "collection":[
+               "https://opensea.io/collection/trump-digital-trading-cards"
+            ],
+            "title":"Trump Digital Trading Cards"
+         },
+         "twitter":{
+            "original":{
+               "username":"CollectTrump",
+               "title":"CollectTrump"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://6529.io",
+            "address":"0x4b76837f8d8ad0a28590d06e53dcd44b6b7d4554",
+            "collection":[
+               "https://opensea.io/collection/6529-gradient",
+               "https://opensea.io/collection/thememes6529"
+            ],
+            "title":"6529 Gradient"
+         },
+         "twitter":{
+            "original":{
+               "username":"6529er",
+               "title":"6529er"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://kekverse.io/",
+            "address":"0x1d2df18f8d2b1877ceb452851cba9d91512a9efb",
+            "collection":[
+               "https://opensea.io/collection/kekversebybasedpleb"
+            ],
+            "title":"Kekverse by Based Pleb"
+         },
+         "twitter":{
+            "original":{
+               "username":"Based_Pleb",
+               "title":"Based_Pleb"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://burrows.fluf.world",
+            "address":"0xf6cd7a935e3c339a68b7ccec1897284830af8ac7",
+            "collection":[
+               "https://opensea.io/collection/fluf-world-burrows"
+            ],
+            "title":"FLUF World: Burrows"
+         },
+         "twitter":{
+            "original":{
+               "username":"flufworld",
+               "title":"flufworld"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://chainzoku.io/",
+            "address":"0xd74d5780b921d2fb2b0f4ba0d9c6be21bd6b328a",
+            "collection":[
+               "https://opensea.io/collection/gimmetheloot"
+            ],
+            "title":"Gimme the Loot! by ChainZoku"
+         },
+         "twitter":{
+            "original":{
+               "username":"chainzoku",
+               "title":"chainzoku"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://lccb.kaikaikiki.com/",
+            "address":"0xf50fbf46fd6ec8609c1219bbabf00539836f1a34",
+            "collection":[
+               "https://opensea.io/collection/murakami-flowers-coin"
+            ],
+            "title":"Murakami.Flowers Coin"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x6480f9d52f325b6872e1140513ad914db9ef2b08",
+            "collection":[
+               "https://opensea.io/collection/panksnotded"
+            ],
+            "title":"PANKSNOTDED"
+         },
+         "twitter":{
+            "original":{
+               "username":"irmanhilmi1",
+               "title":"irmanhilmi1"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://ghostbuddy.xyz/",
+            "address":"0x3e064c0c72d66a1592b1ec7da24fe7cff9089be0",
+            "collection":[
+               "https://opensea.io/collection/ghost-buddy"
+            ],
+            "title":"Ghost Buddy Official"
+         },
+         "twitter":{
+            "original":{
+               "username":"GhostBuddyNFT",
+               "title":"GhostBuddyNFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://oath.mutantdao.com/",
+            "address":"0x0cf36ddc7a5b1c4c94a463cd44ce884abe0a21fd",
+            "collection":[
+               "https://opensea.io/collection/genesis-oath"
+            ],
+            "title":"Genesis Oath"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://yaypegs.com",
+            "address":"0x9c82303ce0bda427d3ae13d7ffff59e2a49a82ad",
+            "collection":[
+               "https://opensea.io/collection/yaypegs"
+            ],
+            "title":"Yaypegs"
+         },
+         "twitter":{
+            "original":{
+               "username":"yaypegs",
+               "title":"yaypegs"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xab08e962290b182b24d940e8bcea29dd8427b315",
+            "collection":[
+               "https://opensea.io/collection/fortune-bunnies"
+            ],
+            "title":"Fortune Bunnies"
+         },
+         "twitter":{
+            "original":{
+               "username":"Fortune_Bunnies",
+               "title":"Fortune_Bunnies"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://murakamiflowers.kaikaikiki.com",
+            "address":"0xf50fbf46fd6ec8609c1219bbabf00539836f1a34",
+            "collection":[
+               "https://opensea.io/collection/murakami-lucky-cat-coin-bank"
+            ],
+            "title":"Murakami Lucky Cat Coin Bank"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x0dd622c9d6af06e2bac643f85cd9c27cc2b44d78",
+            "collection":[
+               "https://opensea.io/collection/the-successes"
+            ],
+            "title":"The Successes"
+         },
+         "twitter":{
+            "original":{
+               "username":"the_successes",
+               "title":"the_successes"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://cockpunch.com",
+            "address":"0xc72615fea68599df5be546cc8e94c8aa43945dc5",
+            "collection":[
+               "https://opensea.io/collection/cockpunch"
+            ],
+            "title":"The Legend of CØCKPUNCH™"
+         },
+         "twitter":{
+            "original":{
+               "username":"cockpunch",
+               "title":"cockpunch"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://passengers.space/",
+            "address":"0x0ff1f05f6405df77b7bb9edeee227c0c8fc51ed3",
+            "collection":[
+               "https://opensea.io/collection/passengersnftofficial"
+            ],
+            "title":"PassengersNft Official"
+         },
+         "twitter":{
+            "original":{
+               "username":"Passengers_NFT",
+               "title":"Passengers_NFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://nft.aopanda.ainy-llc.com/site/",
+            "address":"0x5298d64d870b8b5a809a3f5edf3395a13851f852",
+            "collection":[
+               "https://opensea.io/collection/aopanda-party"
+            ],
+            "title":"Aopanda Party"
+         },
+         "twitter":{
+            "original":{
+               "username":"APP_PANDAO_NFT",
+               "title":"APP_PANDAO_NFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xa22e90dbdecb077e05f72bdcc2ee143a17045ef4",
+            "collection":[
+               "https://opensea.io/collection/worldoforion"
+            ],
+            "title":"World of Orion"
+         },
+         "twitter":{
+            "original":{
+               "username":"OrionNFT_",
+               "title":"OrionNFT_"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://oncyber.io/noblegallery",
+            "address":"0x1fd8df37b360d7366db649703014e637ee214f4a",
+            "collection":[
+               "https://opensea.io/collection/noble-gallery"
+            ],
+            "title":"Noble Gallery"
+         },
+         "twitter":{
+            "original":{
+               "username":"Artifaction2",
+               "title":"Artifaction2"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xc72f40a397453051349f73cf2e2a04fac06e37a3",
+            "collection":[
+               "https://opensea.io/collection/editionsxguido"
+            ],
+            "title":"Editions x Guido"
+         },
+         "twitter":{
+            "original":{
+               "username":"GuidoDisalle",
+               "title":"GuidoDisalle"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://chubbiverse.com",
+            "address":"0x662682289e9c9699d4156c7176a64723fade1fbf",
+            "collection":[
+               "https://opensea.io/collection/chubbicorns"
+            ],
+            "title":"Chubbicorns"
+         },
+         "twitter":{
+            "original":{
+               "username":"chubbiverse",
+               "title":"chubbiverse"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0x9b5883fed09f8dce3e92c20d8e99788e8848b3e0",
+            "collection":[
+               "https://opensea.io/collection/400-grumpus-by-rex"
+            ],
+            "title":"400 Grumpus by Rex"
+         },
+         "twitter":{
+            "original":{
+               "username":"grumpusrexnft",
+               "title":"grumpusrexnft"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://seeder.mutant.garden/",
+            "address":"0xaf2ce0962d1a4b1aab10f7faa62bbbca40a8ea53",
+            "collection":[
+               "https://opensea.io/collection/mutant-garden-seeder"
+            ],
+            "title":"Mutant Garden Seeder"
+         },
+         "twitter":{
+            "original":{
+               "username":"MutantGardenBot",
+               "title":"MutantGardenBot"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://miladymaker.net",
+            "address":"0x00859b3baac525143bb8a3ee3e19ddf9daf2408c",
+            "collection":[
+               "https://opensea.io/collection/milady"
+            ],
+            "title":"Milady Maker"
+         },
+         "twitter":null
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://twitfi.com/",
+            "address":"0x2340accae6c964059e0ffcf9e2bb4fca9cfde653",
+            "collection":[
+               "https://opensea.io/collection/twitfi-official"
+            ],
+            "title":"TwitFi Official"
+         },
+         "twitter":{
+            "original":{
+               "username":"TwitFi_official",
+               "title":"TwitFi_official"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"https://spaceriders.xyz",
+            "address":"0xd3d95ecbc251b6ce668a2abe88bb8821de9f6b91",
+            "collection":[
+               "https://opensea.io/collection/spaceridersnft"
+            ],
+            "title":"Space Riders NFT"
+         },
+         "twitter":{
+            "original":{
+               "username":"SpaceRiders_NFT",
+               "title":"SpaceRiders_NFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":"http://moonrunners.io",
+            "address":"0x556ef85398e60e053955a74365773ae06b1a8e1c",
+            "collection":[
+               "https://opensea.io/collection/moonrunnersnft"
+            ],
+            "title":"Moonrunners Official"
+         },
+         "twitter":{
+            "original":{
+               "username":"MoonrunnersNFT",
+               "title":"MoonrunnersNFT"
+            },
+            "fake":null
+         }
+      },
+      {
+         "scams":[
+            
+         ],
+         "original":{
+            "url":null,
+            "address":"0xb1f629cb1b6841e5ac98aa5b1cffab1b6c88d8b7",
+            "collection":[
+               "https://opensea.io/collection/ghxsts"
+            ],
+            "title":"Ghxsts"
+         },
+         "twitter":{
+            "original":{
+               "username":"Ghxsts",
+               "title":"Ghxsts"
+            },
+            "fake":null
+         }
       }
    ]
 }
