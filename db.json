@@ -1281,20 +1281,6 @@
        },
        {
           "original":{
-             "url":"https://murakamiflowers.kaikaikiki.com/",
-             "address":"0x341A1c534248966c4b6AFaD165B98DAED4B964ef",
-             "collection":[
-                "https://opensea.io/collection/murakami-flowers-seed"
-             ],
-             "title":"Murakami.Flowers Seed"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://ens.domains/",
              "address":"0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
              "collection":[
@@ -2832,13 +2818,13 @@
              "url":"https://murakamiflowers.kaikaikiki.com/",
              "address":"0x7D8820FA92EB1584636f4F5b8515B5476B75171a",
              "collection":[
-                "https://opensea.io/collection/murakami-flowers-2022-official"
+                "https://opensea.io/collection/murakami-flowers-seed",
+                "https://opensea.io/collection/murakami-flowers-2022-official",
+                "https://opensea.io/collection/murakami-lucky-cat-coin-bank"
              ],
              "title":"Murakami.Flowers Official"
           },
-          "twitter":[
-             
-          ],
+          "twitter": null,
           "scams":null
        },
        {
@@ -2850,9 +2836,7 @@
              ],
              "title":"tubby cats"
           },
-          "twitter":[
-             
-          ],
+          "twitter": null,
           "scams":null
        },
        {
@@ -3912,6 +3896,13 @@
              "title":"OpenSea"
           },
           "twitter":[
+              {
+                  "original": {
+                      "username": "opensea",
+                      "title": "OpenSea"
+                  },
+                  "fake": null
+              }
              
           ],
           "scams":null
@@ -4471,18 +4462,6 @@
        },
        {
           "original":{
-             "url":"https://keeperdao.com/",
-             "address":"",
-             "collection":"",
-             "title":"KeeperDAO"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://kyber.network/",
              "address":"",
              "collection":"",
@@ -4597,16 +4576,23 @@
              "title":"Strike"
           },
           "twitter":[
+              {
+                  "original" : {
+                      "username": "StrikeFinance",
+                      "title": "Strike Finance"
+                  },
+                  "fake": null
+              }
              
           ],
           "scams":null
        },
        {
           "original":{
-             "url":"https://crypto.com/defi/swap",
+             "url":"https://crypto.com",
              "address":"",
              "collection":"",
-             "title":"DeFi Swap"
+             "title":"Crypto.com"
           },
           "twitter":[
              
@@ -4752,20 +4738,6 @@
                 },
                 "fake":null
              }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"http://monumentvalley.xyz/",
-             "address":"0xeC80aE853AFdFF5984583a9682B10A003f57688F",
-             "collection":[
-                "https://opensea.io/collection/waaliai"
-             ],
-             "title":"We Are All Living In An Illusion"
-          },
-          "twitter":[
-             
           ],
           "scams":null
        },
@@ -5663,20 +5635,6 @@
        },
        {
           "original":{
-             "url":"http://moonwolf.wtf/",
-             "address":"0xDff9729bf226A96DF433Cb70d00f4Bf2B1c9Bf57",
-             "collection":[
-                "https://opensea.io/collection/moonwolfgenesis"
-             ],
-             "title":"Moon Wolf Genesis"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://jarritos.com/nft/",
              "address":"0xD97c7C5c30FEba950790D3A6F72d98509499112c",
              "collection":[
@@ -5985,20 +5943,6 @@
        },
        {
           "original":{
-             "url":"https://www.marmottan.fr/en/",
-             "address":"0x72B481E23Ab8657FD2E72516916C8E4457E2167D",
-             "collection":[
-                "https://opensea.io/collection/monetgallery"
-             ],
-             "title":"Monet Web3 Gallery"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"",
              "address":"0x6661c87764AdF7FffA3c7922FA6EDFa2fd62cCfC",
              "collection":[
@@ -6084,23 +6028,6 @@
                    "title":"CubeX"
                 },
                 "fake":null
-             }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"http://lonelydemons.io/",
-             "address":"0xbaCCA6670fa54628861Cc7c9245855B40B967811",
-             "collection":[
-                "https://opensea.io/collection/lonely-demons-nft"
-             ],
-             "title":"Lonely Demons NFT"
-          },
-          "twitter":[
-             {
-                "username":"LonelyGodsClub",
-                "title":""
              }
           ],
           "scams":null
@@ -6460,37 +6387,6 @@
        },
        {
           "original":{
-             "url":"http://www.danceofdeath.xyz/",
-             "address":"0x97b7299B380119626059ABD6F06a6394a37efA47",
-             "collection":[
-                "https://opensea.io/collection/dancedeath"
-             ],
-             "title":"Dance Death"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://wafukunft.io/",
-             "address":"0x04B392Cc6cDa280C41e6fD637359F6D7F3ECbc30",
-             "collection":[
-                "https://opensea.io/collection/wafukugen"
-             ],
-             "title":"WAFUKU GEN"
-          },
-          "twitter":[
-             {
-                "username":"wafukulove",
-                "title":""
-             }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"http://lonelydemons.io/",
              "address":"0xbaCCA6670fa54628861Cc7c9245855B40B967811",
              "collection":[
@@ -6514,18 +6410,6 @@
                 "https://opensea.io/collection/blocksmith-labs"
              ],
              "title":"Blocksmith Labs"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://opensea.io/",
-             "address":"",
-             "collection":"",
-             "title":"OPENSEA"
           },
           "twitter":[
              
@@ -6576,24 +6460,6 @@
                 "original":{
                    "username":"superrare",
                    "title":"SuperRare"
-                },
-                "fake":null
-             }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://magiceden.io/",
-             "address":"",
-             "collection":"",
-             "title":"Magic Eden"
-          },
-          "twitter":[
-             {
-                "original":{
-                   "username":"MagicEden",
-                   "title":"Magic Eden 🪄"
                 },
                 "fake":null
              }
@@ -6654,18 +6520,6 @@
                    "RaribleAsk"
                 ]
              }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://www.rug.fm/",
-             "address":"",
-             "collection":"",
-             "title":"Rug Radio"
-          },
-          "twitter":[
-             
           ],
           "scams":null
        },
@@ -6819,7 +6673,7 @@
        },
        {
           "original":{
-             "url":"http://sukilearnstofly.com/",
+             "url":"https://phoenixes.habitnest.com/",
              "address":"0x29d7ebca656665c1a52a92f830e413e394db6b4f",
              "collection":[
                 "https://opensea.io/collection/the-phoenixes"
@@ -7089,7 +6943,7 @@
        },
        {
           "original":{
-             "url":"http://bestfriendnft.com/",
+             "url":"",
              "address":"0x06F192D8B7B07C58443Fd2f60A03EBdE58654643",
              "collection":[
                 "https://opensea.io/collection/whoisenzo1"
@@ -7330,34 +7184,6 @@
                 "https://opensea.io/collection/acid-monkeys-solana"
              ],
              "title":"Acid Monkeys"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"http://mathcastles.xyz/",
-             "address":"0x4e1f41613c9084fdb9e34e11fae9412427480e56",
-             "collection":[
-                "https://opensea.io/collection/terraforms"
-             ],
-             "title":"Terraforms by Mathcastles"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://www.duckpunkz.com/",
-             "address":"",
-             "collection":[
-                "https://opensea.io/collection/duck-punkz-universe-solana"
-             ],
-             "title":"Duck Punkz Universe"
           },
           "twitter":[
              
@@ -7834,7 +7660,7 @@
        },
        {
           "original":{
-             "url":"http://ssdefenders.io/",
+             "url":"https://www.origonft.com/",
              "address":"",
              "collection":[
                 "https://opensea.io/collection/origogenesis"
@@ -8029,18 +7855,6 @@
        },
        {
           "original":{
-             "url":"https://jadu.ar/avas",
-             "address":"",
-             "collection":"",
-             "title":"Jadu AVAs"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://www.deepblu.io/",
              "address":"",
              "collection":"",
@@ -8158,20 +7972,6 @@
                 },
                 "fake":null
              }
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://jadu.ar/",
-             "address":"0xa9ba1a433ec326bca975aef9a1641b42717197e7",
-             "collection":[
-                "Gangster All Star Evolution"
-             ],
-             "title":"Jadu AVA"
-          },
-          "twitter":[
-             
           ],
           "scams":null
        },
@@ -8853,18 +8653,6 @@
        },
        {
           "original":{
-             "url":"https://indexcoop.com/",
-             "address":"",
-             "collection":"",
-             "title":"INDEX COOPERATIVe"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://www.ribbon.finance/",
              "address":"",
              "collection":"",
@@ -8925,34 +8713,10 @@
        },
        {
           "original":{
-             "url":"https://crypto.com/defi/swap",
-             "address":"",
-             "collection":"",
-             "title":"Defi swap"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
              "url":"https://rhino.fi/",
              "address":"",
              "collection":"",
              "title":"Deversifi"
-          },
-          "twitter":[
-             
-          ],
-          "scams":null
-       },
-       {
-          "original":{
-             "url":"https://strike.org/",
-             "address":"",
-             "collection":"",
-             "title":"Strike"
           },
           "twitter":[
              
@@ -13678,8 +13442,11 @@
           },
           "twitter":[
              {
-                "username":"LofiLoftsNFT",
-                "title":""
+                 "original": {
+                    "username":"LofiLoftsNFT",
+                    "title":""
+                 },
+                 "fake": null
              }
           ],
           "scams":null
@@ -13694,7 +13461,13 @@
              "title":"Shibuya Scramble Punks -SSP-"
           },
           "twitter":[
-             
+            {
+                "original": {
+                   "username":"s_s_punks",
+                   "title":"Shibuya Scramble Punks"
+                },
+                "fake": null
+            }
           ],
           "scams":null
        },
@@ -13741,7 +13514,7 @@
           "twitter":[
              {
                 "username":"itsdevbear",
-                "title":""
+                "title":"Dev Bear"
              }
           ],
           "scams":null
@@ -17683,20 +17456,6 @@
              },
              "fake":null
           }
-       },
-       {
-          "scams":[
-             
-          ],
-          "original":{
-             "url":"https://murakamiflowers.kaikaikiki.com",
-             "address":"0xf50fbf46fd6ec8609c1219bbabf00539836f1a34",
-             "collection":[
-                "https://opensea.io/collection/murakami-lucky-cat-coin-bank"
-             ],
-             "title":"Murakami Lucky Cat Coin Bank"
-          },
-          "twitter":null
        },
        {
           "scams":[
