@@ -125,6 +125,58 @@
          ],
          "scams":null
       },
+        {
+         "original":{
+            "url":"https://socialbees.io/",
+            "address":"",
+            "collection":"",
+            "title":"Social Bees"
+         },
+         "twitter":[
+            {
+               "original":{
+                  "username":"Crypto_Swarm",
+                  "title":"Social Bees"
+               },
+               "fake":null
+            }
+         ],
+         "scams":null
+      },{
+         "original":{
+            "url":"https://bees.social/",
+            "address":"",
+            "collection":"",
+            "title":"Social Bees"
+         },
+         "twitter":[
+            {
+               "original":{
+                  "username":"Crypto_Swarm",
+                  "title":"Social Bees"
+               },
+               "fake":null
+            }
+         ],
+         "sca
+        {
+         "original":{
+            "url":"https://magiceden.io/",
+            "address":"",
+            "collection":"",
+            "title":"Magic Eden"
+         },
+         "twitter":[
+            {
+               "original":{
+                  "username":"socialbees.io",
+                  "title":"Social Bees"
+               },
+               "fake":null
+            }
+         ],
+         "scams":null
+      },
       {
          "original":{
             "url":"https://magiceden.io/",
