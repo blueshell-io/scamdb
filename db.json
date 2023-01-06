@@ -125,7 +125,7 @@
          ],
          "scams":null
       },
-        {
+      {
          "original":{
             "url":"https://socialbees.io/",
             "address":"",
@@ -142,7 +142,8 @@
             }
          ],
          "scams":null
-      },{
+      },
+      {
          "original":{
             "url":"https://bees.social/",
             "address":"",
@@ -158,18 +159,19 @@
                "fake":null
             }
          ],
-         "sca
-        {
+         "scam":null
+      },
+      {
          "original":{
-            "url":"https://magiceden.io/",
+            "url":"https://socialbees.io",
             "address":"",
             "collection":"",
-            "title":"Magic Eden"
+            "title":"Social Bees"
          },
          "twitter":[
             {
                "original":{
-                  "username":"socialbees.io",
+                  "username":"Crypto_Swarm",
                   "title":"Social Bees"
                },
                "fake":null
@@ -702,7 +704,7 @@
                "url":"https://thedoodles.claims",
                "address":"0xF0907d197D4D7f02E012CdaA375a5b0a0F1c9e81",
                "collection":""
-            }, 
+            },
             {
                "url":"https://dooplicatornft.xyz/",
                "address":"",
