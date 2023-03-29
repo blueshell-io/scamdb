@@ -230,6 +230,29 @@
                "collection":""
             }
          ]
+      },{
+         "original":{
+            "url":"https://arbitrum.io",
+            "address":"0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+            "collection": null,
+            "title":"Arbitrum"
+         },
+         "twitter":[
+            {
+               "original":{
+                  "username":"arbitrum",
+                  "title":"Arbitrum"
+               },
+               "fake":[
+                  "Arbitrum_pro"
+               ]
+            }
+         ],
+         "scams":[
+            {
+               "url":"https://arbitrumcrypt.live/"
+            }
+         ]
       },
       {
          "original":{
