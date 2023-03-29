@@ -4165,17 +4165,28 @@
       },
       {
          "original":{
-            "url":"https://uniswap.io/",
+            "url":"https://uniswap.org/",
             "address":"",
             "collection":"",
             "title":"Uniswap"
          },
          "twitter":[
-            
+            {
+               "original":{
+                  "username":"Uniswap",
+                  "title":"Uniswap Labs"
+               },
+               "fake":[
+                  "settlsygemy"
+               ]
+            }
          ],
          "scams":[
             {
                "url":"app.unl5wap.org"
+            },
+            {
+               "url": "https://uni-drops.xyz/"
             }
          ]
       },
@@ -8631,18 +8642,6 @@
             "address":"",
             "collection":"",
             "title":"Curve"
-         },
-         "twitter":[
-            
-         ],
-         "scams":null
-      },
-      {
-         "original":{
-            "url":"https://uniswap.org/",
-            "address":"",
-            "collection":"",
-            "title":"Uniswap protocol"
          },
          "twitter":[
             
