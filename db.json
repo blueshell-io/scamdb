@@ -13716,13 +13716,19 @@
                   "title":"Optimism (✨🔴_🔴✨)"
                },
                "fake":[
-                  "optimismsFND"
+                  "optimismsFND",
+                  "OptimiismFNDx"
                ]
             }
          ],
          "scams":[
             {
                "url":"https://optimismfnd.bar",
+               "address":"",
+               "collection":""
+            },
+            {
+               "url":"https://optimismairdrops.net/",
                "address":"",
                "collection":""
             }
