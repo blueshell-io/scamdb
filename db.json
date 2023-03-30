@@ -3902,27 +3902,27 @@
       },
       {
          "original":{
-            "url":"https://blueshell.io",
-            "address":"",
-            "collection":"",
-            "title":"BlueShell"
-         },
-         "twitter":[
-            
-         ],
-         "scams":null
-      },
-      {
-         "original":{
             "url":"https://makerdao.com/",
             "address":"",
             "collection":"",
-            "title":"Maker"
+            "title":"Maker DAO"
          },
-         "twitter":[
-            
+        "twitter":[
+            {
+               "original":{
+                  "username":"MakerDAO",
+                  "title":"MakerDAO"
+               },
+               "fake":[
+                  "MakerFND"
+               ]
+            }
          ],
-         "scams":null
+         "scams": [
+            {
+               "url": "https://drops-dai.com/"
+            }
+         ]
       },
       {
          "original":{
