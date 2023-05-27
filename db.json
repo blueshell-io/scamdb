@@ -230,11 +230,12 @@
                "collection":""
             }
          ]
-      },{
+      },
+      {
          "original":{
             "url":"https://arbitrum.io",
             "address":"0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-            "collection": null,
+            "collection":null,
             "title":"Arbitrum"
          },
          "twitter":[
@@ -3910,7 +3911,7 @@
             "collection":"",
             "title":"Maker DAO"
          },
-        "twitter":[
+         "twitter":[
             {
                "original":{
                   "username":"MakerDAO",
@@ -3921,9 +3922,9 @@
                ]
             }
          ],
-         "scams": [
+         "scams":[
             {
-               "url": "https://drops-dai.com/"
+               "url":"https://drops-dai.com/"
             }
          ]
       },
@@ -4212,7 +4213,7 @@
                "url":"app.unl5wap.org"
             },
             {
-               "url": "https://uni-drops.xyz/"
+               "url":"https://uni-drops.xyz/"
             }
          ]
       },
@@ -4235,16 +4236,18 @@
             "collection":"",
             "title":"Curve"
          },
-          "scams": [
-               {
-                  "url": "https://crv-dao.fi/"
-               }
-            ],
+         "scams":[
+            {
+               "url":"https://crv-dao.fi/"
+            }
+         ],
          "twitter":[
-            "original": "CurveFinance",
-            "fake": ["curvesflnance"]
-          
-            
+            {
+               "original":"CurveFinance",
+               "fake":[
+                  "curvesflnance"
+               ]
+            }
          ],
          "scams":null
       },
