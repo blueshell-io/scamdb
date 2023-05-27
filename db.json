@@ -4235,6 +4235,11 @@
             "collection":"",
             "title":"Curve"
          },
+          "scams": [
+               {
+                  "url": "https://crv-dao.fi/"
+               }
+            ],
          "twitter":[
             "original": "CurveFinance",
             "fake": ["curvesflnance"]
